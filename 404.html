@@ -1,0 +1,7 @@
+<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>دليل الزلفي</title></head><body><a href="/open/">دليل الزلفي</a>
+<script>
+// روابط قصيرة: /b/ID للمحل، /f/ID للشخصية، /l/ID للمعلم → صفحة الفتح
+var m=location.pathname.match(/^\/(b|f|l)\/([^\/?#]+)/);
+var k={b:'business',f:'figure',l:'landmark'};
+location.replace('/open/?to='+encodeURIComponent(m?'/'+k[m[1]]+'/'+m[2]:'/directory'));
+</script></body></html>
