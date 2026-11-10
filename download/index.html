@@ -63,5 +63,10 @@ p.sub{margin-top:3vh;font-weight:700;font-size:clamp(19px,5vw,26px);line-height:
 // من يفتح الصفحة من جوال أندرويد يرى زر أندرويد أولاً، وغيره يرى آب ستور أولاً
 if(/android/i.test(navigator.userAgent)){var s=document.getElementById('stores');s.insertBefore(document.getElementById('android'),s.firstChild)}
 </script>
+<script>
+// عدّاد زيارات الصفحة لمشرف الدليل: معرّف عشوائي يحفظه المتصفح ليُعرف أن الشخص زار أكثر من مرة (بلا اسم ولا بيانات شخصية)
+(function(){var id='';try{id=localStorage.getItem('zv')||'';if(!id){id=(window.crypto&&crypto.randomUUID?crypto.randomUUID():String(Math.random()).slice(2)+Date.now()).replace(/[^A-Za-z0-9_-]/g,'').slice(0,40);localStorage.setItem('zv',id)}}catch(e){}
+try{fetch('https://up.azyz.site/visit',{method:'POST',mode:'cors',keepalive:true,headers:{'Content-Type':'text/plain'},body:'download:'+id}).catch(function(){})}catch(e){}})();
+</script>
 </body>
 </html>

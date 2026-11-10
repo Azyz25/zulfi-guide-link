@@ -9,4 +9,9 @@ var to=new URLSearchParams(location.search).get('to')||'/directory';
 var app='zulfiguide:/'+(to.charAt(0)==='/'?to:'/'+to);
 document.getElementById('open').href=app;
 setTimeout(function(){location.href=app},300);
-</script></body></html>
+</script><script>
+// عدّاد زيارات الصفحة لمشرف الدليل: معرّف عشوائي يحفظه المتصفح ليُعرف أن الشخص زار أكثر من مرة (بلا اسم ولا بيانات شخصية)
+(function(){var id='';try{id=localStorage.getItem('zv')||'';if(!id){id=(window.crypto&&crypto.randomUUID?crypto.randomUUID():String(Math.random()).slice(2)+Date.now()).replace(/[^A-Za-z0-9_-]/g,'').slice(0,40);localStorage.setItem('zv',id)}}catch(e){}
+try{fetch('https://up.azyz.site/visit',{method:'POST',mode:'cors',keepalive:true,headers:{'Content-Type':'text/plain'},body:'open:'+id}).catch(function(){})}catch(e){}})();
+</script>
+</body></html>
