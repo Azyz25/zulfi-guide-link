@@ -1,0 +1,2035 @@
+# دليل الزلفي (Zulfi Guide) - نسخة موسعة
+
+دليل الزلفي تطبيق مجاني لآيفون وأندرويد لدليل محافظة الزلفي في منطقة الرياض بالمملكة العربية السعودية. الموقع: https://zulfi.azyz.site
+
+## أسئلة وأجوبة
+### ما هو دليل الزلفي؟
+دليل الزلفي تطبيق مجاني لأهل محافظة الزلفي وزوارها، يجمع أكثر من 1900 محل وخدمة بأرقامها ومواقعها وساعات دوامها وعروضها، مع معالم الزلفي وستوري الأهالي وأسئلتهم، في تطبيق واحد لآيفون وأندرويد.
+
+### هل تطبيق دليل الزلفي مجاني؟
+نعم، تحميل التطبيق وتصفح الدليل مجانيان، ويمكنك تصفحه بدون إنشاء حساب. التسجيل مطلوب فقط عند النشر أو التقييم أو التعليق.
+
+### على أي أجهزة يتوفر؟
+يتوفر على آيفون من آب ستور وعلى أندرويد من قوقل بلاي. ابحث عن «دليل الزلفي» أو استخدم الأزرار في أعلى هذه الصفحة.
+
+### كيف أجد رقم محل أو موقعه في الزلفي؟
+افتح التطبيق أو صفحة التصنيف هنا (مطاعم، مقاهي وحلويات، بقالات وأسواق، صيدليات وغيرها)، وابحث باسم المحل. في صفحة كل محل رقم الاتصال وزر الواتساب والموقع على الخريطة وساعات الدوام.
+
+### كيف أضيف محلي أو أستلم صفحته؟
+محلك على الأغلب موجود في الدليل أصلاً. اطلب استلامه من التطبيق (المزيد ثم «استلام محلي»)، وبعد التحقق تصير تديره: العروض والقائمة وإحصاءات الزوار والرد على التقييمات. يمكنك إدارته من التطبيق أو من لوحة التاجر على هذا الموقع.
+
+### ما الأقسام الموجودة في الدليل؟
+مطاعم ومقاهي ومخابز وبقالات وصيدليات وعيادات وخدمات سيارات وصحة وجمال ومحلات تسوق وإقامة وقاعات احتفالات ومقاولات وغيرها (21 تصنيفاً)، وكلها مفتوحة للبحث في الموقع والتطبيق.
+
+### هل يعمل الدليل بدون إنترنت؟
+بعد أول تحميل يحتفظ التطبيق ببيانات الدليل على جهازك فيمكنك تصفحها حتى مع ضعف الاتصال.
+
+### من يقف خلف دليل الزلفي؟
+دليل الزلفي مشروع محلي مستقل لخدمة أهل الزلفي. بيانات المحلات مصدرها الخرائط العامة وما يضيفه أصحاب المحلات بأنفسهم، وأي صفحة يمكن لصاحبها استلامها وتصحيحها.
+
+## التصنيفات وعدد المحلات
+- مطاعم: 171 محل (https://zulfi.azyz.site/directory/food/)
+- مقاهي وحلويات: 123 محل (https://zulfi.azyz.site/directory/cafe/)
+- بقالات وأسواق: 158 محل (https://zulfi.azyz.site/directory/grocery/)
+- صيدليات: 23 محل (https://zulfi.azyz.site/directory/pharmacy/)
+- عيادات ومستوصفات: 40 محل (https://zulfi.azyz.site/directory/health/)
+- خدمات سيارات: 268 محل (https://zulfi.azyz.site/directory/auto/)
+- صحة وجمال: 88 محل (https://zulfi.azyz.site/directory/beauty/)
+- بنوك وخدمات مالية: 30 محل (https://zulfi.azyz.site/directory/finance/)
+- ملابس وتسوق: 271 محل (https://zulfi.azyz.site/directory/shopping/)
+- إقامة وفنادق: 147 محل (https://zulfi.azyz.site/directory/stay/)
+- خدمات عامة: 162 محل (https://zulfi.azyz.site/directory/services/)
+- أندية ورياضة: 12 محل (https://zulfi.azyz.site/directory/sports/)
+- قاعات احتفالات: 32 محل (https://zulfi.azyz.site/directory/halls/)
+- مقاولات وصيانة: 109 محل (https://zulfi.azyz.site/directory/contracting/)
+- مغاسل وخياطة: 96 محل (https://zulfi.azyz.site/directory/laundry/)
+- مخابز وحلويات: 67 محل (https://zulfi.azyz.site/directory/bakery/)
+- تعليم وتدريب: 19 محل (https://zulfi.azyz.site/directory/education/)
+- مزارع ومشاتل ومواشي: 27 محل (https://zulfi.azyz.site/directory/farms/)
+- عقارات ومكاتب: 9 محل (https://zulfi.azyz.site/directory/realestate/)
+- تصوير وطباعة وهدايا: 29 محل (https://zulfi.azyz.site/directory/photo/)
+- نقليات: 19 محل (https://zulfi.azyz.site/directory/transport/)
+
+## معالم الزلفي
+- قرية زهلولة: منطقة رملية من نفود الثويرات، وهي الأقرب للمدينة بين معالم الرمال. (https://zulfi.azyz.site/landmark/lm_a992470fbff5/)
+- الدريسية: موقع طبيعي مفتوح فيه أشجار، وتتكوّن فيه بحيرة في موسم الأمطار. (https://zulfi.azyz.site/landmark/lm_cbbc929fbd75/)
+- قرية قصيباء: نفود رملي ذهبي هادئ، أقل زحاماً من نفود الثويرات. (https://zulfi.azyz.site/landmark/lm_b138f86aa546/)
+- مركز البعيثة: قرية بعيدة وسط رمال الثويرات، فيها مسجد قديم. (https://zulfi.azyz.site/landmark/lm_d9e091359080/)
+- قرية منيزلة: قرية أثرية فيها قصر قديم. (https://zulfi.azyz.site/landmark/lm_0e479a1d92dd/)
+- قرية الجوي: قرية قديمة فيها آثار ومبانٍ تاريخية. (https://zulfi.azyz.site/landmark/lm_674b25d4501d/)
+- قرية ام الشيح: قرية بعيدة هادئة تحيط بها مزارع متناثرة. (https://zulfi.azyz.site/landmark/lm_1fccc57f9b34/)
+- محمية ربيع الزلفي: محمية طبيعية يزداد تنوعها النباتي في الربيع بعد الأمطار. (https://zulfi.azyz.site/landmark/lm_e8f7211fe722/)
+- حديقة عريعرة: متنزه بتنسيق جميل ومسطحات خضراء، هادئ للعوائل. (https://zulfi.azyz.site/landmark/lm_018a5c5452bd/)
+- حديقة طويق - الزيتونة-: حديقة بمسطحات خضراء وإطلالة على جبل طويق. (https://zulfi.azyz.site/landmark/lm_87914586f80d/)
+- مربط الثمايل: مربط خيل فيه تدريب على ركوب الخيل بإشراف مختصين، وأجواؤه هادئة. (https://zulfi.azyz.site/landmark/lm_f35f52de87ac/)
+- نهاية الطريق: نقطة ينتهي عندها الطريق المسفلت فجأة وتبدأ بعدها رمال الثويرات. (https://zulfi.azyz.site/landmark/lm_b1033fcd169d/)
+- بيت العارضي التراثي: بيت يحاكي الحياة الاجتماعية القديمة في الزلفي بطراز نجدي. (https://zulfi.azyz.site/landmark/lm_0cf9ac195749/)
+- متحف العيد للعلوم والآثار: متحف فيه آلاف القطع من الأحافير والكائنات المنقرضة والمقتنيات الأثرية. (https://zulfi.azyz.site/landmark/lm_0ae1fac4c7d8/)
+- متحف الجوير التراثي: متحف خاص في قرية علقة بتصميم نجدي يعرض تفاصيل الحياة القديمة. (https://zulfi.azyz.site/landmark/lm_0be6ac507bc4/)
+- متحف فهد المطير التراثي: متحف فيه مقتنيات تراثية نادرة وسيارات كلاسيكية. (https://zulfi.azyz.site/landmark/lm_93c8975d5937/)
+- منتجع جريبيعة: منتجع يُعرف ببيت البيئيين، على ضفاف وادي سمنان. (https://zulfi.azyz.site/landmark/lm_bd2e337fa4cd/)
+- منتجع الياسمين: منتجع للعوائل بمسطحات خضراء، وهو من أقرب المنتجعات لمركز الزلفي. (https://zulfi.azyz.site/landmark/lm_02f1ddb3b864/)
+- منتجع العضيبية: منتجع خاص وسط الرمال، فيه بحيرة داخلية ومسطحات خضراء. (https://zulfi.azyz.site/landmark/lm_5cfaf83e2ada/)
+- قرية السيح التراثية: قرية طينية قريبة من المدينة، تعرض نمط الحياة القديم في الزلفي. (https://zulfi.azyz.site/landmark/g_77e3e3cc6813a5/)
+- منتجع الضويحي الريفي: منتجع هادئ بساحات خضراء واسعة وخصوصية تامة للعوائل. (https://zulfi.azyz.site/landmark/lm_a406eec8fccb/)
+- متحف الضويحي: متحف خاص فيه أكثر من 11 ألف قطعة أثرية ومقتنى نادر عن تاريخ المنطقة. (https://zulfi.azyz.site/landmark/lm_07de4b3d1edc/)
+- المطل الغربي المرش الأخضر: مرتفع رملي غرب الزلفي يطل على المحافظة، ومعروف بمنظر الغروب. (https://zulfi.azyz.site/landmark/g_ff9714961b86c9/)
+- قرية علقة التراثية: بيوت طينية رُمّمت بعناية، وتعطي صورة عن الحياة النجدية القديمة. (https://zulfi.azyz.site/landmark/lm_468dfed75cc7/)
+- بحيرة الكسر: بحيرة موسمية تتكوّن من ماء الأمطار بين ديسمبر وفبراير في منخفض طبيعي. (https://zulfi.azyz.site/landmark/lm_0c04fc9e46ee/)
+- وادي مرخ: من أكبر أودية منطقة الرياض، طوله 56 كم وينتهي عند روضة السبلة. (https://zulfi.azyz.site/landmark/lm_c1d321abce89/)
+- مركز سمنان: بلدة تراثية أسفل سد وادي سمنان، تمتلئ خلف السد في موسم الأمطار. (https://zulfi.azyz.site/landmark/lm_4aacb3032eec/)
+- قرية منسية: قرية داخل نفود الثويرات تحيط بها الكثبان، تناسب التصوير والرحلات القصيرة. (https://zulfi.azyz.site/landmark/lm_d5b919641b5b/)
+- المطل الشرقي: مرتفع طبيعي مساحته 700 ألف م²، يطل على مدينة الزلفي كاملة. (https://zulfi.azyz.site/landmark/g_1c05dff277555f/)
+- قرية العقلة التراثية: قرية بيوتها من الطين ومسجدها قديم، جنوب الزلفي. (https://zulfi.azyz.site/landmark/lm_242a2e5ae51f/)
+- قصر سعود: قصر بناه الإمام سعود بن عبدالعزيز في عهد الدولة السعودية الأولى. (https://zulfi.azyz.site/landmark/lm_e3cf7ce9f267/)
+- قلتة علقة: موقع طبيعي شمال الزلفي، يظهر على أجمل حال بعد الأمطار. (https://zulfi.azyz.site/landmark/lm_0c87d47697eb/)
+- عريعرة: بلدة قديمة أسفل سد وادي عريعرة، وتُفتح الشلالات من السد وقت الأمطار. (https://zulfi.azyz.site/landmark/lm_76bfddac8a8a/)
+- هيئة التراث بالزلفي: مبنى طيني بالطراز النجدي القديم يعود لعام 1360هـ، قريب جداً من مركز المحافظة. (https://zulfi.azyz.site/landmark/lm_735bb77e8b80/)
+- المنسف: قرية قديمة وسط رمال الثويرات، فيها مسجد تاريخي بُني عام 1290هـ ورُمّم مؤخراً. (https://zulfi.azyz.site/landmark/lm_3dcf4c3a4e9b/)
+- مركز الثويرات: كثبان رملية ذهبية شمال غرب الزلفي، تناسب التخييم والتصوير والرحلات البرية. (https://zulfi.azyz.site/landmark/lm_ebe91ef478d3/)
+- عين جزرة: نبع يخرج من بين الحجارة عند التقاء جبل طويق برمال الثويرات، والموقع يعود للعصر الجاهلي. (https://zulfi.azyz.site/landmark/lm_5e00b0a2f739/)
+- روضة السبلة: مرج أخضر يظهر بعد الأمطار، وفيه أكثر من 150 نوعاً من النباتات البرية. (https://zulfi.azyz.site/landmark/lm_719e1b3f80b8/)
+
+## المحلات بحسب التصنيف (الاسم، ثم صفحة المحل)
+
+### مطاعم
+- 3b تريبل بي — https://zulfi.azyz.site/shop/g_7ef6502ffaaea7/
+- آر بي بيتزا — https://zulfi.azyz.site/shop/g_d890b826dddfcf/
+- احلى مشكل — https://zulfi.azyz.site/shop/g_33423a923a6c40/
+- إس بي إس إل دي إس — https://zulfi.azyz.site/shop/gm_aed5bf83a4790c/
+- الريحان الأخضر | GREEN BASIL — https://zulfi.azyz.site/shop/g_b9ac09230a553f/
+- الغدير السوري ابو احمد — https://zulfi.azyz.site/shop/gm_962e1a78ab2a59/
+- انقي المحاصيل — https://zulfi.azyz.site/shop/g_b1932b8a248d72/
+- بخاري الكرم — https://zulfi.azyz.site/shop/gm_ffcc860e631805/
+- برانش — https://zulfi.azyz.site/shop/g_7b1ec3bae201d8/
+- برجر فور يو — https://zulfi.azyz.site/shop/g_5c6e3c34c9e099/
+- برجر ميلا — https://zulfi.azyz.site/shop/g_3433f2392c0736/
+- برجر هجور — https://zulfi.azyz.site/shop/g_204f5fd1a9ea38/
+- برغرايزر | Burgerizer — https://zulfi.azyz.site/shop/g_cf49a85f4460d3/
+- برقر ميك تو — https://zulfi.azyz.site/shop/g_706686b3a4472a/
+- بروستد أوشيانا — https://zulfi.azyz.site/shop/gm_5dba542623db1f/
+- بوفية الصاج النجدي — https://zulfi.azyz.site/shop/gm_1dab5d0d14920e/
+- بوفية المطل للوجبات السريعة — https://zulfi.azyz.site/shop/gm_beedee3a6408a2/
+- بوفية المطل للوجبات السريعة 2 — https://zulfi.azyz.site/shop/gm_2a98f28ab6e76a/
+- بوفية تراث صنعاء — https://zulfi.azyz.site/shop/gm_6a92fda1841814/
+- بوفية نادل — https://zulfi.azyz.site/shop/gm_c788e2cb11dd13/
+- بوفيه أرض عدن للأكلات الشعبية. — https://zulfi.azyz.site/shop/g_8ecae32b13f248/
+- بوفيه الجوال — https://zulfi.azyz.site/shop/gm_a9dda6e6848281/
+- بوفيه الديرة — https://zulfi.azyz.site/shop/gm_3850fe984c0ae0/
+- بوفيه دوار السنابل — https://zulfi.azyz.site/shop/gm_54a1fc2524c382/
+- بوفيهات النادل — https://zulfi.azyz.site/shop/g_b2ec5c48bc7cf6/
+- بيت الخفايف — https://zulfi.azyz.site/shop/g_4d75a9c76aba39/
+- بيت الفلافل الشامية — https://zulfi.azyz.site/shop/gm_35a9797e073fc3/
+- بيتزا ارينا — https://zulfi.azyz.site/shop/g_a1c901aef7ecfc/
+- بيتزا الرغيف الذهبي — https://zulfi.azyz.site/shop/g_72036e251babed/
+- بيتزا اليوم — https://zulfi.azyz.site/shop/g_3943bfc1bcd3a6/
+- بيتزا اليوم — https://zulfi.azyz.site/shop/g_bc1d4ad8b40947/
+- بيتزا اليوم التحلية — https://zulfi.azyz.site/shop/g_05ad208eacf5f6/
+- بيتزا باستيلا — https://zulfi.azyz.site/shop/g_e994fc3328998a/
+- بيتزا ماكسيم — https://zulfi.azyz.site/shop/g_ea8f613701b385/
+- بيتزا هت — https://zulfi.azyz.site/shop/g_cd578d3a3cf193/
+- بيسك بيتزا — https://zulfi.azyz.site/shop/g_5703351f1a54fb/
+- تسالي خدوش — https://zulfi.azyz.site/shop/gm_87f13a1bfe201d/
+- تسالي صحصوح للوجبات السريعه الزلفي — https://zulfi.azyz.site/shop/gm_febbc2d372ab51/
+- تسالي على السريع — https://zulfi.azyz.site/shop/gm_56568684396342/
+- تسالي مجيب — https://zulfi.azyz.site/shop/gm_b23ee930568c78/
+- تسالي مرتب — https://zulfi.azyz.site/shop/gm_b71a9d185c4b72/
+- تشكن دل — https://zulfi.azyz.site/shop/g_1e73243b1c79c8/
+- تكا اتش فرع الزلفي — https://zulfi.azyz.site/shop/gm_cfdb0388b85feb/
+- توب تشكن — https://zulfi.azyz.site/shop/g_e486028bfd8afd/
+- ثمار الموسم. فطائر وأكثر … — https://zulfi.azyz.site/shop/g_cf7cf1b25d5df6/
+- جبنة وريحان — https://zulfi.azyz.site/shop/g_e534a94ef59e9b/
+- جَزور — https://zulfi.azyz.site/shop/g_854747473df5d3/
+- حارة الشاورما والفطائر — https://zulfi.azyz.site/shop/g_c790a13755b0f7/
+- حطبطب — https://zulfi.azyz.site/shop/g_1599d4d1d7c120/
+- حكاية لقمة hekayt logma — https://zulfi.azyz.site/shop/g_4a3fce47be0cb2/
+- خطة ألف | PLAN A — https://zulfi.azyz.site/shop/g_e5c481a5806c25/
+- دار الأذواق — https://zulfi.azyz.site/shop/gm_43b61cfea93956/
+- دوّار السّعادة — https://zulfi.azyz.site/shop/gm_47c25d9aa0ba72/
+- دوم ون — https://zulfi.azyz.site/shop/gm_b77502bcdc5637/
+- دومينوز بيتزا — https://zulfi.azyz.site/shop/g_0e2efe69595d37/
+- ديزرتو برجر — https://zulfi.azyz.site/shop/g_5a539f99a1d5a3/
+- ذرة واكثر — https://zulfi.azyz.site/shop/gm_c2c408a3b1be30/
+- رُحُب — https://zulfi.azyz.site/shop/g_b0f44824462e7d/
+- روافي الشام — https://zulfi.azyz.site/shop/g_b45e3fd7bdf88b/
+- سكة واحد Rail one l — https://zulfi.azyz.site/shop/g_133ff842412825/
+- سماء البرجر — https://zulfi.azyz.site/shop/g_7192ee177aa57c/
+- سماش لاب برجر - Smash Lab Burger — https://zulfi.azyz.site/shop/g_a782c6fc9a0a8f/
+- سوشي ترف — https://zulfi.azyz.site/shop/g_65dd213e94d369/
+- سيخ الخير — https://zulfi.azyz.site/shop/gm_4c9fd08bbdf182/
+- سيخ مركوز — https://zulfi.azyz.site/shop/g_98f9502c29f40b/
+- شاهي فطورپاکستانی ریسٹورنٹ — https://zulfi.azyz.site/shop/gm_818b96f1a84068/
+- شاورما رستم — https://zulfi.azyz.site/shop/gm_a742f0759ff833/
+- شاورما لوفرز — https://zulfi.azyz.site/shop/gm_30cf4625a791cb/
+- شاورما ميدان البيك — https://zulfi.azyz.site/shop/g_337d1a7fe02378/
+- شطيرة صبوح — https://zulfi.azyz.site/shop/g_2d70c685e32ee5/
+- شوايه وكاتم — https://zulfi.azyz.site/shop/g_e3663857e7a214/
+- شي شاورما — https://zulfi.azyz.site/shop/g_407492221e2a67/
+- شيف المشاوي — https://zulfi.azyz.site/shop/g_0a5e4f82884453/
+- صاج وكباب — https://zulfi.azyz.site/shop/g_1a230d57daf51b/
+- صيادية وسمك — https://zulfi.azyz.site/shop/gm_469e3e1b3cc657/
+- طعمية العمدة — https://zulfi.azyz.site/shop/gm_a7cae38708cd98/
+- طوب وقدر — https://zulfi.azyz.site/shop/g_c6c2cbd034023a/
+- فرن رواف Rawaf Bakery — https://zulfi.azyz.site/shop/g_d971e406ff305b/
+- فرن وفلافل — https://zulfi.azyz.site/shop/gm_fcb2f1ec70654c/
+- فريرا فرايز بيتزا وبرقر — https://zulfi.azyz.site/shop/g_6dd21b2ec726f7/
+- فضاء الوطن للأسماك الطازجة — https://zulfi.azyz.site/shop/gm_c1582812ddbd01/
+- فطيرة الفلافل — https://zulfi.azyz.site/shop/gm_db130881020956/
+- فطيرة صبوح — https://zulfi.azyz.site/shop/g_81afb0d014a349/
+- ففتي ففتي برجر 50 50 — https://zulfi.azyz.site/shop/g_323687386a2618/
+- فلافل الدمشقيه — https://zulfi.azyz.site/shop/gm_67670454c12e63/
+- فلافل إيصال — https://zulfi.azyz.site/shop/gm_85077de0d991c9/
+- فلافل بلودان — https://zulfi.azyz.site/shop/gm_3bdb84af5ab81d/
+- فلافل ديماس — https://zulfi.azyz.site/shop/gm_eb663faae33fec/
+- فيه — https://zulfi.azyz.site/shop/g_cbd29b1be96405/
+- قرمشة وبليلة — https://zulfi.azyz.site/shop/gm_43918b9c83e3d1/
+- كباب | K.B.A.B — https://zulfi.azyz.site/shop/g_5da942ce9ec8fa/
+- كشري الهرم — https://zulfi.azyz.site/shop/g_115d76fa24e93c/
+- كفتكا Koftikka — https://zulfi.azyz.site/shop/gm_68bd47dbf1b837/
+- كنتاكي KFC — https://zulfi.azyz.site/shop/gm_48344787c3336f/
+- كوبي برجر — https://zulfi.azyz.site/shop/g_ead0bdad21a347/
+- كودو — https://zulfi.azyz.site/shop/g_055bfb898a1699/
+- لاند تشكن — https://zulfi.azyz.site/shop/g_c89af55823a9ea/
+- ماكدونالدز — https://zulfi.azyz.site/shop/gm_16662d83a611c7/
+- مايسترو بيتزا — https://zulfi.azyz.site/shop/g_017da83f43d83f/
+- محل العزيزية للأسماك الطازجة — https://zulfi.azyz.site/shop/gm_2f879d81c7efb7/
+- مذاق فلافل الشام — https://zulfi.azyz.site/shop/gm_6f42ea750115da/
+- مشكل النافورة — https://zulfi.azyz.site/shop/gm_3bc437148ebffe/
+- مشواك للمشاوي — https://zulfi.azyz.site/shop/g_877de9476a52c4/
+- مضغوط مدهنة — https://zulfi.azyz.site/shop/g_7a6a4dc3c7406f/
+- مطاعم بيوزي — https://zulfi.azyz.site/shop/g_91f30a84fb894b/
+- مطاعم ركن الرافدين — https://zulfi.azyz.site/shop/g_b0c5328ebe5ddb/
+- مطاعم كشنة وبهار — https://zulfi.azyz.site/shop/g_0807ffa803a1aa/
+- مطاعم و مطابخ مندي حنيذ السدة — https://zulfi.azyz.site/shop/gm_b094d3f5285bd4/
+- مطاعم ومطابخ المحافل للولائم والمناسبات — https://zulfi.azyz.site/shop/g_b577fa88773ca2/
+- مطاعم ومطابخ حلة الدار للاكلات الشعبيه — https://zulfi.azyz.site/shop/g_739d8ed56821da/
+- مطاعم ومطابخ مندي الرياض للولائم والمناسبات — https://zulfi.azyz.site/shop/g_f89ae28d3e0036/
+- مطعم ارض الضباب — https://zulfi.azyz.site/shop/g_ac7c56cd5670b8/
+- مطعم أسماك الروضة — https://zulfi.azyz.site/shop/gm_6c8908dcdf7c64/
+- مطعم الأذواق — https://zulfi.azyz.site/shop/g_d00f0378c030d7/
+- مطعم الحبة الذهبية — https://zulfi.azyz.site/shop/g_dae867828cd557/
+- مطعم الشراع الأبيض — https://zulfi.azyz.site/shop/gm_ebb4c5af8f562d/
+- مطعم الوجبة المرنة لتقديم الوجبات الصحية — https://zulfi.azyz.site/shop/gm_51f323c75b36a3/
+- مطعم الوكبه (متخصص بمضغوط الحاشي) — https://zulfi.azyz.site/shop/g_b1d1a950569301/
+- مطعم بحر ونيل للأسماك — https://zulfi.azyz.site/shop/g_84b701963e8698/
+- مطعم برميل وحوف — https://zulfi.azyz.site/shop/g_aeaee053783f6f/
+- مطعم بروستد درة الفيحاء — https://zulfi.azyz.site/shop/gm_65f4c0c15ff8b2/
+- مطعم بوابة الديرة — https://zulfi.azyz.site/shop/gm_a7303f4b586e9f/
+- مطعم بيت الأولين — https://zulfi.azyz.site/shop/g_ab5a4c2fd7de5b/
+- مطعم تنور الباشا — https://zulfi.azyz.site/shop/g_c66b581e2c5fa9/
+- مطعم توينزو — https://zulfi.azyz.site/shop/g_5fc36ea621d8ae/
+- مطعم دايت وان — https://zulfi.azyz.site/shop/g_15684fae9e8aac/
+- مطعم ركن علقة — https://zulfi.azyz.site/shop/gm_e8b4ddfb9d63b3/
+- مطعم روست — https://zulfi.azyz.site/shop/g_eab91e0af7969b/
+- مطعم روق جوك للأكلات الشعبية — https://zulfi.azyz.site/shop/gm_da2a6a5e11e41e/
+- مطعم ريدي للساندويش المشوي — https://zulfi.azyz.site/shop/g_6ce51e11d48a98/
+- مطعم زاد فطور شامي وبيتزا — https://zulfi.azyz.site/shop/g_122576d937769d/
+- مطعم شباب القاده البخاري — https://zulfi.azyz.site/shop/gm_256681f40ef218/
+- مطعم شعبيات النافورة — https://zulfi.azyz.site/shop/g_1d267567c5d2a5/
+- مطعم عطرة المدينة — https://zulfi.azyz.site/shop/gm_c3491476784bfe/
+- مطعم فلافل صبح — https://zulfi.azyz.site/shop/gm_7a92037baabac3/
+- مطعم قمم الندى للاكلات الشعبية — https://zulfi.azyz.site/shop/gm_3de1933d4e1a1d/
+- مطعم كاتم حاتم — https://zulfi.azyz.site/shop/g_31fa1bfd98a098/
+- مطعم لذة على دربك — https://zulfi.azyz.site/shop/g_dcdca5b6b484bf/
+- مطعم مارية — https://zulfi.azyz.site/shop/g_ca29f91c282179/
+- مطعم محبوب — https://zulfi.azyz.site/shop/gm_586283952bffb0/
+- مطعم مذاق غوار — https://zulfi.azyz.site/shop/g_1b20dfd03316bf/
+- مطعم مشويات لذه — https://zulfi.azyz.site/shop/gm_dc61491710b217/
+- مطعم مليباري — https://zulfi.azyz.site/shop/g_4b520772659d0f/
+- مطعم مندي الزلفي — https://zulfi.azyz.site/shop/gm_16923557484809/
+- مطعم مورا الفرع (1) — https://zulfi.azyz.site/shop/gm_3d470437618cfb/
+- مطعم موريان — https://zulfi.azyz.site/shop/g_405f0948ed68af/
+- مطعم نابولي ترف — https://zulfi.azyz.site/shop/g_0ce6432c381068/
+- مطعم ناهي — https://zulfi.azyz.site/shop/g_7fdeb8475f5036/
+- مطعم هندي بحور التاج — https://zulfi.azyz.site/shop/gm_a0d70c4c1bee57/
+- مطعم و كافيه توراكو كورنر — https://zulfi.azyz.site/shop/g_17cf50768f0e9d/
+- مطعم ومطبخ مثلوثة الناضج — https://zulfi.azyz.site/shop/g_e46cd09e23f4c4/
+- مقلوبة الحارة — https://zulfi.azyz.site/shop/g_b5d76b7f084bdf/
+- مورا الفرع 2 — https://zulfi.azyz.site/shop/g_c02b6dff6c8967/
+- ميت واي للوجبات السريعه — https://zulfi.azyz.site/shop/gm_8e5b194e519980/
+- نخبة العنب | ورق عنب طــازج مـن القِــدْر — https://zulfi.azyz.site/shop/gm_48985bf37c4ebf/
+- نخلات عتيقة — https://zulfi.azyz.site/shop/g_352e034828dbf7/
+- نكهة المندي — https://zulfi.azyz.site/shop/gm_147a627a2ffb1e/
+- هرفي — https://zulfi.azyz.site/shop/gm_a6d7c8fbfac588/
+- هرفي herfy — https://zulfi.azyz.site/shop/gm_0037af224a7973/
+- وجبات رشوش — https://zulfi.azyz.site/shop/gm_c997cbb4387e17/
+- ون ساندوتش One sandwich — https://zulfi.azyz.site/shop/gm_fc815c9c39c106/
+- ويڤ — https://zulfi.azyz.site/shop/g_f4eef856fa0cfe/
+- يمي ساندويتش - YUMMY SANDWICH — https://zulfi.azyz.site/shop/g_736f2cb4621d0d/
+- يمي فطيرة — https://zulfi.azyz.site/shop/gm_9f0f209fe60343/
+- Belle Restaurent مطعم الحسناء — https://zulfi.azyz.site/shop/gm_afdf2e5f7d440f/
+- My time — https://zulfi.azyz.site/shop/g_80e070d43444be/
+- Sazwa Indian Restaurant - سازوا اكلات هندية( ماليباري) — https://zulfi.azyz.site/shop/g_d67ad4ad44a2ce/
+- Shawarmer | شاورمر — https://zulfi.azyz.site/shop/g_76875b3dc7e287/
+- SLDS — https://zulfi.azyz.site/shop/gm_407d882e08893f/
+- Taste Town — https://zulfi.azyz.site/shop/g_ea24cdaab50f6f/
+- Time For Patty Bun - تايم فور باتي بن — https://zulfi.azyz.site/shop/g_77b0397f594e40/
+
+### مقاهي وحلويات
+- .الثامنة مساء — https://zulfi.azyz.site/shop/g_49115cba8cadc2/
+- ارابيكا ستار — https://zulfi.azyz.site/shop/gm_2d3e1e8f2b8472/
+- اسس الزاد للشاهي والقهوة — https://zulfi.azyz.site/shop/gm_d77ba8196f7099/
+- السمرا — https://zulfi.azyz.site/shop/gm_deb630d07f6654/
+- انتو en2 — https://zulfi.azyz.site/shop/gm_39665c0ff6f1e1/
+- او اتش OH — https://zulfi.azyz.site/shop/g_8cbc09736f80c2/
+- أورو نوك - oro nook قهوة مختصة — https://zulfi.azyz.site/shop/gm_518082c2f0dc65/
+- أويا كافية OIA Coffee — https://zulfi.azyz.site/shop/g_d0797045a98d5f/
+- أويا كافية OIA Coffee — https://zulfi.azyz.site/shop/g_7fb5643f858065/
+- ايسكريم رؤق — https://zulfi.azyz.site/shop/gm_a6518d0146dc41/
+- بوليفارد ستي — https://zulfi.azyz.site/shop/gm_b7f6dd26d04d0d/
+- بويما قهوة مختصة | BÄUME specialty coffee — https://zulfi.azyz.site/shop/g_cf0fb1c2dacd6c/
+- تشوكليت فالز كافيه | الزلفي — https://zulfi.azyz.site/shop/g_a80fb9ade4d575/
+- توابل سندلس — https://zulfi.azyz.site/shop/gm_70da54089dbc79/
+- توأم القهوة — https://zulfi.azyz.site/shop/g_0a69f9dec69d73/
+- توأم القهوة 2 — https://zulfi.azyz.site/shop/g_df4d589c678bc8/
+- حبُك — https://zulfi.azyz.site/shop/gm_c8efb0795d6a84/
+- حجرة شاي — https://zulfi.azyz.site/shop/gm_f8664737a4c312/
+- حلم القهوة — https://zulfi.azyz.site/shop/gm_4975769735b04e/
+- حليف | Haleef — https://zulfi.azyz.site/shop/g_fb9011772839db/
+- خلية فارس - الزلفي — https://zulfi.azyz.site/shop/g_e7bdce246fad9e/
+- خلية وعنبات — https://zulfi.azyz.site/shop/g_48cd59d6f7504a/
+- دِثار كافيه | Dethar coffee — https://zulfi.azyz.site/shop/g_58a5392171329d/
+- دلفن — https://zulfi.azyz.site/shop/gm_4a7ec4994b6a93/
+- ديفونا بيكري — https://zulfi.azyz.site/shop/g_2d1e2f95fb2249/
+- ديلي كب Daily Cup — https://zulfi.azyz.site/shop/gm_90567019e7013f/
+- رنة فنجال — https://zulfi.azyz.site/shop/gm_725c5ce6a1a4ef/
+- رِواق | Rewaq — https://zulfi.azyz.site/shop/gm_0ec001c1e25c6f/
+- زاوية التعاون — https://zulfi.azyz.site/shop/g_b7c9b9d231b68e/
+- زاوية العصير لتقديم العصائر والايسكريم🍧🍹 — https://zulfi.azyz.site/shop/g_03d19897e9dc96/
+- زري كافيه — https://zulfi.azyz.site/shop/gm_8525f496d27f76/
+- زولفر - Zulver — https://zulfi.azyz.site/shop/g_c7a741bc8ea965/
+- سبع تكوينات | Seven Configs — https://zulfi.azyz.site/shop/g_e10f5ed25b4381/
+- ستاربكس — https://zulfi.azyz.site/shop/gm_03693913bd8868/
+- سمراء البن قهوة مختصة — https://zulfi.azyz.site/shop/g_60ee250bc34566/
+- سويفت كب | SWIFT CUP — https://zulfi.azyz.site/shop/gm_e5ca90b2bf31b3/
+- شاهي سما — https://zulfi.azyz.site/shop/gm_ea4ae518643de3/
+- شاهي صالح — https://zulfi.azyz.site/shop/gm_9da434128a34da/
+- شاهي غضى — https://zulfi.azyz.site/shop/gm_606086c52ff05c/
+- شاهي و كيك — https://zulfi.azyz.site/shop/g_f8147e4ba0d759/
+- شاي بتال — https://zulfi.azyz.site/shop/gm_9a68b72f63a9ea/
+- شاي نجي — https://zulfi.azyz.site/shop/gm_b387fda0eee180/
+- شبّاك ١٧ — https://zulfi.azyz.site/shop/gm_b11e506af02c16/
+- شبه وقهوه خليف — https://zulfi.azyz.site/shop/gm_ae3549fae3177d/
+- شقفـ ه | Shqaf — https://zulfi.azyz.site/shop/gm_2278c98157f295/
+- شلفز كافيه - للعائلات — https://zulfi.azyz.site/shop/g_16802ff7ce3ed0/
+- صَواب | قهوة مختصة — https://zulfi.azyz.site/shop/g_a35e5c540e00f0/
+- عصائر الإمبراطور — https://zulfi.azyz.site/shop/gm_3511cdf7f70b21/
+- عصائر الفراعنة — https://zulfi.azyz.site/shop/gm_b55f5ae26b5ed7/
+- عصائر سندس — https://zulfi.azyz.site/shop/gm_dcf92e39f0b7b5/
+- عصائر كوكب عصير — https://zulfi.azyz.site/shop/gm_2f0a161be4123e/
+- عصائر واحة التفاح — https://zulfi.azyz.site/shop/g_3a49853c2a3a6d/
+- عصير الرائع — https://zulfi.azyz.site/shop/gm_2d02d7cceed1be/
+- عصير تايم — https://zulfi.azyz.site/shop/gm_017b105b828b68/
+- عنوان القهوة | Coffee Address — https://zulfi.azyz.site/shop/gm_0ff9a43fb4e179/
+- غِنا كافيه GHENA CAFE — https://zulfi.azyz.site/shop/g_ba6f89da716ebb/
+- فوجن — https://zulfi.azyz.site/shop/g_2cdbc515064a81/
+- فيتامين — https://zulfi.azyz.site/shop/g_7728a240bfaa8e/
+- فيسار — https://zulfi.azyz.site/shop/gm_9b2e81f3d873f6/
+- قرصان الزلفي — https://zulfi.azyz.site/shop/g_64c45758f8f6e3/
+- قرصان الفايز — https://zulfi.azyz.site/shop/g_d20ab9ed37a629/
+- قرصان زاوية الصديق — https://zulfi.azyz.site/shop/g_8751be0cd3cade/
+- قرصان زمان — https://zulfi.azyz.site/shop/g_42193d9d00832e/
+- قرصان سمنان — https://zulfi.azyz.site/shop/g_74324de007987a/
+- قرى — https://zulfi.azyz.site/shop/gm_980bd85f668b4b/
+- قصر الكنافه — https://zulfi.azyz.site/shop/gm_788fcd522de1b4/
+- قهوة بحّة | Bahha — https://zulfi.azyz.site/shop/g_076519078d29cc/
+- قهوة صَدي — https://zulfi.azyz.site/shop/g_9a7f54a7db5c83/
+- قهوة قطعة كريب — https://zulfi.azyz.site/shop/g_cbbb9142ed46cb/
+- قهوة مختلفة للقهوة المختصة — https://zulfi.azyz.site/shop/gm_425ea672a74e0c/
+- قو مقر الشاي — https://zulfi.azyz.site/shop/gm_a090265c63633a/
+- كافي رازو — https://zulfi.azyz.site/shop/gm_524d7783cb239d/
+- كايترينق متنقل متكامل — https://zulfi.azyz.site/shop/ad1794333144343/
+- كبز كافيه | KPS COFFEE — https://zulfi.azyz.site/shop/gm_4d7e61bd364a78/
+- كشك احلى جوس — https://zulfi.azyz.site/shop/g_1c415dd784fd73/
+- كشك السعادة — https://zulfi.azyz.site/shop/gm_fb51ad7179e3f6/
+- كنافة وعصائر بيسان — https://zulfi.azyz.site/shop/gm_78265e9213c37f/
+- كوبا — https://zulfi.azyz.site/shop/g_9cbf18e747a95b/
+- كوفي 99٪ — https://zulfi.azyz.site/shop/gm_1f7ffbf8331c7a/
+- كوفي ربان — https://zulfi.azyz.site/shop/gm_e68f217ff04da3/
+- كيان|kyan — https://zulfi.azyz.site/shop/gm_4d4b6dc57a0a58/
+- لاريمار بيكري LAREMAR BAKERY — https://zulfi.azyz.site/shop/g_82ce739cc6d479/
+- لانتانا للقهوة و للحلويات — https://zulfi.azyz.site/shop/g_949cdcaea80c0a/
+- لهفة شاي — https://zulfi.azyz.site/shop/gm_fabb2fe1a53bdf/
+- ليّاح بيكري — https://zulfi.azyz.site/shop/g_16b0d0fc2d5599/
+- متاع (شاهي وقهوة) — https://zulfi.azyz.site/shop/g_1670063a9492df/
+- مثلث القهوة — https://zulfi.azyz.site/shop/gm_a7e83ab3ff7a2f/
+- محامص أشكال للقهوة — https://zulfi.azyz.site/shop/gm_fa1e60a3bf7b72/
+- محامص الفار — https://zulfi.azyz.site/shop/gm_f4068e7f7d23f9/
+- محامص ربيع الكيف — https://zulfi.azyz.site/shop/gm_f22a86cd4a8471/
+- محامص ربيع الكيف 2 — https://zulfi.azyz.site/shop/gm_1897111de2a18a/
+- محامص زاوية نسناس للقهوة ( المديد سابقاً ) — https://zulfi.azyz.site/shop/gm_79f550e5e6063c/
+- محامص فيصل — https://zulfi.azyz.site/shop/gm_64ef36d00b8112/
+- محامص ناصر السالم للقهوة والهيل — https://zulfi.azyz.site/shop/gm_398c959a35b4b8/
+- محامص وعطاره أصالة البن للقهوه — https://zulfi.azyz.site/shop/gm_5c2eefdcdc17a3/
+- محامص ومطاحن بدايه الذوق الزلفي — https://zulfi.azyz.site/shop/gm_8f1e8540a9edfc/
+- محمصة ومقهى اوتو | O2 cafe — https://zulfi.azyz.site/shop/gm_2652ba50ba3486/
+- مقر الشاي — https://zulfi.azyz.site/shop/g_5642aac232ebc3/
+- مقهى شاهي الرمث — https://zulfi.azyz.site/shop/gm_356d26fbd31aed/
+- مقهى هرم البن الزلفي — https://zulfi.azyz.site/shop/gm_6af4d44313bf0b/
+- مقهى و محمصة مثلث القهوة ( قهوة مختصة ) — https://zulfi.azyz.site/shop/g_f88bc8cef06069/
+- نملة لاب | AntLab — https://zulfi.azyz.site/shop/g_48d188f716d299/
+- هيسكا hesca — https://zulfi.azyz.site/shop/gm_2d0f0d1e2f739b/
+- واجهة اللعب — https://zulfi.azyz.site/shop/g_94fe223ff8e437/
+- واجهة المرح — https://zulfi.azyz.site/shop/gm_ceae7cb0b07165/
+- واحة التفاح للعصائر الطازجة فرع 2 — https://zulfi.azyz.site/shop/gm_54dc5cdbf0d325/
+- وازو — https://zulfi.azyz.site/shop/gm_963aff3afbe69f/
+- وتر كيف — https://zulfi.azyz.site/shop/g_3a8533ea2f1fab/
+- وجار قهوة سعودية شاهي — https://zulfi.azyz.site/shop/g_1f11e400d26d4d/
+- وجار قهوة سعودية شاهي — https://zulfi.azyz.site/shop/g_04090c89492066/
+- وجار قهوة سعودية شاهي5 — https://zulfi.azyz.site/shop/gm_a42113fcebb830/
+- ورقة شاي — https://zulfi.azyz.site/shop/g_dc56cebcc1d8f9/
+- ورقة شاي فرع 2 — https://zulfi.azyz.site/shop/gm_493c6cd6e90232/
+- AFRO Bean | إفرو بين — https://zulfi.azyz.site/shop/gm_55f5941704cc1f/
+- Ahla juse — https://zulfi.azyz.site/shop/g_06b72a9495aa8f/
+- Barn's | بارنز — https://zulfi.azyz.site/shop/gm_5e23cb81fd7d6a/
+- BELV cafe — https://zulfi.azyz.site/shop/g_d1879a8b18a065/
+- Crepes & enjoy | كريب اند جوي — https://zulfi.azyz.site/shop/gm_ae172e63da9c62/
+- Half cup هاف كب كافيه — https://zulfi.azyz.site/shop/g_e880a4b1d4a8ed/
+- HOLLOW — https://zulfi.azyz.site/shop/g_349c0b9ee434b3/
+- Rayna Coffee — https://zulfi.azyz.site/shop/gm_a7f0c982d3ca82/
+- rovo قهوه — https://zulfi.azyz.site/shop/g_fbda3137feb986/
+- Shift coffee . شفت كوفي — https://zulfi.azyz.site/shop/g_894d39243d85e3/
+
+### بقالات وأسواق
+- أبو معاذ للخضار والفواكة الطازجة — https://zulfi.azyz.site/shop/g_fa98a7103c9dee/
+- اركان العنب — https://zulfi.azyz.site/shop/g_68bb895d7a8595/
+- اركان فاكهتي للخضار والفواكه ( بوابه رقم2) — https://zulfi.azyz.site/shop/g_fcdef2a1e7da89/
+- أرياف الزلفي — https://zulfi.azyz.site/shop/g_dc66cd3c13d96c/
+- أساس الطلعة للدواجن واللحوم — https://zulfi.azyz.site/shop/g_aaf452849727eb/
+- اسواق التحلية — https://zulfi.azyz.site/shop/g_6e08133a1c2b37/
+- أسواق الدانة — https://zulfi.azyz.site/shop/g_087dbd4d349aaa/
+- أسواق السابعة صباحا المركزية — https://zulfi.azyz.site/shop/g_005f8eebf31ba3/
+- أسواق السلمان المركزية — https://zulfi.azyz.site/shop/g_c190131b18b371/
+- أسواق الصفوة المركزية — https://zulfi.azyz.site/shop/g_5251dafabc53b2/
+- أسواق الضياء — https://zulfi.azyz.site/shop/g_b4051f3d970b14/
+- اسواق العثيم الزلفي 347 — https://zulfi.azyz.site/shop/g_5afa1da21c51b4/
+- أسواق النخبة — https://zulfi.azyz.site/shop/g_20e3fbbf54cbd2/
+- أسواق دائبة المركزية — https://zulfi.azyz.site/shop/g_dd42208a2ad883/
+- أسواق رفيق اللحظة — https://zulfi.azyz.site/shop/g_0f9ef58e079214/
+- أسواق زاد التحلية المركزية — https://zulfi.azyz.site/shop/g_cb43f050b3aada/
+- أسواق زاوية ثمار — https://zulfi.azyz.site/shop/g_185eedb6e15369/
+- أسواق طيبة المركزية — https://zulfi.azyz.site/shop/g_afe2e875e013c7/
+- اسواق عالم الؤلؤة المركزية — https://zulfi.azyz.site/shop/g_413c5fdd2dfa43/
+- اسواق عالم اللؤلؤة المركزية — https://zulfi.azyz.site/shop/g_050b53cdf2d356/
+- أسواق عبدالله العثيم — https://zulfi.azyz.site/shop/g_5a897966e9a7c6/
+- أسواق عبدالله العثيم — https://zulfi.azyz.site/shop/g_3f473367322548/
+- أسواق علقة المركزية — https://zulfi.azyz.site/shop/gm_35bb115c7da0e8/
+- أسواق فاكهة العرين 5 — https://zulfi.azyz.site/shop/g_6f79dd5ff5a350/
+- أسواق فاكهة العرين المركزية — https://zulfi.azyz.site/shop/g_1b53228f1ca364/
+- أسواق و دواجن المزرعة — https://zulfi.azyz.site/shop/g_29e4392d815ac7/
+- أشجار طويق للتمور الفاخرة — https://zulfi.azyz.site/shop/gm_8800814023b675/
+- البائع السمح للخضار والفواكه — https://zulfi.azyz.site/shop/g_76e231ede9dd53/
+- التعاونية للمواد الغذائية فرع السيح — https://zulfi.azyz.site/shop/g_d53bbcd2aa920b/
+- التعاونية للمواد الغذائية فرع الصديق — https://zulfi.azyz.site/shop/g_ec9b91e2411f7d/
+- الثويرات تموينات شمسه — https://zulfi.azyz.site/shop/gm_6d3df3cdfcbab3/
+- الدجاج المتميز تشكن بلس — https://zulfi.azyz.site/shop/g_280de3cfe465e3/
+- السمحان للخضار والفواكة والتمور — https://zulfi.azyz.site/shop/g_bd2ac879302553/
+- السوق الاوسط — https://zulfi.azyz.site/shop/g_eb059996b51092/
+- السويكت للحلويات تموينات مؤسسه ركن الرواد — https://zulfi.azyz.site/shop/gm_9a4c010c15a601/
+- العميم للخضار والفواكه — https://zulfi.azyz.site/shop/g_0b532dd7057bc5/
+- المطل الشرقي للخضار والفواكه — https://zulfi.azyz.site/shop/gm_3f8c71a4649659/
+- النداوي للمواد الغذائيه — https://zulfi.azyz.site/shop/gm_29479988b1add1/
+- الندى ماركت — https://zulfi.azyz.site/shop/g_8c90fe429d5722/
+- باب الركن للتموين الغذائي — https://zulfi.azyz.site/shop/gm_508383790a8dcf/
+- بقالة الربيع — https://zulfi.azyz.site/shop/g_48acace37094a3/
+- بقالة حاجتك — https://zulfi.azyz.site/shop/gm_8f35d34bf07ae5/
+- بقالة رغد — https://zulfi.azyz.site/shop/g_af4a774ac38b76/
+- بقالة ركن المزن للمواد الغذائية — https://zulfi.azyz.site/shop/gm_062861461ccb27/
+- بقالة محمد الزنيدي — https://zulfi.azyz.site/shop/g_c2974cc5556780/
+- بقالة ميسو — https://zulfi.azyz.site/shop/gm_1926b7e56e625f/
+- بقاله — https://zulfi.azyz.site/shop/gm_a12e619a9b542c/
+- بهارات كزبرة — https://zulfi.azyz.site/shop/g_3f624bc72f6694/
+- ترند سوبر ماركت — https://zulfi.azyz.site/shop/gm_f6dfcbfd5cb717/
+- تعاونية الزلفي الغذائية فرع السوق المركزي — https://zulfi.azyz.site/shop/g_0362f472fe19bf/
+- تمور العاليات — https://zulfi.azyz.site/shop/gm_d7c79b58c77fef/
+- تموينات البرج — https://zulfi.azyz.site/shop/g_378513218ba447/
+- تموينات السيح سلة النماء — https://zulfi.azyz.site/shop/gm_c5e2f39c834b64/
+- تموينات اليوم الماسي — https://zulfi.azyz.site/shop/gm_24eef58c04818b/
+- تموينات بساتين الازدهار للمواد الغذائية — https://zulfi.azyz.site/shop/gm_1c17283b555308/
+- تموينات تشكيلة الواحة — https://zulfi.azyz.site/shop/gm_a02f5452d873be/
+- تموينات ركن القطوف — https://zulfi.azyz.site/shop/gm_28d18c1dad6cd1/
+- تموينات ركن بلنسية — https://zulfi.azyz.site/shop/gm_c0fa6e1f10d7f9/
+- تموينات ركن مبرد — https://zulfi.azyz.site/shop/g_b16ff6b95732bd/
+- تموينات ركن نعناع — https://zulfi.azyz.site/shop/gm_202c9b30c4fc1d/
+- تموينات ريحة وبن للمواد الغذائية — https://zulfi.azyz.site/shop/gm_cbdb6c591927cb/
+- تموينات زاد الوسم — https://zulfi.azyz.site/shop/gm_a74cb23709fa69/
+- تموينات سافانا — https://zulfi.azyz.site/shop/gm_e8f9e65d5f2e30/
+- تموينات سنابل قوت — https://zulfi.azyz.site/shop/g_84a8ad2ce95fbc/
+- تموينات شيخة السقياني المواد الغذائية — https://zulfi.azyz.site/shop/g_3f1f4cb0d0a527/
+- تموينات شيخه المزيني — https://zulfi.azyz.site/shop/g_765b56213f12d6/
+- تموينات صفوة شمسه لتجاره — https://zulfi.azyz.site/shop/gm_e4c6a9553d5cae/
+- تموينات صفوة شمسه للتجاره — https://zulfi.azyz.site/shop/gm_e8a5e6653a0b62/
+- تموينات مؤونة حطين للمواد الغذائية — https://zulfi.azyz.site/shop/gm_53120e21272e99/
+- تموينات مرسى الخيمة — https://zulfi.azyz.site/shop/g_352e6b979fbcd2/
+- تموينات منبع البستان — https://zulfi.azyz.site/shop/gm_c596266b16b526/
+- تموينات مونة الخيرات — https://zulfi.azyz.site/shop/gm_0062066b9df8fd/
+- تموينات نبع الجود للمواد الغذائية — https://zulfi.azyz.site/shop/g_4ea24a5e5554e0/
+- تموينات نجوم هايل — https://zulfi.azyz.site/shop/gm_7ceff861b4e81d/
+- تموينات واجهة الستين للمواد الغذائية — https://zulfi.azyz.site/shop/gm_2d7996108b9926/
+- تموينات وسوبر ماركت نبع زاد — https://zulfi.azyz.site/shop/g_5d1488861855e9/
+- جزره للخضروات والفواكه — https://zulfi.azyz.site/shop/g_77bb277d568757/
+- حزة زهاب — https://zulfi.azyz.site/shop/g_74849f31b5a257/
+- حلو وحامض — https://zulfi.azyz.site/shop/g_d9e6634a399450/
+- خيرات الأرياف للدواجن — https://zulfi.azyz.site/shop/g_58e6a41d82b0b5/
+- دخان — https://zulfi.azyz.site/shop/gm_0b0afd25540dcc/
+- دواجن الاخوين — https://zulfi.azyz.site/shop/g_6abade8977f37f/
+- دواجن البستان — https://zulfi.azyz.site/shop/g_a619eacd6a666f/
+- ركن سلة الغذاء — https://zulfi.azyz.site/shop/g_98c4a258408a31/
+- ركن سمنان للتمور والحلويات — https://zulfi.azyz.site/shop/g_cc0fb59ecec534/
+- زاد الريف — https://zulfi.azyz.site/shop/g_087d4f1e100830/
+- سلال ترف — https://zulfi.azyz.site/shop/g_a481b8d543d10c/
+- سلة بندر — https://zulfi.azyz.site/shop/g_c13ca4aa4c6962/
+- سلطان نجد للذبايح — https://zulfi.azyz.site/shop/gm_acc234788fb552/
+- سلوف — https://zulfi.azyz.site/shop/g_75f183bf5670e7/
+- سمنة وكشنة — https://zulfi.azyz.site/shop/g_00acaa62693c96/
+- سهول للخضار والفواكه — https://zulfi.azyz.site/shop/g_8d6db9318c9915/
+- سوبر ماركت حديقة الريان — https://zulfi.azyz.site/shop/gm_b5e48b229118ae/
+- سوق التمور — https://zulfi.azyz.site/shop/g_afaf5bca0a834f/
+- سوق الخضار — https://zulfi.azyz.site/shop/g_d9f43009be49cd/
+- سوق الخضار الجديد — https://zulfi.azyz.site/shop/g_9d3a10973060d7/
+- سوق الزلفي التجاري — https://zulfi.azyz.site/shop/g_9acff63f65af11/
+- شركة الأخوين المحدودة دواجن الأخوين — https://zulfi.azyz.site/shop/gm_6c020691b225ca/
+- صالح السويكت للخضار والفواكه — https://zulfi.azyz.site/shop/g_1a4aea1696ed57/
+- ضواحي سمنان — https://zulfi.azyz.site/shop/g_3d1fd266c657b0/
+- طبختي مقطع وجاهز — https://zulfi.azyz.site/shop/g_ee083b0b157653/
+- عطارة الدويش — https://zulfi.azyz.site/shop/gm_3099bdb376f2a3/
+- فاكهة العرين الفرع (2) — https://zulfi.azyz.site/shop/g_c551e1e9a1a433/
+- فياض البساتين للخضار والفواكه — https://zulfi.azyz.site/shop/g_3e8707ebac71d2/
+- قرية الفواكه — https://zulfi.azyz.site/shop/gm_0bacaca89e8ac3/
+- قطائف — https://zulfi.azyz.site/shop/g_0b26c6adb605af/
+- قطوف الموسم — https://zulfi.azyz.site/shop/g_e2ec44588b0bda/
+- كشتة يوم — https://zulfi.azyz.site/shop/g_02f8c3292c0672/
+- كوخ الخضار — https://zulfi.azyz.site/shop/g_49e01c17ba3a3b/
+- مؤسسة النداوي للمواد الغذائيه — https://zulfi.azyz.site/shop/gm_f5bedf5807421a/
+- مبرد لتوزيع الدجاج المبرد والمجمد — https://zulfi.azyz.site/shop/g_4d483c39d7061a/
+- مبرد للدواجن و الحمام — https://zulfi.azyz.site/shop/g_ad3fae2eb77e5e/
+- محطه واسواق اللولوه المطل الغربي — https://zulfi.azyz.site/shop/gm_35c3cf0e19c220/
+- محل الوسم للخضار والفواكة — https://zulfi.azyz.site/shop/g_69768801b63a83/
+- محل حمد العويس للخضار والفواكه — https://zulfi.azyz.site/shop/g_b0dc34ed4bc3b6/
+- محل كوخ الخوخ للخضار والفواكه — https://zulfi.azyz.site/shop/g_41838a63f3ce9c/
+- محمصة حصاد الريف — https://zulfi.azyz.site/shop/g_901bf9fe3bd228/
+- مذاق الطاجن — https://zulfi.azyz.site/shop/g_cfb7e78cb3db7e/
+- مركز الحي الشمالي للتسوق — https://zulfi.azyz.site/shop/gm_047cc55e78943d/
+- مركز الروابي للتموينات — https://zulfi.azyz.site/shop/gm_b82001889a1467/
+- مصدر الشاي — https://zulfi.azyz.site/shop/gm_14c19ee44205d8/
+- ملتقى الطباخين — https://zulfi.azyz.site/shop/gm_7b9943103404d2/
+- ملحمة — https://zulfi.azyz.site/shop/gm_2b5f9cb0783c64/
+- ملحمة الثوير — https://zulfi.azyz.site/shop/gm_aaca64d07231d5/
+- ملحمة الرياض — https://zulfi.azyz.site/shop/gm_434c136c25ecf5/
+- ‎‫ملحمة الشوير‬‎ — https://zulfi.azyz.site/shop/gm_5ddedd005e2493/
+- ملحمة الصمان — https://zulfi.azyz.site/shop/gm_bb693c684527ff/
+- ملحمة العزيمة — https://zulfi.azyz.site/shop/gm_a97437e3c82d32/
+- ملحمة اللحوم الحمراء — https://zulfi.azyz.site/shop/gm_635db5ae1b5fc6/
+- ملحمة الوادي الأخضر — https://zulfi.azyz.site/shop/gm_1bd6dee63f94f0/
+- ملحمة الوفاء ١ — https://zulfi.azyz.site/shop/gm_4ebf2d46cff0b3/
+- ملحمة بيت السلام قصاب — https://zulfi.azyz.site/shop/gm_69e0dbf3df4b56/
+- ملحمة ربيع الدهناء — https://zulfi.azyz.site/shop/gm_f786fec5a5c4b4/
+- ملحمة ركن شعبان — https://zulfi.azyz.site/shop/gm_9b6ef127dc3b1f/
+- ملحمة زاوية الحاشي — https://zulfi.azyz.site/shop/gm_217ffa13db4101/
+- ملحمة فوزية (ملحمة القصيم) — https://zulfi.azyz.site/shop/gm_680da22fb9a687/
+- ملحمة فياض البساتين — https://zulfi.azyz.site/shop/g_2e316829cd1ab5/
+- ملحمة لحمة العزيمة 2 — https://zulfi.azyz.site/shop/gm_5e9eb7e246025b/
+- ملحمة نصف حاشي — https://zulfi.azyz.site/shop/gm_62181622c95bd0/
+- ملحمة نصف نعيمي — https://zulfi.azyz.site/shop/gm_39dbbd3689e382/
+- ملحمة وردة — https://zulfi.azyz.site/shop/gm_e01ca8c3928d90/
+- ملحمه السبله — https://zulfi.azyz.site/shop/gm_6ac5c1819e1a73/
+- ملحمه نصف حاشي السوق المركزي — https://zulfi.azyz.site/shop/g_791e1faaaf6642/
+- منبع الريادة — https://zulfi.azyz.site/shop/g_d32d1c20ebd0d7/
+- منتقى اللحوم للتجارة — https://zulfi.azyz.site/shop/g_59744a4bcbe30c/
+- نجوم السحاب — https://zulfi.azyz.site/shop/gm_117dee62eb068f/
+- نخل ورمان للخضار والفواكة — https://zulfi.azyz.site/shop/g_88c22910be2773/
+- نخل ورمان للخضار والفواكه فرع 2 — https://zulfi.azyz.site/shop/g_41df943a85cf15/
+- نصف نعيمي للحوم الطازجة طريق الغاط — https://zulfi.azyz.site/shop/gm_4b966aef755690/
+- نقاء الواحة — https://zulfi.azyz.site/shop/gm_5afeab9afa0a8e/
+- نقوة القطاف للخضار والفواكه — https://zulfi.azyz.site/shop/g_cb55c6cd1aa7ea/
+- نماء — https://zulfi.azyz.site/shop/g_717628e2869a0c/
+- نينجا — https://zulfi.azyz.site/shop/g_81e9a08b1522e4/
+- يانع — https://zulfi.azyz.site/shop/g_b710330be8e5b5/
+- يانع YANEA — https://zulfi.azyz.site/shop/g_36dc64596b1f31/
+- Az Zulfi — https://zulfi.azyz.site/shop/g_e682a578ada633/
+- K. Supermarket — https://zulfi.azyz.site/shop/g_46a45707f0b441/
+- Mahboob — https://zulfi.azyz.site/shop/gm_3684983a7def17/
+
+### صيدليات
+- النهدي — https://zulfi.azyz.site/shop/g_313f0b61f94c7e/
+- دواء الشفاء — https://zulfi.azyz.site/shop/g_a08bf44194f156/
+- صيدلية ادم 85 - الزلفي — https://zulfi.azyz.site/shop/g_fb7bf8275784eb/
+- صيدلية التعاونية البيطرية — https://zulfi.azyz.site/shop/gm_4953e2a400d82e/
+- صيدلية الحكمة — https://zulfi.azyz.site/shop/g_4da88ea8412c7e/
+- صيدلية الدواء — https://zulfi.azyz.site/shop/g_2189eb6ee4701d/
+- صيدلية الدواء — https://zulfi.azyz.site/shop/g_58fb75325a4208/
+- صيدلية الزلفي — https://zulfi.azyz.site/shop/g_bd56b43499f88f/
+- صيدلية المتحدة — https://zulfi.azyz.site/shop/g_71b7e67a5b81d2/
+- صيدلية المتحدة ~ التحلية — https://zulfi.azyz.site/shop/g_99b4d4b8743ab5/
+- صيدلية أوشن — https://zulfi.azyz.site/shop/gm_fd352141732cd6/
+- صيدلية بلسم وعناية حي اليمامة — https://zulfi.azyz.site/shop/g_79b4ebcda3a1ca/
+- صيدلية تداوي الأنعام البيطرية — https://zulfi.azyz.site/shop/gm_8798920f80ac24/
+- صيدلية ترياق الأسرة — https://zulfi.azyz.site/shop/g_5978202debd4e6/
+- صيدلية دواء الوتين — https://zulfi.azyz.site/shop/g_a0d816d478ee3a/
+- صيدلية ريحانة المسك البيطرية — https://zulfi.azyz.site/shop/gm_b4c42a327f5a82/
+- صيدلية سما الاولي للادوية — https://zulfi.azyz.site/shop/gm_12c1274b3e261f/
+- صيدلية منبر الأمل — https://zulfi.azyz.site/shop/gm_f909718db8c38b/
+- صيدلية نبض الوتين — https://zulfi.azyz.site/shop/g_1679e4edb7c518/
+- صيدليه ليمون lemon pharmacy 284 — https://zulfi.azyz.site/shop/gm_751fbfc1705386/
+- Adel pharmacy | صيدلية عادل — https://zulfi.azyz.site/shop/g_600e32c2abdde9/
+- Nahdi pharmacy | صيدلية النهدي — https://zulfi.azyz.site/shop/g_91574dfc225911/
+- Nahdi pharmacy | صيدليه النهدى — https://zulfi.azyz.site/shop/g_02c470ec784380/
+
+### عيادات ومستوصفات
+- الروضه العشرون — https://zulfi.azyz.site/shop/g_3d1b54fabbf376/
+- ركن الخليج للبصريات — https://zulfi.azyz.site/shop/gm_01c01162bb1d6d/
+- زيار للنظارات فرع الزلفي — https://zulfi.azyz.site/shop/gm_70ebaf48ad8840/
+- صفوة المهيدب لطب الأسنان الزلفي — https://zulfi.azyz.site/shop/g_e6d69af900dfb9/
+- طوارى مستشفى الزلفي — https://zulfi.azyz.site/shop/gm_fca80ee139834a/
+- عود اراك — https://zulfi.azyz.site/shop/gm_e568ab3dfed309/
+- عيادات المسواك الطبية — https://zulfi.azyz.site/shop/g_8b02f57c9a923d/
+- عيادة أنعام الزلفى البيطرية — https://zulfi.azyz.site/shop/gm_60cf5b6ce6f9c2/
+- عيادة ريحان نجد البيطريه — https://zulfi.azyz.site/shop/gm_652fd3f4f45ba4/
+- عين للبصريات - الزلفي — https://zulfi.azyz.site/shop/gm_948b74d1a0b1d2/
+- مجمع القمة الطبي — https://zulfi.azyz.site/shop/g_75b7e09b86b454/
+- مجمع الوقاية والعلاج الطبي — https://zulfi.azyz.site/shop/g_6c212d811872e9/
+- مجمع درة النخبة الطبي - أسنان ، جلدية — https://zulfi.azyz.site/shop/g_12a3a23c197783/
+- مجمع عيادات سيرين — https://zulfi.azyz.site/shop/g_057e81738b02a8/
+- مجمع عيادات ون ميد | Onemed Clinic — https://zulfi.azyz.site/shop/g_5b7df659eda5e6/
+- مجمع نبض الوتين — https://zulfi.azyz.site/shop/g_b9e9dfd768a139/
+- محل العدسة السادسة للبصريات (the sixth lens) — https://zulfi.azyz.site/shop/gm_7b8e83a72ff1ff/
+- مختبرات العناية الراقية — https://zulfi.azyz.site/shop/g_7751fe1c63c58b/
+- مختبرات وريد الطبية الزلفي — https://zulfi.azyz.site/shop/g_d7cd0ac1971b6d/
+- مختبرات وريد الطبية فرع الزلفي 2 — https://zulfi.azyz.site/shop/gm_042aa9c35efa4b/
+- مركز اشكال العلاج الطبيعي و التأهيل الطبي — https://zulfi.azyz.site/shop/gm_1146bf567dc183/
+- مركز الحركة والشفاء للعلاج الطبيعي — https://zulfi.azyz.site/shop/gm_0d444acccc5af7/
+- مركز الرعاية الصحية الاولية الفاروق | Farouk Primary Healthcare Center — https://zulfi.azyz.site/shop/gm_aef586720eb4ac/
+- مركز أمل العلاج للتأهيل والعلاج الطبيعي — https://zulfi.azyz.site/shop/g_aab081e9f05ffb/
+- مركز زلفا للتأهيل الطبي — https://zulfi.azyz.site/shop/gm_161c2018dbb552/
+- مركز صحي الصديق — https://zulfi.azyz.site/shop/g_8a2aaa8d42e9e0/
+- مركز صحي الفاروق — https://zulfi.azyz.site/shop/g_ae4fed8e4ed29c/
+- مركز صحي القدس بالزلفي — https://zulfi.azyz.site/shop/gm_5bda02dec9f894/
+- مركز صحي اليمامة — https://zulfi.azyz.site/shop/g_0f3d3c49b8b078/
+- مركز صحي علقة — https://zulfi.azyz.site/shop/gm_0994eecf43a070/
+- مركز طب وجراحة الفم والأسنان بمستشفى الزلفي العام — https://zulfi.azyz.site/shop/g_48b4927c70f438/
+- مركز عين مبصرة للبصريات- فرع الزلفي — https://zulfi.azyz.site/shop/gm_bb68428ec2d1c9/
+- مركز مراحي البيطري — https://zulfi.azyz.site/shop/gm_0db4adf9e4ebe4/
+- مركز نحوالنجاح للحجامة - الزلفي — https://zulfi.azyz.site/shop/gm_30f95b27341f01/
+- مستشفى الزلفي العام — https://zulfi.azyz.site/shop/g_3f7601b2449d52/
+- مستوصف الروضة — https://zulfi.azyz.site/shop/gm_fb597cec7ed66a/
+- مستوصف علقة — https://zulfi.azyz.site/shop/g_6eff62efeaa587/
+- وضوح الرؤية للنظارات — https://zulfi.azyz.site/shop/gm_b3b51c13202da2/
+- Durat Alnukhba medical complex — https://zulfi.azyz.site/shop/gm_ded2f9431b1e7c/
+- eyewa Al Zulfi - ايوا الزلفي — https://zulfi.azyz.site/shop/gm_a1b0e73a89e01f/
+
+### خدمات سيارات
+- (الكثيري للسيارات (الزلفي — https://zulfi.azyz.site/shop/gm_997b2f2b60dce6/
+- آيركار لتأجير السيارات — https://zulfi.azyz.site/shop/gm_27ed967b471842/
+- ابو عادل — https://zulfi.azyz.site/shop/gm_3d7b817dfc1d87/
+- ابووليدكهرباءسيارات٢نزار — https://zulfi.azyz.site/shop/gm_bd03f2b6660fce/
+- اسس الامتياز — https://zulfi.azyz.site/shop/gm_4fd66683bc5b3e/
+- اصلاح اديترات — https://zulfi.azyz.site/shop/gm_2d774da6d5d6d5/
+- أضواء الصحراء للسيارات — https://zulfi.azyz.site/shop/gm_e382f2a9504761/
+- إطار نجد — https://zulfi.azyz.site/shop/gm_54bd4e89d7ab12/
+- البترول الذهبي — https://zulfi.azyz.site/shop/g_6d05f10ed9a2b6/
+- البترول الذهبي — https://zulfi.azyz.site/shop/g_873d2f94d0ecef/
+- التعليق الصحراوي — https://zulfi.azyz.site/shop/gm_a3da88cf9e74cb/
+- الخمشي لقطع الغيار — https://zulfi.azyz.site/shop/gm_c30028fb8e5701/
+- الدبلان لقطع الغيار وصيانه السيارات — https://zulfi.azyz.site/shop/gm_14ad0c3b6f89d3/
+- الدراجة المحترفة — https://zulfi.azyz.site/shop/gm_ae9b16525e3e55/
+- الدعفس للإطارات وخدمة السيارات — https://zulfi.azyz.site/shop/g_3d8ab4bec03df7/
+- الدعفس للكفرات وغيار الزيت — https://zulfi.azyz.site/shop/g_554ae074b32603/
+- الراحلة لقطع غيار السيارات — https://zulfi.azyz.site/shop/g_17b7fee330aee8/
+- الزيت الأصلي — https://zulfi.azyz.site/shop/g_a051d81bd57b60/
+- الزيت الاقوى لزيوت — https://zulfi.azyz.site/shop/g_e0455d281db4b2/
+- الزيت الذهبي — https://zulfi.azyz.site/shop/g_331fac2cf51f4c/
+- السلمان لقطع غيار وصيانة السيارات — https://zulfi.azyz.site/shop/gm_7d0f2ae074919d/
+- السنابل للوقود — https://zulfi.azyz.site/shop/gm_6bed36d29b3f65/
+- الشقير قطع غيار لشاحنات مرسيدس — https://zulfi.azyz.site/shop/gm_9f1bf3e2956813/
+- الشويب لبيع قطع الغيار — https://zulfi.azyz.site/shop/gm_589a10d9d75037/
+- الصالح لصيانة السيارات — https://zulfi.azyz.site/shop/gm_a72d50bdb677f6/
+- الصحراء للصيانة وقطع الغيار — https://zulfi.azyz.site/shop/gm_33b251989e026d/
+- الطريقي لغيار الزيت و غسيل السيارات — https://zulfi.azyz.site/shop/g_5040cc5d3ba408/
+- الطريقي لقطع غيار السيارات — https://zulfi.azyz.site/shop/g_964c2d9b16a800/
+- العضيب للتجارة - قطع السيارات — https://zulfi.azyz.site/shop/g_e116990886e0fc/
+- الغيث لمكيفات السيارات — https://zulfi.azyz.site/shop/gm_27200d2252993e/
+- الفراج لقطع غيار السيارات — https://zulfi.azyz.site/shop/g_35b04215370d20/
+- المجاهد لقطع غيار السيارات والبطاريات — https://zulfi.azyz.site/shop/g_3754d5ac96024d/
+- المركبات الكورية — https://zulfi.azyz.site/shop/g_532df0ca261488/
+- المركز السعودي لصيانة السيارات 4×4 — https://zulfi.azyz.site/shop/gm_4efac498b8bd41/
+- المعتمد الذهبي للإطارات — https://zulfi.azyz.site/shop/g_2b0d15ce0682df/
+- المفتاح الاصفر — https://zulfi.azyz.site/shop/gm_6e6972feae8a2f/
+- الموسى لصيانة السيارات — https://zulfi.azyz.site/shop/gm_24dd9dfd7d6cd2/
+- الموسى لقطع غيار تويوتا الاصلية — https://zulfi.azyz.site/shop/gm_f565de38bf7b1f/
+- انوار الزلفي لصيانة وزينة السيارات — https://zulfi.azyz.site/shop/g_7089f3a57bdbea/
+- ايكيا الناصر للنجاره — https://zulfi.azyz.site/shop/gm_7ee6fc9154bbf9/
+- بئار الدولية — https://zulfi.azyz.site/shop/g_ae604eacada243/
+- بتروجين Petrogen — https://zulfi.azyz.site/shop/g_2da09685f52cf4/
+- بتروجين Petrogen — https://zulfi.azyz.site/shop/g_896d7a498e90f4/
+- بترومين — https://zulfi.azyz.site/shop/g_61c48b9f26bbe8/
+- بترومين — https://zulfi.azyz.site/shop/g_885cfb2f2b83b2/
+- تأجير سيارات الصافي — https://zulfi.azyz.site/shop/gm_d7d93135ab696f/
+- تحفة الروضة لكهرباء السيارات — https://zulfi.azyz.site/shop/gm_1a6a5fa5a7ca1f/
+- تراكس — https://zulfi.azyz.site/shop/gm_7cdbda8f47f3dc/
+- تسليط الضوء لصيانة السيارات وقطع الغيار — https://zulfi.azyz.site/shop/gm_c2ab1b31891897/
+- تشليح الدبلان — https://zulfi.azyz.site/shop/gm_a4c7c70c85f580/
+- تشليح السيارات — https://zulfi.azyz.site/shop/gm_56b09741768908/
+- تشليح بادي — https://zulfi.azyz.site/shop/gm_571bf5772a397e/
+- تشليح عمر — https://zulfi.azyz.site/shop/gm_7666181d04163f/
+- توكيلات البعيجان الزلفي — https://zulfi.azyz.site/shop/gm_413d8bf772912d/
+- جودة عالية — https://zulfi.azyz.site/shop/g_036a423b07d989/
+- حمدان لكهرباء السيارات مثبت سرعة — https://zulfi.azyz.site/shop/g_aac8c48ea884db/
+- دلو واش لخدمات السيارات — https://zulfi.azyz.site/shop/g_2e498b3a15e3f9/
+- رغوة لخدمات السيارات — https://zulfi.azyz.site/shop/g_d1f2b12018915b/
+- ركن الادلاج لتأجير السيارات — https://zulfi.azyz.site/shop/gm_07ac3b1c7d26cc/
+- ركن المحرك — https://zulfi.azyz.site/shop/g_f68c06ec0ff8ca/
+- ركن فوم لغسيل السيارات — https://zulfi.azyz.site/shop/g_0552824f084afa/
+- رمال دبي لزينة السيارات — https://zulfi.azyz.site/shop/gm_caffcc711e53fc/
+- ستيم بوينت — https://zulfi.azyz.site/shop/g_ebe18c01e1b717/
+- سطحات الدهام الزلفي الصناعيه — https://zulfi.azyz.site/shop/gm_78b880cf019431/
+- سطحة ابو عادل — https://zulfi.azyz.site/shop/gm_86d45e022f4214/
+- سليمان دخيل الموسى — https://zulfi.azyz.site/shop/g_27581736d6ff60/
+- سمولر — https://zulfi.azyz.site/shop/gm_4586ed2116ca64/
+- سواتر لتنجيد السيارات — https://zulfi.azyz.site/shop/gm_64088316dc053d/
+- شانجان — https://zulfi.azyz.site/shop/gm_f2ffd8da244877/
+- شركة العقيد لخراطة المعادن — https://zulfi.azyz.site/shop/gm_b20f3ecb89a972/
+- شركة القرعاوي لقطع غيار تويوتا ولكزس الاصلية -فرع الزلفي — https://zulfi.azyz.site/shop/gm_9345494286a048/
+- شركة اليرموك لصيانة السيارات — https://zulfi.azyz.site/shop/g_8c419eedb647cf/
+- شركة حسين لتأجير السيارات - الزلفي — https://zulfi.azyz.site/shop/gm_de99d1d8f102c1/
+- شركة شري لتأجير السيارات | Cherry Rent A Car — https://zulfi.azyz.site/shop/gm_77982169bd2979/
+- شركة مزون الزلفي للتاجير السيارات — https://zulfi.azyz.site/shop/gm_161730bf90a27a/
+- شركة ميزان اليرموك لصيانة السيارات — https://zulfi.azyz.site/shop/gm_d4b4a73d5921f6/
+- شركة هايل لصيانة السيارات — https://zulfi.azyz.site/shop/gm_8e95e30417149f/
+- صفوه المحرك لصيانه السيارات — https://zulfi.azyz.site/shop/gm_6afc19c2650325/
+- غيار زيت الإتقان — https://zulfi.azyz.site/shop/g_b327b7f4dc8102/
+- غيار زيت لزوجة المحرك — https://zulfi.azyz.site/shop/g_c42661a300a3a4/
+- فحص المركبة المتنقل بدي محركات كمبيوتر شامل — https://zulfi.azyz.site/shop/gm_9147322dfb96d5/
+- فرع مؤسسة القشعمي للكفرات — https://zulfi.azyz.site/shop/gm_1717de5d52b0f1/
+- قطع غيار الدبلان الجزيرة — https://zulfi.azyz.site/shop/gm_aec5aa36b763dc/
+- قطع غيار هوندا — https://zulfi.azyz.site/shop/g_89a51725b6f090/
+- قطع غيار هونداي وكيا — https://zulfi.azyz.site/shop/g_4f00a0dec7c399/
+- كاردن لتأجير السيارات | Carden rental cars — https://zulfi.azyz.site/shop/gm_2ee3d8806c1066/
+- كاركير — https://zulfi.azyz.site/shop/g_c4a3bb325e6d34/
+- كراج ابو شيخه — https://zulfi.azyz.site/shop/gm_fadde74985f4bf/
+- كراج الدويش(DOH) للصيانة وبرمجة السيارات — https://zulfi.azyz.site/shop/gm_18b58cae53aa3b/
+- كراج عبادي الملا — https://zulfi.azyz.site/shop/gm_6d2ac1e5cc8e1e/
+- كراج فل ثروتل — https://zulfi.azyz.site/shop/gm_7d6598aa5af93d/
+- كروم لزينة السيارات — https://zulfi.azyz.site/shop/gm_194414c38442a4/
+- كهربائي ابو احمد — https://zulfi.azyz.site/shop/gm_f3f52c1f2f446d/
+- لفات النحاس للصيانة والتشغيل — https://zulfi.azyz.site/shop/gm_d54278c0a4fcd6/
+- لمسة براقه — https://zulfi.azyz.site/shop/gm_878899f499062c/
+- ماجد العضيب لقطع غيار السيارات — https://zulfi.azyz.site/shop/gm_cba53ac1ae5336/
+- مؤسسة أسرار الطريق — https://zulfi.azyz.site/shop/gm_5373b86de465d2/
+- مؤسسة افاق الشاحنات التجارية — https://zulfi.azyz.site/shop/gm_f91e2e314dedfa/
+- مؤسسة القشعمي للكفرات — https://zulfi.azyz.site/shop/gm_1b15d238e7d822/
+- مؤسسة الكسر لقطع غيار السيارت — https://zulfi.azyz.site/shop/g_54f60fe705ea17/
+- مؤسسة خطوط الرسم للتجارة — https://zulfi.azyz.site/shop/gm_22c0bd8f6fa277/
+- مؤسسة ركن التشليح — https://zulfi.azyz.site/shop/gm_3ba9595436d9e3/
+- مؤسسة رمز الجودة للبطاريات — https://zulfi.azyz.site/shop/g_89e040f6bc0406/
+- مؤسسة سر الميزان للتجارة — https://zulfi.azyz.site/shop/gm_510965dd14d729/
+- مؤسسة سراب الصحراء للإطارات — https://zulfi.azyz.site/shop/gm_31cb64009e0a44/
+- مؤسسة سليمان العطاالله للتجارة — https://zulfi.azyz.site/shop/gm_8c2aac75c44043/
+- مؤسسة فرح المواتر لقطع الغيار المستعملة — https://zulfi.azyz.site/shop/gm_62a64193b60072/
+- مؤسسة ممر الإطار للبنشر والزيوت (يوجد بنشر متنقل واشتراك توصيل بنزين - تغير زيت- يوجدبنشر كل الكفرات )) — https://zulfi.azyz.site/shop/gm_7629e36c8a18d9/
+- مؤسسه عبدالله صالح الفراج لقطع غيار السيارات — https://zulfi.azyz.site/shop/g_11bd42e7d0f45b/
+- مجمع المشاريف — https://zulfi.azyz.site/shop/g_6ad4c407c073f3/
+- مجمع المطل الغربي — https://zulfi.azyz.site/shop/g_21adea86947c98/
+- محطة 55 — https://zulfi.azyz.site/shop/gm_01b0d908b674a5/
+- محطة الأتوز — https://zulfi.azyz.site/shop/gm_39937e04c8b989/
+- محطة التركي — https://zulfi.azyz.site/shop/g_8838472bcc73a9/
+- محطة الثويرات — https://zulfi.azyz.site/shop/g_55c8b1ae907130/
+- محطة الدريس — https://zulfi.azyz.site/shop/g_639c3c0f113d7f/
+- محطة الدريس — https://zulfi.azyz.site/shop/g_3686c405915e94/
+- محطة الدريس — https://zulfi.azyz.site/shop/g_dress_dhiyab/
+- محطة الزنيدي — https://zulfi.azyz.site/shop/g_bb526031e597a3/
+- محطة السكران للمحروقات — https://zulfi.azyz.site/shop/g_38882d6e3adf87/
+- محطة السكيبي — https://zulfi.azyz.site/shop/g_ccfd881c1efe15/
+- محطة المتقدمة — https://zulfi.azyz.site/shop/gm_09553cba74741c/
+- محطة المملكة — https://zulfi.azyz.site/shop/g_04ddcc6bf77ca1/
+- محطة الميدان — https://zulfi.azyz.site/shop/g_e60a5efaa85d91/
+- محطة اليمامة — https://zulfi.azyz.site/shop/g_b1d46299b948e8/
+- محطة بترو امان للخدمات البترولية — https://zulfi.azyz.site/shop/g_e26b12ac5ade2e/
+- محطة بتروزد للخدمات البترولية — https://zulfi.azyz.site/shop/g_ce4703e28f7d52/
+- محطة ساسكو — https://zulfi.azyz.site/shop/g_3b209be2dd94d4/
+- محطة ساسكو — https://zulfi.azyz.site/shop/g_6d040958024a02/
+- محطة سمحة — https://zulfi.azyz.site/shop/gm_7a83acbcb97e53/
+- محطة شحن للمركبات الكهربائية — https://zulfi.azyz.site/shop/g_d8b1a866030747/
+- محطة شحن Electromin — https://zulfi.azyz.site/shop/g_7b13394099816f/
+- محطة طريق الشمال — https://zulfi.azyz.site/shop/gm_212bcd82c136fb/
+- محطة مشاريف البطين — https://zulfi.azyz.site/shop/gm_a9615292c6c4e1/
+- محطة وقود سمنان — https://zulfi.azyz.site/shop/g_fc4f9303ef64bd/
+- محفوظ — https://zulfi.azyz.site/shop/gm_0fcd9b05cf4cf4/
+- ‏محل إصلاح أجهزة كهربائية هندي — https://zulfi.azyz.site/shop/gm_31ffd128788fd1/
+- محل بنشر وغيار الزيت — https://zulfi.azyz.site/shop/g_2dcbb8888d215a/
+- مخرطة إبداع الحديثة — https://zulfi.azyz.site/shop/gm_8cafa5a14752ec/
+- مخرطة خبراء نجد — https://zulfi.azyz.site/shop/gm_d667192547c0ce/
+- مركز الحجاب لصيانة السيارات — https://zulfi.azyz.site/shop/gm_96faf119379891/
+- مركز الدبلان لصيانة السيارات — https://zulfi.azyz.site/shop/gm_fb49a8524cfd27/
+- مركز الفجر لسمكرة السيارات والبويه ولقطع غيار السيارات — https://zulfi.azyz.site/shop/gm_71e1ff637e4f74/
+- مركز النجوم لصيانة السيارات — https://zulfi.azyz.site/shop/gm_f0012afe42bddf/
+- مركز تزويد المحرك لصيانة السيارات — https://zulfi.azyz.site/shop/gm_e96501d73d7f14/
+- مركز تشخيص الاعطال لصيانة السيارات — https://zulfi.azyz.site/shop/gm_a21e688ebab9ff/
+- مركز درة الصحراء للصيانة السيارات — https://zulfi.azyz.site/shop/g_2e44c6b4ff95cd/
+- مركز طيور الحباري للتجهيزات البرية والكهرب — https://zulfi.azyz.site/shop/gm_23db8b69193631/
+- مركز لمع لخدمة السيارات — https://zulfi.azyz.site/shop/g_8b2d1749ce015d/
+- مستورد للتجارة قطع الغيار المستعملة — https://zulfi.azyz.site/shop/g_c1fd30aaa2d866/
+- مشاريع الطاقة للبطاريات — https://zulfi.azyz.site/shop/gm_4bcef7bb18fdec/
+- مشحمة المطل الغربي تغيير زيوت — https://zulfi.azyz.site/shop/g_9cde05defa2ca4/
+- مشحمة وبنشر السكران — https://zulfi.azyz.site/shop/g_7a3d8c37a4b332/
+- مشهور لتاجير السيارات — https://zulfi.azyz.site/shop/gm_546bb44223d8ff/
+- معرض ابراهيم البدر للسيارات — https://zulfi.azyz.site/shop/gm_fd48aae9a959c1/
+- معرض احمد المسعود تويوتا — https://zulfi.azyz.site/shop/gm_f6d08b9a223ab6/
+- معرض الدعفس للسيارات — https://zulfi.azyz.site/shop/gm_6fcaf0b4948952/
+- معرض الدوسري لسيارات( الزلفي ) — https://zulfi.azyz.site/shop/gm_67d3c6743f0c42/
+- معرض العمار للسيارات بالزلفي — https://zulfi.azyz.site/shop/gm_b6d56fddb5bcf8/
+- معرض المجيدل للسيارات بالزلفي — https://zulfi.azyz.site/shop/gm_9adef31025602b/
+- معرض الموسى للسيارات — https://zulfi.azyz.site/shop/gm_635fc663f23668/
+- معرض تميز العربة للسيارات — https://zulfi.azyz.site/shop/gm_f745f3e7891814/
+- معرض سلطان الموسى للسيارات — https://zulfi.azyz.site/shop/gm_9f6cecd414325c/
+- معرض ولمان — https://zulfi.azyz.site/shop/gm_07ea8683f08493/
+- مغاسل تقديم الغسيل — https://zulfi.azyz.site/shop/g_1cdef7fe53eb8f/
+- مغاسل رغوة لغسيل السيارات — https://zulfi.azyz.site/shop/g_1c2c8023ae64d5/
+- مغاسل ركن التحلية — https://zulfi.azyz.site/shop/g_92928ed32bba97/
+- مغاسل قطرة الندى — https://zulfi.azyz.site/shop/g_c20a257c55fee0/
+- مغاسل كويك واش الآلية — https://zulfi.azyz.site/shop/g_bf64cb194cc4e3/
+- مغاسل نضافة المنار — https://zulfi.azyz.site/shop/g_0da62b9fd0174d/
+- مغاسل نظافة غسلة — https://zulfi.azyz.site/shop/g_ff1598aeb4d445/
+- مغسلة أعلى درجة لغسيل السيارات — https://zulfi.azyz.site/shop/gm_9a0bb3580ab3c4/
+- مغسلة افضل لمعة للسيارات — https://zulfi.azyz.site/shop/g_0d897436c66e2c/
+- مغسلة العارض - CAR wash — https://zulfi.azyz.site/shop/g_89feaeae7eb8c0/
+- مغسلة بور لسيارات — https://zulfi.azyz.site/shop/g_53bea980cd6557/
+- مغسلة حبكة غسيل لخدمة السيارات — https://zulfi.azyz.site/shop/g_e43a2b33153e59/
+- مغسلة رغوة اليمامة — https://zulfi.azyz.site/shop/g_47f33281272c7e/
+- مغسلة ركن لمعة كار — https://zulfi.azyz.site/shop/g_f9458cbe607ae8/
+- مغسلة روز لمعة لغسيل السيارات — https://zulfi.azyz.site/shop/g_e4e5ba2db06c16/
+- مغسلة سيارات — https://zulfi.azyz.site/shop/g_b594a6bf4736e9/
+- مغسلة سيارات — https://zulfi.azyz.site/shop/g_d7e5d77c38b73d/
+- مغسلة سيارات لمعة نقاء — https://zulfi.azyz.site/shop/g_41c9e4428c2083/
+- مغسلة صفاء المركبة — https://zulfi.azyz.site/shop/g_38140a25cfa83e/
+- مغسلة لمسة وثق لخدمات السيارات — https://zulfi.azyz.site/shop/g_6b74545961d7d3/
+- مغسلة لمعة ودد لخدمة السيارات — https://zulfi.azyz.site/shop/g_b4686a71751113/
+- مفاتيح.. الزلفي...... — https://zulfi.azyz.site/shop/gm_0c0543b433c76d/
+- منبع التيار لكهرباء السيارات — https://zulfi.azyz.site/shop/gm_16caf5d97d1cc7/
+- منجرة هادي العليوي — https://zulfi.azyz.site/shop/gm_f863287db088da/
+- ميزان العضيب — https://zulfi.azyz.site/shop/gm_ad8924718f67bb/
+- ميزان عبدالحكيم العضيب 34 — https://zulfi.azyz.site/shop/g_a4f079f2ae2efe/
+- نجم الغسيل لخدمات السيارات — https://zulfi.azyz.site/shop/g_c5f10f7e2e0a9c/
+- نقشة للاطارات — https://zulfi.azyz.site/shop/gm_5c818f486e4137/
+- نهل — https://zulfi.azyz.site/shop/g_9ad34b9e25a823/
+- هواية لخدمات السيارات — https://zulfi.azyz.site/shop/gm_2cbd59afc54dbd/
+- هيدروليك صوف كار زلفي — https://zulfi.azyz.site/shop/gm_bf728476599bf2/
+- هيكساباور الزلفيHexapower Alzulfi — https://zulfi.azyz.site/shop/gm_4a58a14a371b35/
+- ورشة ابتكار المدينة للألمنيوم — https://zulfi.azyz.site/shop/gm_4c4d070fc2b2bd/
+- ورشة ابو عادل للحداده — https://zulfi.azyz.site/shop/gm_292e7915c91b6b/
+- ورشة أحرف بدي لصيانة السيارات — https://zulfi.azyz.site/shop/gm_6cd8724d57bb96/
+- ورشة أحمد الدويش — https://zulfi.azyz.site/shop/gm_48ce551b04049d/
+- ورشة احمد السوري ابو علي — https://zulfi.azyz.site/shop/gm_88d3b1de28a690/
+- ورشة أصل الابداع للحدادة — https://zulfi.azyz.site/shop/gm_0caf0a5db97084/
+- ورشة الاتقان — https://zulfi.azyz.site/shop/gm_8bd70bf1b97b27/
+- ورشة الاختيار لصيانة السيارات — https://zulfi.azyz.site/shop/g_c17c412d383084/
+- ورشة الاساس — https://zulfi.azyz.site/shop/gm_6b19df5fc0c4f1/
+- ورشة الثويرات للحدادة — https://zulfi.azyz.site/shop/gm_3be8f77444b16b/
+- ورشة الخزامى — https://zulfi.azyz.site/shop/gm_dbbd91b139e36f/
+- ورشة الخطة الناجحة إقبال — https://zulfi.azyz.site/shop/gm_ec52eb6ae5474f/
+- ورشة الخليج — https://zulfi.azyz.site/shop/gm_ebbffc7c0a85be/
+- ورشة الخميس لصيانة المعدات الثقيلة — https://zulfi.azyz.site/shop/gm_475779d3d12495/
+- ورشة الداود للحدادة — https://zulfi.azyz.site/shop/gm_0975b52f6f6e04/
+- ورشة الربيعة — https://zulfi.azyz.site/shop/gm_2b65d5f76e6947/
+- ورشـة الرشيـد — https://zulfi.azyz.site/shop/gm_30fc85e1d5ff17/
+- ورشة الزنيدي للميكانيكى ديزل — https://zulfi.azyz.site/shop/gm_93400b244f3eb8/
+- ورشة الزويد للحدادة والخراطة — https://zulfi.azyz.site/shop/gm_5daf2f3f231d15/
+- ورشة الطيار للصيانة الأجهزة المنزلية — https://zulfi.azyz.site/shop/gm_9bfaa6942e8c1c/
+- ورشة الفاو لخدمات السيارات — https://zulfi.azyz.site/shop/g_0c38319f1a6532/
+- ورشة الفرهود لإصلاح السيارات — https://zulfi.azyz.site/shop/gm_4b178019832dc9/
+- ورشة القشعمي لخدمة السيارات — https://zulfi.azyz.site/shop/gm_0cb68adc7a76e9/
+- ورشة المخاوي — https://zulfi.azyz.site/shop/gm_4fcadc73753d60/
+- ورشة الهدباء لصيانة السيارات وقطع الغيار — https://zulfi.azyz.site/shop/gm_04317b36fb6dce/
+- ورشة الوادي — https://zulfi.azyz.site/shop/gm_9e86828f03aa7d/
+- ورشة الوسم للحداده — https://zulfi.azyz.site/shop/gm_99881e7451e2c9/
+- ورشة اوتاد نجد — https://zulfi.azyz.site/shop/gm_b0db72ae00d789/
+- ورشة أيوب المدالله للحدادة — https://zulfi.azyz.site/shop/gm_56497dec5d7692/
+- ورشة تعديل كار — https://zulfi.azyz.site/shop/gm_8023cba87188ff/
+- ورشة تماسك بلد لصيانة السيارات — https://zulfi.azyz.site/shop/gm_002314ae50f6a5/
+- ورشة حدادة وقرميد — https://zulfi.azyz.site/shop/gm_431e958759d38f/
+- ورشة حياكم للألمنيوم — https://zulfi.azyz.site/shop/gm_c57ff18f1ca253/
+- ورشة خالد سليمان الخميس ( حواجز الشاحنات ) — https://zulfi.azyz.site/shop/gm_4655f2e0a2ddbf/
+- ورشة خليج الإمتياز — https://zulfi.azyz.site/shop/gm_53fc30b370db5f/
+- ورشة درة المشرق — https://zulfi.azyz.site/shop/gm_f90ba127bab1c8/
+- ورشة روائع الإنشاء للحدادة — https://zulfi.azyz.site/shop/gm_9f11e5216f7561/
+- ورشة سعود العضيب لصيانة وسمكرة السيارات — https://zulfi.azyz.site/shop/gm_be08e795be73bc/
+- ورشة سليمان الربيعه لصيانة السيارات — https://zulfi.azyz.site/shop/gm_a1ae8dde80d3ae/
+- ورشة سمكرة والبوية — https://zulfi.azyz.site/shop/gm_2044642f4c5cc9/
+- ورشة شايع الشايع ابو عبداللة — https://zulfi.azyz.site/shop/gm_ac2498ae1f6003/
+- ورشة شمعة الزلفي — https://zulfi.azyz.site/shop/gm_d55f86cb574d9b/
+- ورشة صحاري نجد — https://zulfi.azyz.site/shop/gm_9a3221a1db8518/
+- ورشة صفوة المحرك — https://zulfi.azyz.site/shop/g_babbdfd6ecba5e/
+- ورشة عبدالعزيز الشايع — https://zulfi.azyz.site/shop/gm_63ef763e520968/
+- ورشة علقة — https://zulfi.azyz.site/shop/gm_bb81978854a1ac/
+- ورشة غروة لصيانة السيارات — https://zulfi.azyz.site/shop/gm_21aafc5fbeecfc/
+- ورشة غيار زيت — https://zulfi.azyz.site/shop/gm_3cb5fa75e6ab79/
+- ورشة فن الربوة للحدادة — https://zulfi.azyz.site/shop/gm_08334bb3aa1312/
+- ورشة لمسات الأنجاز للحدادة والالمنيوم — https://zulfi.azyz.site/shop/gm_38e4ed0d0cfb25/
+- ورشة لمعة الهرم للحدادة — https://zulfi.azyz.site/shop/gm_d2c47feb44f726/
+- ورشة لمعة شد بلد لصيانة السيارات — https://zulfi.azyz.site/shop/gm_d052785c79de82/
+- ورشة مجري الكوثر للحدادة — https://zulfi.azyz.site/shop/gm_845b0651cca454/
+- ورشة مجمع الامتياز لصيانة السيارات — https://zulfi.azyz.site/shop/gm_643931e4487392/
+- ورشة معلم كهربائي سيارات ( حسام ) — https://zulfi.azyz.site/shop/g_259e65eff016c5/
+- ورشة منافع البأس للحدادة — https://zulfi.azyz.site/shop/gm_6b6c53421793cc/
+- ورشة ناصر العضيب للحدادة — https://zulfi.azyz.site/shop/gm_00e000d2330d99/
+- ورشة نافع راشد النافع للحدادة والتوانك — https://zulfi.azyz.site/shop/gm_fdea9155fa2728/
+- ورشة نخبة الضمان — https://zulfi.azyz.site/shop/gm_94048c8a69279f/
+- ورشة نخبة سما — https://zulfi.azyz.site/shop/gm_2cefb153683aca/
+- ورشة وقفة كار لسمكرة ورش السيارات وتعديل البارد — https://zulfi.azyz.site/shop/gm_823425442c2e6e/
+- ورشه الموسى لصيانه المرسيدس ونقل الماء الحلو — https://zulfi.azyz.site/shop/gm_ffd0197ff02f63/
+- ورشه بيارق للحدادة و ديكورات الخارجيةالزلفي — https://zulfi.azyz.site/shop/gm_3a140b315b38c1/
+- ورشه مرخ للسمكره — https://zulfi.azyz.site/shop/gm_c4da0ee3d518cf/
+- Black Line — https://zulfi.azyz.site/shop/gm_24b2b3a7226b84/
+- MHP PERFORMANCE كراج المبتكر لصيانة وتعديل السيارات — https://zulfi.azyz.site/shop/gm_1519d77c60830c/
+- Petromin Express — https://zulfi.azyz.site/shop/g_a68fbae7890c31/
+- Rafa 15 محطة رافا (الزلفي) — https://zulfi.azyz.site/shop/g_45f276c4c4f9a5/
+- Sanaiyadh — https://zulfi.azyz.site/shop/gm_74dcceed29aa85/
+- Shell — https://zulfi.azyz.site/shop/g_b07ac4ec2a17cd/
+- SPARK — https://zulfi.azyz.site/shop/gm_d0ee14adbfb9c5/
+- Transit Gas Station | محطة ترانزيت — https://zulfi.azyz.site/shop/g_6bebcc87855c2b/
+
+### صحة وجمال
+- الباتل للعطور — https://zulfi.azyz.site/shop/gm_09841a66afa358/
+- الحلاق الثالث — https://zulfi.azyz.site/shop/gm_fcf3c53e121030/
+- الصالات الرياضية التابعة للمجمع الرياضي بتعليم الزلفي — https://zulfi.azyz.site/shop/g_e1c79af76ec3ed/
+- بيت سلمى — https://zulfi.azyz.site/shop/gm_fb4cea0cbfacab/
+- حلاق — https://zulfi.azyz.site/shop/gm_bb5964882b0eb4/
+- حلاق الأماكن — https://zulfi.azyz.site/shop/g_315f4109d07fea/
+- حلاق الاناقة — https://zulfi.azyz.site/shop/gm_32e93331ba06c1/
+- حلاق الاناقة الرسمية — https://zulfi.azyz.site/shop/g_0e4de0ce76bc1f/
+- حلاق الخالدية — https://zulfi.azyz.site/shop/gm_a5da9168f3d702/
+- حلاق العطالله — https://zulfi.azyz.site/shop/gm_b599017974d30f/
+- حلاق انيس — https://zulfi.azyz.site/shop/gm_2aeaeb515aa5cf/
+- حلاق بدون حجز — https://zulfi.azyz.site/shop/g_fb5af4cb71c9b5/
+- حلاق تواق — https://zulfi.azyz.site/shop/gm_1db3b2ab8a0193/
+- حلاق درة اليمامة — https://zulfi.azyz.site/shop/g_23d7a8c3367069/
+- حلاق ذوقك خليجي للحلاقة الرجالية — https://zulfi.azyz.site/shop/g_1dc4c51dbba59d/
+- حلاق راج — https://zulfi.azyz.site/shop/gm_9cc8ce644ad4bc/
+- حلاق رجالي — https://zulfi.azyz.site/shop/g_f9344a0be408aa/
+- حلاق ركن نظام — https://zulfi.azyz.site/shop/gm_64c0c738a81ef9/
+- حلاق روعة الخالدية — https://zulfi.azyz.site/shop/gm_4ebe41db710f99/
+- حلاق سلة العروبه — https://zulfi.azyz.site/shop/g_b19b67a2b0d195/
+- حلاق شفرات راس — https://zulfi.azyz.site/shop/gm_c8c821ab937823/
+- حلاق ضوء النهار — https://zulfi.azyz.site/shop/gm_5bac563ab799e4/
+- حلاق كروان — https://zulfi.azyz.site/shop/g_e46a267c829eba/
+- حلاق كروم — https://zulfi.azyz.site/shop/g_ccb2bb4a2905e6/
+- حلاق لمسة أنيقة — https://zulfi.azyz.site/shop/gm_04deeb38b7cc30/
+- حلاق لمعة للحلاقة — https://zulfi.azyz.site/shop/g_f8f93b25bfa049/
+- حلاق نور الزلفي — https://zulfi.azyz.site/shop/gm_33df5360cf17eb/
+- حلاق BUZZ CUT — https://zulfi.azyz.site/shop/gm_f57d41cd3b4177/
+- دار نجود — https://zulfi.azyz.site/shop/g_69358c6951ff8e/
+- ريفا سبا - RIVA SPA — https://zulfi.azyz.site/shop/g_39cabcdfd54335/
+- زهرة الجمال لمستحضرات التجميل — https://zulfi.azyz.site/shop/gm_2031f4653cf259/
+- زهرة الخزامى — https://zulfi.azyz.site/shop/gm_17fb20c3822ee7/
+- زيارة للحلاقة الرجاليه — https://zulfi.azyz.site/shop/gm_b127c8e11e3cd7/
+- زين الاماكن للمساج والعلاج الطبيعي والحمام المغربي — https://zulfi.azyz.site/shop/gm_389c0d71753586/
+- صالون احلى تدريج — https://zulfi.azyz.site/shop/gm_534847faf0ba7a/
+- صالون ارمني الزلفي — https://zulfi.azyz.site/shop/g_83e3b8cc4fb7b9/
+- صالون اساطير النيل للحلاقه — https://zulfi.azyz.site/shop/g_ee36dd4933884e/
+- صالون التدريج الأمثل . altadrij alamithl — https://zulfi.azyz.site/shop/g_92fdfb15dac981/
+- صالون الشفرة الأخيرة للحلاقة — https://zulfi.azyz.site/shop/g_f08fe1f32148d7/
+- صالون أمارا — https://zulfi.azyz.site/shop/g_789f23ecd0f96f/
+- صالون ايادي المحترفين للحلاقه — https://zulfi.azyz.site/shop/g_34d5e95cdf189f/
+- صالون أيادي مبدعة للحلاقة — https://zulfi.azyz.site/shop/g_73c821e604c244/
+- صالون حديقة الريان — https://zulfi.azyz.site/shop/gm_016ef065279a21/
+- صالون حلاقة ( حلاق ) — https://zulfi.azyz.site/shop/gm_7a7b074c73dd2e/
+- صالون خمس مقصات — https://zulfi.azyz.site/shop/gm_07bc47c2c22d06/
+- صالون دودو للحلاقة والتجميل — https://zulfi.azyz.site/shop/gm_d4f41afd26361c/
+- صالون رمز الأسطوره — https://zulfi.azyz.site/shop/g_6f1f95edd2a441/
+- صالون سمر للتزيين النسائي (بيرفكت سابقا) — https://zulfi.azyz.site/shop/g_af6bf808d305f9/
+- صالون عشق الإبداع — https://zulfi.azyz.site/shop/gm_21617abcd47e67/
+- صالون غزال الريم للتزيين النسائي — https://zulfi.azyz.site/shop/g_42e1bc3c3daa6c/
+- صالون قمة التحلية — https://zulfi.azyz.site/shop/gm_cba060ea2a120c/
+- صالون كاف هير — https://zulfi.azyz.site/shop/g_60f8d9755568b0/
+- صالون مقص الفنون — https://zulfi.azyz.site/shop/gm_8fb8765ecb6cf2/
+- صالون نجم سما السودان للحلاقة — https://zulfi.azyz.site/shop/g_fa88b799fc5078/
+- صالون نخبة النخبة للحلاقة الرجالية — https://zulfi.azyz.site/shop/gm_1cdc7012739f08/
+- صالون نقطه ندى — https://zulfi.azyz.site/shop/g_b823cd6d584c9c/
+- عناية بشرتي — https://zulfi.azyz.site/shop/gm_252eb3548dd2b1/
+- فوت تايم مساج اقدام — https://zulfi.azyz.site/shop/gm_dc1ca6206a9a9c/
+- قمة الزلفي للحلاقه — https://zulfi.azyz.site/shop/g_8179fbcff59936/
+- كروم لمستحضرات التجميل — https://zulfi.azyz.site/shop/gm_804198a9463abe/
+- لمسة حلاقة — https://zulfi.azyz.site/shop/g_bb998652bde60a/
+- لمسة نواعم — https://zulfi.azyz.site/shop/g_8ee2604096c785/
+- مؤسسة سامي الهمة للحلاقة — https://zulfi.azyz.site/shop/gm_d3c550e2d202b9/
+- محلات حلاقة — https://zulfi.azyz.site/shop/gm_ef0ab6788d2cc6/
+- مركز تدليك الشمس — https://zulfi.azyz.site/shop/gm_dd3d95700bc193/
+- مركز ركن الاخضر الرياضي — https://zulfi.azyz.site/shop/g_c9b614b036a23d/
+- مركز فري بودي الرياضي لحظه فخامه — https://zulfi.azyz.site/shop/g_4856da5b0332ad/
+- مركز كارفن للمساج — https://zulfi.azyz.site/shop/g_a7e50069f1c474/
+- مركز نخبة الاجيال الرياضي — https://zulfi.azyz.site/shop/g_6a0578ccd60138/
+- مزدانه — https://zulfi.azyz.site/shop/g_7507088ebc5d5a/
+- مساج ستار سبا النسائي — https://zulfi.azyz.site/shop/gm_aa81a8acbf3e36/
+- مساج وقت الاسترخاء تابع ل مركز مخرج واحد الرياضي — https://zulfi.azyz.site/shop/g_f0b090e757cd8b/
+- مشغل أراجيز — https://zulfi.azyz.site/shop/g_53b89c6f79a216/
+- مشغل ذات الحسن — https://zulfi.azyz.site/shop/g_8d9156ac54e2f5/
+- مشغل عالم آيلا للأطفال — https://zulfi.azyz.site/shop/g_db7b82c77c70ec/
+- مشغل عذوب للتجميل النسائي — https://zulfi.azyz.site/shop/gm_dc9cb738e5cc10/
+- مشغل لمسة ذكرى للخياطة — https://zulfi.azyz.site/shop/gm_c4165b15722aaf/
+- مشغل لون الحياة — https://zulfi.azyz.site/shop/g_1eafbac1dbdf5b/
+- مشغل نقطة ندى — https://zulfi.azyz.site/shop/g_1e16c4edb7fca5/
+- مشغل واو — https://zulfi.azyz.site/shop/g_89120a171a101a/
+- مكتب عبدالمحسن للمحاماة والاستشارات القانونية — https://zulfi.azyz.site/shop/gm_8e26bfe0f16762/
+- موقع حلاق — https://zulfi.azyz.site/shop/gm_66244baf0e5ff5/
+- ميلاف الزلفي — https://zulfi.azyz.site/shop/gm_3561e97a637353/
+- نظرة مذهلة للحلاقه — https://zulfi.azyz.site/shop/gm_1479e09af7151e/
+- Active point — https://zulfi.azyz.site/shop/g_e69a55c59eba95/
+- Arera zulfi — https://zulfi.azyz.site/shop/gm_bb38951f369b9f/
+- Bangladesh Dasi Salon — https://zulfi.azyz.site/shop/gm_19ba52869dc371/
+- Zoi spa — https://zulfi.azyz.site/shop/g_c381e408dafb1d/
+
+### بنوك وخدمات مالية
+- البنك الأهلي التجاري — https://zulfi.azyz.site/shop/gm_46f209ae19b8a3/
+- بنك البلاد — https://zulfi.azyz.site/shop/gm_09996b6172b212/
+- بنك الرياض — https://zulfi.azyz.site/shop/gm_ee6d4b2c8440e8/
+- حوالات الراجحي — https://zulfi.azyz.site/shop/gm_2042dcd43f41fa/
+- صراف آلي الإنماء — https://zulfi.azyz.site/shop/gm_1089aaafb43aba/
+- صراف الإنماء — https://zulfi.azyz.site/shop/gm_29dd707104bf06/
+- صراف الأهلي — https://zulfi.azyz.site/shop/gm_ed31002290274c/
+- صراف البلاد — https://zulfi.azyz.site/shop/gm_e232de1d93ca76/
+- صراف الراجحي — https://zulfi.azyz.site/shop/gm_f09d6fcb92eada/
+- صراف الرياض — https://zulfi.azyz.site/shop/gm_46edc8cdf4c6d7/
+- صراف العربي — https://zulfi.azyz.site/shop/gm_a02321591e647c/
+- مركز انجاز لتحويل الأموال — https://zulfi.azyz.site/shop/gm_7b21ea9ededed6/
+- مصرف الإنماء — https://zulfi.azyz.site/shop/gm_da8e7f43515bd0/
+- مصرف الراجحي — https://zulfi.azyz.site/shop/gm_956eea5875d4cb/
+- ولاء للتامين — https://zulfi.azyz.site/shop/gm_a2cc088743b03b/
+- Al rajhi ATM — https://zulfi.azyz.site/shop/gm_47abdc22e87af2/
+- Albilad ATM | صراف البلاد — https://zulfi.azyz.site/shop/gm_2b88c2b678d8db/
+- Alinma ATM — https://zulfi.azyz.site/shop/gm_043a3c171e4577/
+- anb البنك العربي الوطني - Zulfi Branch — https://zulfi.azyz.site/shop/gm_7a1bec3bea7278/
+- anb ATM صراف البنك العربي الوطني - Al Zulfi Hospital — https://zulfi.azyz.site/shop/gm_be581b91bc3b5d/
+- anb ATM صراف البنك العربي الوطني - Zulfi Branch — https://zulfi.azyz.site/shop/gm_1df58d337d9270/
+- MoneyGram — https://zulfi.azyz.site/shop/gm_460eef75a197aa/
+- Quickpay - SNB ALAhli — https://zulfi.azyz.site/shop/gm_4c24289a248289/
+- Riyad ATM — https://zulfi.azyz.site/shop/gm_a0dbb9b7433a9e/
+- Riyad Bank — https://zulfi.azyz.site/shop/gm_e428fc6088aecc/
+- Riyad Bank ATM — https://zulfi.azyz.site/shop/gm_a4ffab44c7150a/
+- SAB الأول — https://zulfi.azyz.site/shop/gm_3026d4e78505b6/
+- SNB AlAhli ATM — https://zulfi.azyz.site/shop/gm_318395282941e7/
+- Tahweel Al Rajhi — https://zulfi.azyz.site/shop/gm_a5ffbb1c595513/
+- The Saudi Investment Bank — https://zulfi.azyz.site/shop/gm_28d852556eb825/
+
+### ملابس وتسوق
+- 612 العربية للعود | Arabian Oud — https://zulfi.azyz.site/shop/gm_bc5d7824747210/
+- أبراج للإتصالات ( الرئيسي ) — https://zulfi.azyz.site/shop/g_5f3384a26ae7bc/
+- أبو راكان لبيع الاعلاف — https://zulfi.azyz.site/shop/gm_bea8ee274e2a54/
+- اثير نت للحاسب الالي والالكترونيات — https://zulfi.azyz.site/shop/gm_373b069a6bc4e9/
+- أحمد الحمين للعود — https://zulfi.azyz.site/shop/gm_cb0b6f70d56b03/
+- أحمد الحمين للعود والعطور — https://zulfi.azyz.site/shop/gm_a323b16bece500/
+- احمد سعود الوشيل للاتصالات — https://zulfi.azyz.site/shop/gm_b31a2bf2b2fdcf/
+- ارخص جوال للاتصالات — https://zulfi.azyz.site/shop/gm_49bfabca9888fd/
+- ارض الجواهر — https://zulfi.azyz.site/shop/g_cfe04348d5fade/
+- أرياف نمو — https://zulfi.azyz.site/shop/gm_b61f91ccd5ec27/
+- ازياء الورد — https://zulfi.azyz.site/shop/gm_ea7e9b543e1a48/
+- أزياء شهد للملابس الجاهزة — https://zulfi.azyz.site/shop/g_ddcfcc9b160a46/
+- أزياء لولوه للملابس الجاهزة — https://zulfi.azyz.site/shop/g_962d03ef30de45/
+- اضواء ساري زينة سيارات Sari — https://zulfi.azyz.site/shop/g_ed25dbbbe80a05/
+- أكنان للمفارش — https://zulfi.azyz.site/shop/gm_bc47acc43f67e6/
+- البراري للوازم الرحلات البرية — https://zulfi.azyz.site/shop/gm_ac5df224e57409/
+- البرج للأبواب الاتوماتيكية — https://zulfi.azyz.site/shop/gm_5180bfe6299975/
+- البيت الباريسي — https://zulfi.azyz.site/shop/g_e11fdddba0eae3/
+- الثنيان للعطور — https://zulfi.azyz.site/shop/gm_129a0c37237473/
+- الجارالله للعود — https://zulfi.azyz.site/shop/gm_24f59a54232cae/
+- الخلجان للاثاث — https://zulfi.azyz.site/shop/g_cb8f7a23be3f23/
+- الذواقة — https://zulfi.azyz.site/shop/gm_d42f5ffdd7337c/
+- الراقي للملابس الرجالية — https://zulfi.azyz.site/shop/g_d4b57693c3ab42/
+- الرجل العالي — https://zulfi.azyz.site/shop/gm_e0de26c4f19131/
+- الرسمي للخياطة والملابس الرجالية — https://zulfi.azyz.site/shop/gm_ff0e6b993ef296/
+- الرماية — https://zulfi.azyz.site/shop/gm_2d258c3e409e5b/
+- الرواد الأول للعود — https://zulfi.azyz.site/shop/gm_fb34f43c40eeb4/
+- الرواد لكاميرات المراقبة الأمنية — https://zulfi.azyz.site/shop/gm_23c6a2f2f37a2c/
+- الزلفي للإلكترونيات والأجهزة المنزلية — https://zulfi.azyz.site/shop/g_1780bb2104474f/
+- الزنيدي للكماليات — https://zulfi.azyz.site/shop/g_9710a8aacb6c0a/
+- السكران للزيوت والبطاريات — https://zulfi.azyz.site/shop/gm_aaab93a33310c9/
+- السويكت تميز الاواني المنزليه — https://zulfi.azyz.site/shop/g_b44c1235e67525/
+- الشايع للساعات - الزلفي — https://zulfi.azyz.site/shop/g_486362c0bc0f11/
+- الشبكة الخليجية للمطابخ — https://zulfi.azyz.site/shop/gm_b9d925bf7493b3/
+- الشقير للسلامه والمعدات الصناعية — https://zulfi.azyz.site/shop/gm_5f7cbb911e7868/
+- الصحن للاتصالات — https://zulfi.azyz.site/shop/g_b7698ed46a9c6c/
+- الصقر للملابس الرياضية — https://zulfi.azyz.site/shop/gm_8473bda82a7db6/
+- الصندوق الذكي - سمارت بوكس — https://zulfi.azyz.site/shop/gm_7eb630d2d1e7a6/
+- الظفيري للملابس الرجالية الجاهزة — https://zulfi.azyz.site/shop/g_19a7989ffef968/
+- العبدالرحمن للأثاث الفاخر — https://zulfi.azyz.site/shop/g_c9f9bdc1089bb5/
+- العبيد لصيانة الاجهزة الكهربائيه والتبريد وقطع الغيار — https://zulfi.azyz.site/shop/gm_3255e6f9f04d43/
+- العسل البري — https://zulfi.azyz.site/shop/gm_6a5ea340cbca5c/
+- العصيمي للاثاث — https://zulfi.azyz.site/shop/g_4b1a3050835d88/
+- الغزالي — https://zulfi.azyz.site/shop/g_5de2d74e9ec148/
+- ألف ياء للأزياء — https://zulfi.azyz.site/shop/g_3a971d4c4e08d7/
+- الفروة العربية ( الفايز للمشالح الملكية ) — https://zulfi.azyz.site/shop/g_e6c459931f9c09/
+- المبارك الزلفي للملابس الجاهزه — https://zulfi.azyz.site/shop/gm_81554e5a3f56fe/
+- المتميز للمستلزمات الرجالية — https://zulfi.azyz.site/shop/g_b9ed9098b08ba5/
+- المديد للمواد الغذائية — https://zulfi.azyz.site/shop/gm_b325b02320df83/
+- المعرض الرقمي للإتصالات — https://zulfi.azyz.site/shop/gm_125ab39d99e303/
+- المفضل للملابس الرجالية — https://zulfi.azyz.site/shop/g_d80b569c9bdacf/
+- الموسى لزينة السيارات — https://zulfi.azyz.site/shop/g_8b00af3afb9dee/
+- المومي للساعات — https://zulfi.azyz.site/shop/g_82d4078e832cb2/
+- الهاتف التقني — https://zulfi.azyz.site/shop/gm_660a97ea6f7795/
+- الهاتف الذكي للاتصالات واكسسوارات الجوالات — https://zulfi.azyz.site/shop/g_e9dc2bce6f9bc1/
+- الهدف للالكترونيات — https://zulfi.azyz.site/shop/g_10a5ff5e26b199/
+- الوشيل للاواني والاجهزة المنزلية الفاخرة — https://zulfi.azyz.site/shop/g_18475efa0148b2/
+- الوشيل للغطاسات والمضخات — https://zulfi.azyz.site/shop/gm_1cd25dbdc13893/
+- الوقت الرائع للأواني — https://zulfi.azyz.site/shop/g_f1518314333207/
+- انوار طيبة للمفروشات — https://zulfi.azyz.site/shop/g_edde0c97490647/
+- اواني النيل للاواني المنزلية والاجهزة الكهربائية — https://zulfi.azyz.site/shop/g_10ecc8cecd66a8/
+- أول مختصر للإتصالات — https://zulfi.azyz.site/shop/g_be45a6f53a6e3b/
+- باب وشباك — https://zulfi.azyz.site/shop/gm_33be47c89e8ffe/
+- برقا الجناح للوازم الرحلات بالزلفي — https://zulfi.azyz.site/shop/gm_e9a9ddf9131f2d/
+- بصمة الجودة — https://zulfi.azyz.site/shop/gm_b4dbf0e5b79281/
+- بصمة جوال — https://zulfi.azyz.site/shop/gm_f7eeaab4fb4782/
+- بيت الأسباني — https://zulfi.azyz.site/shop/g_bd300f6838ce70/
+- بيت الدشداشة_الزلفي — https://zulfi.azyz.site/shop/g_e36df5ab8f85db/
+- بيت الرحال لوازم الرحلات خياطه — https://zulfi.azyz.site/shop/gm_6ce9337440971a/
+- بيت الرياضة الفالح — https://zulfi.azyz.site/shop/gm_42dc65ff14121f/
+- بيوتي سيكرتس الزلفي — https://zulfi.azyz.site/shop/gm_d78cf86922107d/
+- بيور فلاور — https://zulfi.azyz.site/shop/gm_38e0b366ebb20d/
+- تربل فون للإتصالات — https://zulfi.azyz.site/shop/gm_f56e7d0ff9df2f/
+- ترتيبات للخياطة النسائية — https://zulfi.azyz.site/shop/g_32f592a488d399/
+- تسابيح للأقمشة النسائية — https://zulfi.azyz.site/shop/gm_767f5a221c3632/
+- تغاريد طير — https://zulfi.azyz.site/shop/gm_2dbf568572e54e/
+- تقنيتي — https://zulfi.azyz.site/shop/gm_655c90e98720fd/
+- تكنيك للإتصالات — https://zulfi.azyz.site/shop/gm_c0f3281d7bf941/
+- تميز الأواني المنزلية ( السويكت) — https://zulfi.azyz.site/shop/g_432f39c7334923/
+- تونتي — https://zulfi.azyz.site/shop/gm_156089ff736ab1/
+- جزم خطوة — https://zulfi.azyz.site/shop/g_2f1cf814243077/
+- جهاز المستقبل — https://zulfi.azyz.site/shop/g_3d22fb9bfce386/
+- جوتن : العصيمي للدهانات — https://zulfi.azyz.site/shop/gm_e4ca9c0b2f394e/
+- جوهرة الراية للوازم الرحلات — https://zulfi.azyz.site/shop/gm_0f110b96b29bc0/
+- جيما للمعادن الثمينة — https://zulfi.azyz.site/shop/g_e81a8683b7ef4c/
+- حذائي — https://zulfi.azyz.site/shop/g_dacf42c56a7b4c/
+- حراج الزلفي — https://zulfi.azyz.site/shop/g_5f17a95c846b4d/
+- حكاية — https://zulfi.azyz.site/shop/g_f3e6355a7a06e9/
+- حكاية للإتصالات — https://zulfi.azyz.site/shop/gm_1013277fbbc23b/
+- خليجيه للعبايات — https://zulfi.azyz.site/shop/g_ec8d6a571b8dbc/
+- خيط حرير(للملابس الجاهزة)—silk thread — https://zulfi.azyz.site/shop/g_2f4e3c7ea6513a/
+- دار حواء للأزياء — https://zulfi.azyz.site/shop/g_a3d7f1a33389d6/
+- درة فهد للمجالس والستائر — https://zulfi.azyz.site/shop/gm_bd8048b55e8c9a/
+- درعه DERAAH — https://zulfi.azyz.site/shop/gm_d5e2b58a076fba/
+- دكان زمان لتحف والنوادر والأثار — https://zulfi.azyz.site/shop/gm_7c5f9d3206083a/
+- دهانات الجزيرة - Jazeera Paints معرض الزلفي — https://zulfi.azyz.site/shop/gm_f97c02a9bdc2c9/
+- دهانات الجزيرة - Jazeera Paints معرض الزلفي ( وكيل ) — https://zulfi.azyz.site/shop/gm_f9b2a6aa3cea67/
+- دهانات برفكس و ماس — https://zulfi.azyz.site/shop/gm_657fa341f94c7d/
+- دهانات بينتكو — https://zulfi.azyz.site/shop/gm_2b6bd649eb573d/
+- دهانات جي.إل.إي — https://zulfi.azyz.site/shop/gm_f34dcc81a0d31b/
+- دهانات رواية الزلفي — https://zulfi.azyz.site/shop/gm_8cfbaa607bea77/
+- دهانات سيجما — https://zulfi.azyz.site/shop/gm_7fd4ee490dd06b/
+- رائد للعود والزعفران — https://zulfi.azyz.site/shop/gm_3544aede2a7dbe/
+- رجل الأناقة للملابس الرجالية — https://zulfi.azyz.site/shop/gm_cf31e9ca627256/
+- رد تاغ — https://zulfi.azyz.site/shop/g_848404dce39b81/
+- رزف للجلابيات الكويتيه — https://zulfi.azyz.site/shop/g_46ee478d5547a3/
+- ركن الجهاز الذكي — https://zulfi.azyz.site/shop/g_8beb38ed5d08c8/
+- ركن القمر للاتصالات — https://zulfi.azyz.site/shop/gm_7fb95dc206974e/
+- ركن المتجر الرياضي — https://zulfi.azyz.site/shop/g_4e4ccec1760d16/
+- ركن فاخر للجلابيات فرع 2 — https://zulfi.azyz.site/shop/g_eb1f935151e372/
+- ركن فكرة للتجارة — https://zulfi.azyz.site/shop/gm_54afb658a64e60/
+- ركن مفخرة للإتصالات — https://zulfi.azyz.site/shop/g_ee64c30e24cd34/
+- ركن هداف الرياضي — https://zulfi.azyz.site/shop/g_6b100ae95b4668/
+- ركن وفر — https://zulfi.azyz.site/shop/gm_4e9983000d357d/
+- رهِاف للمجوهرات الفضية — https://zulfi.azyz.site/shop/g_3a3b0f41ed7bf8/
+- روائع اللباس — https://zulfi.azyz.site/shop/gm_86991b0ce7bd5c/
+- روائع الموجة للاتصالات — https://zulfi.azyz.site/shop/g_6d462080843332/
+- روح العرين — https://zulfi.azyz.site/shop/gm_891bca8fc09b7e/
+- روزا للرخام والجرانيت — https://zulfi.azyz.site/shop/gm_d789354dd1cfc9/
+- روعة البيان للاتصالات — https://zulfi.azyz.site/shop/gm_973e828715cc7a/
+- ريفي | Reefi — https://zulfi.azyz.site/shop/gm_a795e021977e28/
+- زاوية مكعب لبيع الجوالات وصيانتها — https://zulfi.azyz.site/shop/g_9d2d6cd15c3b24/
+- زمن الرجل — https://zulfi.azyz.site/shop/gm_5d23f6cf975718/
+- زمن الرجل للملابس الرجالية — https://zulfi.azyz.site/shop/gm_ca6cc56c2f0f9b/
+- زهرة إيلاف — https://zulfi.azyz.site/shop/gm_1a7521b7abb946/
+- زينة العيال — https://zulfi.azyz.site/shop/g_d8c87d26075b2f/
+- زينة كحله — https://zulfi.azyz.site/shop/g_85b823fd9f8dfc/
+- زينون لزينة السيارات — https://zulfi.azyz.site/shop/g_941295dcc3a61c/
+- سلطان العصيمي-الزلفي-مفروشات العبد الرحمن — https://zulfi.azyz.site/shop/g_9da6f57d8edad8/
+- سليب هاي (موزع معتمد) — https://zulfi.azyz.site/shop/gm_926b66b7fb5530/
+- سليمان الخنيني للذهب والمجوهرات ( فرع - الزلفي) — https://zulfi.azyz.site/shop/g_d18d80f34c31a5/
+- سمارت بوكس — https://zulfi.azyz.site/shop/g_5ca8f587741431/
+- سنام الراقي الفرع الرئيسي — https://zulfi.azyz.site/shop/g_b55f57a89e8687/
+- سنبل — https://zulfi.azyz.site/shop/g_87c2c9a3bb18eb/
+- سوار للكماليات والاكسسوارات — https://zulfi.azyz.site/shop/g_fff36843ec44d6/
+- سيراميك وبرسلان رخام نجوم المشاعل للتجارة 🌹 — https://zulfi.azyz.site/shop/gm_521506a98f89cd/
+- شاشة للاتصالات — https://zulfi.azyz.site/shop/gm_119d09ca8ea0c5/
+- شحم ولحم للتجارة — https://zulfi.azyz.site/shop/gm_053e7711fd674d/
+- شذى عطرك — https://zulfi.azyz.site/shop/g_e3370342e4a387/
+- شركة ابراج الثلج للأجهزة المنزلية — https://zulfi.azyz.site/shop/gm_86778e20e5bdae/
+- شـركـة الـعـصر لـنـقـل الـعـفـش بـالزلفي — https://zulfi.azyz.site/shop/gm_d1ddcac0a63947/
+- شركة فرحة السعادة للألعاب — https://zulfi.azyz.site/shop/gm_3186620e16c3ba/
+- شركة نجم البصمة للتجارة — https://zulfi.azyz.site/shop/g_9553230ec452b3/
+- شركة ومض ماس للالمنيوم — https://zulfi.azyz.site/shop/gm_5a1e08da3980ed/
+- شغف العطور — https://zulfi.azyz.site/shop/gm_58964957208bd1/
+- صياغة — https://zulfi.azyz.site/shop/g_dbc7c57ffc66f7/
+- طلائع سمنان للباركيه و ورق الحائط — https://zulfi.azyz.site/shop/gm_1e12d8f0edf230/
+- عاذر نجد للعود — https://zulfi.azyz.site/shop/gm_513b3bf7e52851/
+- عالم أريام للملابس الجاهزة — https://zulfi.azyz.site/shop/g_f6e1fc9aa327ac/
+- عالم السجاد الحديث فرع الزلفي — https://zulfi.azyz.site/shop/g_82dd4a37290419/
+- عالم الشوايات المركز الرئيسي — https://zulfi.azyz.site/shop/gm_a7715cc7ccaea9/
+- عبايات تسواهن — https://zulfi.azyz.site/shop/gm_ed2c47bc1c0a8e/
+- عبايتي أجمل — https://zulfi.azyz.site/shop/g_0ee0f3da557853/
+- عبايه فاشون — https://zulfi.azyz.site/shop/g_b0a5bc575d8cb2/
+- عبد الصمد القرشي — https://zulfi.azyz.site/shop/gm_111f97f59c23b4/
+- عبدالرحمن المحيميد للاجهزة الكهربائية — https://zulfi.azyz.site/shop/gm_4a777a6b0f37e5/
+- عنوان الأنوثه — https://zulfi.azyz.site/shop/g_7f912bbc978ca8/
+- عيون المها للعبايات — https://zulfi.azyz.site/shop/g_23ec6ed72329ea/
+- غذائكم — https://zulfi.azyz.site/shop/gm_d586379f781967/
+- غرفة الزلفي / zulfiChamber — https://zulfi.azyz.site/shop/gm_6793fc11d109aa/
+- غصن التراث — https://zulfi.azyz.site/shop/gm_6d35826c40a852/
+- فاكهة جودي — https://zulfi.azyz.site/shop/gm_c7864a4cab87e3/
+- فرش الهنا للمفارش بالزلفي — https://zulfi.azyz.site/shop/g_cdc946256f4bf2/
+- فرصه واحده للأواني المنزليه — https://zulfi.azyz.site/shop/g_0d9fd1db402cc1/
+- فلق — https://zulfi.azyz.site/shop/gm_34b8078a7caa79/
+- فلور بيبر — https://zulfi.azyz.site/shop/gm_a7c5353ff613ba/
+- فلورينا — https://zulfi.azyz.site/shop/g_efd1dea94e4419/
+- فن الأواني — https://zulfi.azyz.site/shop/g_fda41ac41f8a64/
+- فهد للاتصالات — https://zulfi.azyz.site/shop/gm_9b73792a929f8e/
+- قلعة الترفيه — https://zulfi.azyz.site/shop/gm_9d5141914434c4/
+- كادي لملابس الأطفال — https://zulfi.azyz.site/shop/g_7bc60f3efc5da4/
+- كرز — https://zulfi.azyz.site/shop/gm_bd365491ef78d5/
+- كرستال للمفروشات والديكور — https://zulfi.azyz.site/shop/g_9f47985782de0d/
+- لمعة الفضه — https://zulfi.azyz.site/shop/g_6eb087b58c486e/
+- لمعة عقدي للألماس والمجوهرات — https://zulfi.azyz.site/shop/g_95fa9514d6253c/
+- لمعة موضة عبايات +لانجري+شنط+ اكسسوارات — https://zulfi.azyz.site/shop/gm_89dc70d3de76a5/
+- لوازم البرية — https://zulfi.azyz.site/shop/gm_9eed1680216dbf/
+- لونيه — https://zulfi.azyz.site/shop/gm_e0f6708c739ecf/
+- مؤسسة اصداء الزلفي للأجهزة المنزلية والكهربائية — https://zulfi.azyz.site/shop/gm_985d812eb9a8b5/
+- مؤسسة الإضاءة المطورة للادوات الكهربائية — https://zulfi.azyz.site/shop/gm_43a341d947176b/
+- مؤسسة الرجيع المعدني للخردة والسكراب — https://zulfi.azyz.site/shop/gm_2c27f11c6f818c/
+- مؤسسة حلول الأمان التجارية — https://zulfi.azyz.site/shop/gm_dd2f8c7483c531/
+- مؤسسة ركن جهز — https://zulfi.azyz.site/shop/gm_cca03693dcc339/
+- مؤسسة روز كادي للعطور — https://zulfi.azyz.site/shop/gm_b0f0226d2f5ddf/
+- مؤسسة ضوء القمر للإتصالات — https://zulfi.azyz.site/shop/g_e3f94c72e1371a/
+- مؤسسة عبدالله احمد المسعود للمواد الغذائية — https://zulfi.azyz.site/shop/gm_2264bd7e18891e/
+- مؤسسة عتاد الشبكة كاميرات مراقبة — https://zulfi.azyz.site/shop/gm_253f7825255c83/
+- مؤسسة فواز اللقماني دهانات ماس — https://zulfi.azyz.site/shop/gm_0fd303098fa219/
+- مؤسسة متجر غنى التجارية — https://zulfi.azyz.site/shop/gm_2fbe4b6cfd6a0a/
+- مؤسسة نجم البريق — https://zulfi.azyz.site/shop/gm_577adf976850bc/
+- ماكس max — https://zulfi.azyz.site/shop/gm_9f088803739756/
+- ماي فون للإتصالات — https://zulfi.azyz.site/shop/gm_50b9df9e6f865f/
+- ماي ليتل كوكو — https://zulfi.azyz.site/shop/ad1794381102259/
+- ماي ليتل كوكو — https://zulfi.azyz.site/shop/g_813e0beeb2c2e6/
+- متجر ارين للاتصالات — https://zulfi.azyz.site/shop/g_a9951fd094230c/
+- متجر باسم للعود ودهن العود — https://zulfi.azyz.site/shop/gm_1b8e317c7708fc/
+- متسلسل للاتصالات — https://zulfi.azyz.site/shop/g_cebacf6b71dfe5/
+- مجوهرات الدانة — https://zulfi.azyz.site/shop/g_2c82ee4c70baec/
+- مجوهرات الطريقي — https://zulfi.azyz.site/shop/g_c6dc263301a849/
+- مجوهرات بيور للفضة — https://zulfi.azyz.site/shop/g_1c2f6a3cf468f3/
+- مجوهرات علي الرشيد — https://zulfi.azyz.site/shop/g_923fa6a62da7b9/
+- مجوهرات لمعة لمى — https://zulfi.azyz.site/shop/g_5ab2f3d736e92f/
+- مجوهرات محمد الرشيد — https://zulfi.azyz.site/shop/g_35c99c4d673e0b/
+- مجوهرات نواعم — https://zulfi.azyz.site/shop/g_e98f78a3f3b69c/
+- محل حقيبة التغذية — https://zulfi.azyz.site/shop/gm_300b9eba608764/
+- محل درة جود للعباءات النسائيه — https://zulfi.azyz.site/shop/g_fbd62c5801f48c/
+- محل ساش للعبايات — https://zulfi.azyz.site/shop/g_9ead4ec546d968/
+- محل سماء تفصيل مجالس — https://zulfi.azyz.site/shop/g_42cc95d9854eb3/
+- محل ملابس جاهزة — https://zulfi.azyz.site/shop/g_db5de39f666f77/
+- محمود عبدالواحد للتجارة — https://zulfi.azyz.site/shop/gm_86a419db91150e/
+- مدار العود — https://zulfi.azyz.site/shop/gm_ddcfa151890666/
+- مرسال للإتصالات — https://zulfi.azyz.site/shop/g_272b61c5c21f8a/
+- مرسال للاتصالات — https://zulfi.azyz.site/shop/g_7f3d2c824d57c3/
+- مرسال للأجهزة الإلكترونية { 2 } — https://zulfi.azyz.site/shop/g_2918859d258063/
+- مركز اركان الحمراء للملابس الجاهزة — https://zulfi.azyz.site/shop/g_2931db503393c3/
+- مركز المنيفي للأقمشة ومستلزمات الخياطة — https://zulfi.azyz.site/shop/gm_41fa24c115b907/
+- مركز ريان للملابس — https://zulfi.azyz.site/shop/g_b4ada7c8caa970/
+- مصنع الخلجان للأثاث — https://zulfi.azyz.site/shop/gm_5fac993c3667fc/
+- معرض ابو ابراهيم للاواني المنزلية — https://zulfi.azyz.site/shop/g_425de82a28c1ef/
+- معرض التعاونية لتقنية المعلومات — https://zulfi.azyz.site/shop/gm_9f0c4664e26f6a/
+- معرض العمير للأواني المنزلية — https://zulfi.azyz.site/shop/g_5dd7d113225f2f/
+- معرض عبدالعزيز محمد الفرهود — https://zulfi.azyz.site/shop/gm_7b3f7804752115/
+- مغسله الشلال — https://zulfi.azyz.site/shop/gm_e58f4e949e44b5/
+- مغسله الفجر — https://zulfi.azyz.site/shop/gm_e205a792d83e16/
+- مغسله زيارة لغسيل الملابس — https://zulfi.azyz.site/shop/gm_e04430a83d4333/
+- مفروشات الساير — https://zulfi.azyz.site/shop/g_ebcecfee2e7f76/
+- مفروشات السكران — https://zulfi.azyz.site/shop/g_e991fc0495cd10/
+- مفروشات السويكت — https://zulfi.azyz.site/shop/g_8d8f180e9bf0fc/
+- مفروشات الكنعان — https://zulfi.azyz.site/shop/g_ff4fdfec1b28b3/
+- مفروشات بصمة الراحه — https://zulfi.azyz.site/shop/g_ea6ef12e462a79/
+- مفروشات ركن الغيم للسجاد للموكيت — https://zulfi.azyz.site/shop/gm_9dbf35fbd24681/
+- مكاديميا — https://zulfi.azyz.site/shop/gm_e02340f1b9a9de/
+- مكتب الحمران للاستثمارات العقارية — https://zulfi.azyz.site/shop/gm_daef3663c9a062/
+- مكتبة التيسير — https://zulfi.azyz.site/shop/g_3f81777064fcb8/
+- مكتبة المنار — https://zulfi.azyz.site/shop/g_dcc099a851d66e/
+- مكتبة اي فور للقرطاسية — https://zulfi.azyz.site/shop/g_d05bb482168dfa/
+- مكتبة روافد العلم للخدمات الطلابية — https://zulfi.azyz.site/shop/g_29a455bae6b545/
+- مكتبة مشكاة المعرفة — https://zulfi.azyz.site/shop/g_71b6da7f62cbda/
+- مكتبة واحة التعلم(قرطاسية) — https://zulfi.azyz.site/shop/g_a432bf2cf5f456/
+- مكسر الاسعار — https://zulfi.azyz.site/shop/gm_475c5910a36da1/
+- مملكة الاصول للتجارة — https://zulfi.azyz.site/shop/g_9d99a4803db2d6/
+- مميز لألعاب الكمبيوتر — https://zulfi.azyz.site/shop/g_b775b8f48848a9/
+- منبع العود — https://zulfi.azyz.site/shop/gm_e5d5d479851fd1/
+- منبع الياسمين — https://zulfi.azyz.site/shop/gm_1bfbf712dcbf49/
+- منزلي اجمل للاواني — https://zulfi.azyz.site/shop/g_6b8ca5af0530bd/
+- مواسم الطفل — https://zulfi.azyz.site/shop/gm_6ca13e883e3621/
+- موري و دقة — https://zulfi.azyz.site/shop/gm_3509ddef892b9f/
+- موسسة النسيج المتقدمة للزي الموحد — https://zulfi.azyz.site/shop/g_ccdea8a4c1af2f/
+- مياس للأزياء — https://zulfi.azyz.site/shop/gm_73dcdc36f1dac7/
+- نبيل للملابس الرجالية — https://zulfi.azyz.site/shop/g_a9c85f8a5f0f7d/
+- نجد للملابس النسائية — https://zulfi.azyz.site/shop/gm_237da317074b0c/
+- نغمة — https://zulfi.azyz.site/shop/g_591562fea8eebe/
+- نقطة الذاكرة للحاسب الالي — https://zulfi.azyz.site/shop/gm_195d0f231d0c5c/
+- نقطة الضوء للالكترونيات — https://zulfi.azyz.site/shop/g_58867d7bd70b11/
+- نوادر جاذبية — https://zulfi.azyz.site/shop/gm_d37f262dcc95ba/
+- نوادر قيراط للذهب والمجوهرات — https://zulfi.azyz.site/shop/g_c6c88e6e7e1fbf/
+- نوادر ماجد للذهب والألماس — https://zulfi.azyz.site/shop/g_1716ba71ebdad3/
+- هايل لمواد البناء — https://zulfi.azyz.site/shop/gm_efe8c4079cd3bc/
+- هدايا الزلفي — https://zulfi.azyz.site/shop/g_36db8db8cdc1b2/
+- هضب — https://zulfi.azyz.site/shop/g_bd925eb94e699d/
+- همس الطبيعة — https://zulfi.azyz.site/shop/gm_3c10d0e65a9003/
+- وليد للالكترونيات (رسيفرات شاشات) — https://zulfi.azyz.site/shop/g_e66790700846d0/
+- Almajed For Oud — https://zulfi.azyz.site/shop/gm_555c6bc7a3d771/
+- By Leena — https://zulfi.azyz.site/shop/gm_c617552273bc5f/
+- Cardial | كارديال‎ — https://zulfi.azyz.site/shop/gm_f91c3cdd3ed471/
+- Hempel Paints دهانات همبل - Aemaal Al Dihaan For Trade Est — https://zulfi.azyz.site/shop/gm_f37f21c844bfa0/
+- OudElite - نخبة العود 7176 — https://zulfi.azyz.site/shop/gm_1cf2fc6c40626e/
+- WA STYLE دبليو آ ستايل — https://zulfi.azyz.site/shop/g_19501dc66a4339/
+- Zohoor Alreef — https://zulfi.azyz.site/shop/gm_3f72d37c4c22c6/
+- Zulfi computer and printer shop — https://zulfi.azyz.site/shop/gm_354b358eaf6738/
+- ZULFI EXBITION — https://zulfi.azyz.site/shop/gm_5af4eda9fda2f2/
+
+### إقامة وفنادق
+- أجواء شاليه — https://zulfi.azyz.site/shop/gm_292b9fc95fca14/
+- استراحة البحر للإيجار اليومي — https://zulfi.azyz.site/shop/gm_5e6c6136e63b26/
+- إستراحة السديرات — https://zulfi.azyz.site/shop/gm_cf5a7b488fabd2/
+- استراحة العمدة — https://zulfi.azyz.site/shop/gm_64c87705428263/
+- استراحة الوصل — https://zulfi.azyz.site/shop/gm_75bdb6c94d8c09/
+- إستراحة شيخة — https://zulfi.azyz.site/shop/gm_3271f7385464cf/
+- استراحة ضوء القمر — https://zulfi.azyz.site/shop/gm_3c68c9c9bd5d7a/
+- استراحة نجد — https://zulfi.azyz.site/shop/gm_8a859348fc021c/
+- استراحة نخيلات — https://zulfi.azyz.site/shop/gm_e5b7518a00ca52/
+- استراحة نسيم الشمال للإيجار اليومي — https://zulfi.azyz.site/shop/gm_fe8422792f7c30/
+- استراحة نواره — https://zulfi.azyz.site/shop/gm_11ae59d13fb992/
+- استراحة همسات 1 — https://zulfi.azyz.site/shop/gm_87c94dff7433f9/
+- استراحة وصال — https://zulfi.azyz.site/shop/gm_2fa8988610a736/
+- اطلالة الزلفي للشقق المفروشة — https://zulfi.azyz.site/shop/gm_973c68c0530dfe/
+- الرومانسية للشقق المفروشة — https://zulfi.azyz.site/shop/gm_09739d8f56f8b2/
+- الغريشية — https://zulfi.azyz.site/shop/gm_6fbe4987ea9816/
+- باسكن روبنز — https://zulfi.azyz.site/shop/gm_a5934ccb2fa598/
+- باسكن روبنز للأطفال — https://zulfi.azyz.site/shop/gm_7aa2964cb4f0a0/
+- بيت دخيل ومريم للايجار اليومي — https://zulfi.azyz.site/shop/gm_07cc7a36b9225d/
+- بيت مطلق التراثي — https://zulfi.azyz.site/shop/gm_d28d016038a656/
+- جاردن — https://zulfi.azyz.site/shop/gm_305a30400300b1/
+- جريبيعة — https://zulfi.azyz.site/shop/gm_5f5d1fa7f137af/
+- دار عكاظ للشقق المخدومة — https://zulfi.azyz.site/shop/gm_2c10d6d1f7a535/
+- رمال دبي للشقق المفروشة — https://zulfi.azyz.site/shop/gm_c04bec7e0f9f77/
+- شالية الفرسان — https://zulfi.azyz.site/shop/gm_5551ee0b4d1a0b/
+- شالية امي نورة — https://zulfi.azyz.site/shop/gm_5f04b90833cf78/
+- شالية أنوار الجبال — https://zulfi.azyz.site/shop/gm_87f705e269e0fa/
+- شالية توليب — https://zulfi.azyz.site/shop/gm_82fe0453cfd0fa/
+- شالية جنة العريف — https://zulfi.azyz.site/shop/gm_ace6fa2f5b3f71/
+- شالية ذكريات — https://zulfi.azyz.site/shop/gm_c13bb805aadc54/
+- شالية ريفي الفندقي — https://zulfi.azyz.site/shop/gm_b651a4d9b333c0/
+- شالية عين الريم — https://zulfi.azyz.site/shop/gm_fef9d0b7d161b3/
+- شالية مزون — https://zulfi.azyz.site/shop/gm_c5531d33a0fe46/
+- شالية ومزرعة صنوان — https://zulfi.azyz.site/shop/gm_ac3a9b4ef9ca72/
+- شاليه — https://zulfi.azyz.site/shop/gm_1bf1d8ce443046/
+- شاليه أبيات — https://zulfi.azyz.site/shop/gm_a357c9876ed7b6/
+- شاليه أجوان للإيجار اليومي — https://zulfi.azyz.site/shop/gm_7b17538a1d10df/
+- شاليه ار في RV — https://zulfi.azyz.site/shop/gm_c438a036757628/
+- شاليه أرجوان — https://zulfi.azyz.site/shop/gm_5382d3cefd7117/
+- شاليه الجوهره — https://zulfi.azyz.site/shop/gm_bb071d6f7d29d1/
+- شاليه الردف الزلفي — https://zulfi.azyz.site/shop/gm_67550b06e1ee79/
+- شاليه الرونق — https://zulfi.azyz.site/shop/gm_51fa4f897159aa/
+- شاليه الريف. الزلفي — https://zulfi.azyz.site/shop/gm_93d6adc62a6015/
+- شاليه السلام — https://zulfi.azyz.site/shop/gm_f47d9a81a5aae1/
+- شاليه اللوز — https://zulfi.azyz.site/shop/gm_f432e95ee130ae/
+- شاليه المصيف — https://zulfi.azyz.site/shop/gm_9d2ea409c9c9fb/
+- شاليه المقصورة — https://zulfi.azyz.site/shop/gm_1c218b3185ff5f/
+- شاليه النخله — https://zulfi.azyz.site/shop/gm_dfd8f6eac4c905/
+- شاليه النخيل الزلفي — https://zulfi.azyz.site/shop/gm_ae504c7fab40d0/
+- شاليه الياقوت — https://zulfi.azyz.site/shop/gm_28c157254ecc76/
+- شاليه اليرموك — https://zulfi.azyz.site/shop/gm_52911a89cd2f94/
+- شاليه امل — https://zulfi.azyz.site/shop/gm_f3c8dea5917230/
+- شاليه امي لولوه — https://zulfi.azyz.site/shop/gm_89fb7a12a2265f/
+- شاليه اوكسجين — https://zulfi.azyz.site/shop/gm_428debc1bbcb08/
+- شاليه إيفنتس EVENTS — https://zulfi.azyz.site/shop/gm_d0bb09615e0da9/
+- شاليه إيڤل VIP — https://zulfi.azyz.site/shop/gm_6ce515c0309214/
+- شاليه إيلاف — https://zulfi.azyz.site/shop/gm_77db84fe77e2b0/
+- شاليه بانوراما ڤيو — https://zulfi.azyz.site/shop/gm_7f476a4e8196db/
+- شاليه برايفت — https://zulfi.azyz.site/shop/gm_a7df92880f68d1/
+- شاليه بلو هآت Blue hut — https://zulfi.azyz.site/shop/gm_0cbfdfcdbfff3b/
+- شاليه تجون — https://zulfi.azyz.site/shop/gm_61b6c5d051ad37/
+- شاليه جراند وود | Grand Wood chalet — https://zulfi.azyz.site/shop/gm_97e60f2dc7a481/
+- شاليه ديم — https://zulfi.azyz.site/shop/gm_5d66681f3dbea2/
+- شاليه ذا بارك — https://zulfi.azyz.site/shop/gm_8daf798775b1a9/
+- شاليه راحتي — https://zulfi.azyz.site/shop/gm_8428c3bfe4d470/
+- شاليه روز الين الزلفي — https://zulfi.azyz.site/shop/gm_1fb77d333aced2/
+- شاليه ريڤانا بالزلفي — https://zulfi.azyz.site/shop/gm_8080671de76d01/
+- شاليه سُحب — https://zulfi.azyz.site/shop/gm_4f91cc6596802b/
+- شاليه سكون بالزلفي ( بحي الروضة ) — https://zulfi.azyz.site/shop/gm_7fe103bb4ad23e/
+- شاليه سما بارك — https://zulfi.azyz.site/shop/gm_3998e8b3791347/
+- شاليه سورينتو — https://zulfi.azyz.site/shop/gm_a64718a513c246/
+- شاليه شموخ — https://zulfi.azyz.site/shop/gm_3b7efead8c6912/
+- شاليه فيو بارك — https://zulfi.azyz.site/shop/gm_c051e6ed940564/
+- شاليه كارديف — https://zulfi.azyz.site/shop/gm_fe17955c1ad1f9/
+- شاليه كاونتري هاوس — https://zulfi.azyz.site/shop/gm_83bed9b92d1437/
+- شاليه لمّة — https://zulfi.azyz.site/shop/gm_a518fc7a5515ee/
+- شاليه لوسين — https://zulfi.azyz.site/shop/gm_7ed132308cedbd/
+- شاليه لين Leen Chalet — https://zulfi.azyz.site/shop/gm_024fc947190a24/
+- شاليه لينات — https://zulfi.azyz.site/shop/gm_da6d9e6b2fe97b/
+- شاليه ماما نورة الريفي — https://zulfi.azyz.site/shop/gm_f6ccd1bad83c0d/
+- شاليه مزرعتنا — https://zulfi.azyz.site/shop/gm_8b7ca17807bb6a/
+- شاليه منتجع عين السيح — https://zulfi.azyz.site/shop/gm_652d1efd8b89ab/
+- شاليه ميلين — https://zulfi.azyz.site/shop/gm_9e5a749f3dad29/
+- شاليه نبراس — https://zulfi.azyz.site/shop/gm_3ace3db1cfeb36/
+- شاليه نُزُل — https://zulfi.azyz.site/shop/gm_cb1ea575b6c7ac/
+- شاليه نور نجد — https://zulfi.azyz.site/shop/gm_1b5d3436ecd5da/
+- شاليه وناسة — https://zulfi.azyz.site/shop/gm_4dacaaaa96412c/
+- شاليه ويلز هاوس — https://zulfi.azyz.site/shop/gm_fb8c8847a7814f/
+- شاليه يمه وضحى — https://zulfi.azyz.site/shop/gm_6e7e64ada227b6/
+- شاليه vip للمناسبات — https://zulfi.azyz.site/shop/gm_4dc0812585dd03/
+- شاليهات — https://zulfi.azyz.site/shop/gm_bbcbb3bea95e31/
+- شاليهات إطلالة الزلفي — https://zulfi.azyz.site/shop/gm_c539f964c89f2d/
+- شاليهات الألعاب المائية — https://zulfi.azyz.site/shop/gm_d9d3a24b4346a9/
+- شاليهات الأمسيات بالزلفي — https://zulfi.azyz.site/shop/gm_9a23eceb72d631/
+- شاليهات الجوري — https://zulfi.azyz.site/shop/gm_1b310731e11465/
+- شاليهات الخزامى — https://zulfi.azyz.site/shop/gm_06586ac9586f87/
+- شاليهات القمم — https://zulfi.azyz.site/shop/gm_8c6b9bd1383c78/
+- شاليهات المنتجع — https://zulfi.azyz.site/shop/gm_ad210109d85111/
+- شاليهات تارا — https://zulfi.azyz.site/shop/gm_02420c080bd3f8/
+- شاليهات تي - آر — https://zulfi.azyz.site/shop/gm_22645e547a7b7f/
+- شاليهات ديالا — https://zulfi.azyz.site/shop/gm_dd87d5020a87c1/
+- شاليهات ديم لايت — https://zulfi.azyz.site/shop/gm_fe13e0b6452451/
+- شاليهات رتاج — https://zulfi.azyz.site/shop/gm_37f3af1acfc5ae/
+- شاليهات روجينا — https://zulfi.azyz.site/shop/gm_e8efe1e07b7443/
+- شاليهات ڤيوڤيلا | View Villa — https://zulfi.azyz.site/shop/gm_10e3ca9f264119/
+- شاليهات لافندر — https://zulfi.azyz.site/shop/gm_6d35bc30550701/
+- شاليهات لانتانا الفندقية الزلفي — https://zulfi.azyz.site/shop/gm_39376b57bf2eab/
+- شاليهات مارسيليا — https://zulfi.azyz.site/shop/gm_f19539080e9dc6/
+- شاليهات مارينا — https://zulfi.azyz.site/shop/gm_4769fe8b8a1ce6/
+- شاليهات مسك — https://zulfi.azyz.site/shop/gm_d808b55e4a9b6c/
+- شاليهات مَنزِل فلوة — https://zulfi.azyz.site/shop/gm_ec36dd8b794889/
+- شاليهات نافا — https://zulfi.azyz.site/shop/gm_3dde9b65656010/
+- شاليهات نجوم السلام (ستار ستي) — https://zulfi.azyz.site/shop/gm_d8c92d7b7bb629/
+- شقق ابو فهد — https://zulfi.azyz.site/shop/gm_3e9dabf7b8c14f/
+- شقق استراحة السحاب للمدالله — https://zulfi.azyz.site/shop/gm_ddc6e5b818eda9/
+- شقق طيبة المفروشة — https://zulfi.azyz.site/shop/gm_7fb090caa9a910/
+- شقق ليال الربيع للشقق المفروشة — https://zulfi.azyz.site/shop/gm_652a981fd6de03/
+- شقق مفروشة شهري - سنوي الزلفي — https://zulfi.azyz.site/shop/gm_a72e93c25f9a56/
+- شقق مندرين الشرق للشقق المخدومة — https://zulfi.azyz.site/shop/gm_6a158389bb506f/
+- شقه — https://zulfi.azyz.site/shop/gm_b1db200d0bcf15/
+- صيانه الاجهزه و الاواني المنزليه — https://zulfi.azyz.site/shop/gm_fde054d177337b/
+- غرف للايجار اليومي — https://zulfi.azyz.site/shop/gm_a61be2e104728e/
+- فندق البستان — https://zulfi.azyz.site/shop/gm_fc21a6ddf51242/
+- فندق مكوث — https://zulfi.azyz.site/shop/gm_61a9d7461709fa/
+- قصر الزلفي - شقق مفروشة — https://zulfi.azyz.site/shop/gm_e83398487c527d/
+- مخيم المر — https://zulfi.azyz.site/shop/gm_b4c9d7532af5ad/
+- مزرعة ابو راكان — https://zulfi.azyz.site/shop/gm_3efabf5c22d4db/
+- مزرعة الزنيدية — https://zulfi.azyz.site/shop/gm_06f71f0c3de59e/
+- مزرعة العامرة الزلفي البطين الجنوبي — https://zulfi.azyz.site/shop/gm_9d0183088911ce/
+- مزرعة محمد يوسف الضويحي (منتجع خاص) — https://zulfi.azyz.site/shop/gm_8cf9e7e8385db8/
+- مزرعة واستراحة الفرهود — https://zulfi.azyz.site/shop/gm_ee092aedadc408/
+- مزرعه البدر — https://zulfi.azyz.site/shop/gm_6cf47cddb3f0a0/
+- ملعب واستراحة الوفاء — https://zulfi.azyz.site/shop/gm_edfddcd33edc30/
+- منبع الراحة للوحدات السكنية — https://zulfi.azyz.site/shop/gm_34da5bd9623b48/
+- منتجع — https://zulfi.azyz.site/shop/gm_4d9d5f16f0a937/
+- منتجع الأثله — https://zulfi.azyz.site/shop/gm_821e234c2cb192/
+- منتجع العريش — https://zulfi.azyz.site/shop/gm_33487e94d8df57/
+- منتجع الفوز — https://zulfi.azyz.site/shop/gm_1b2be0a8ad93a2/
+- منتجع الكنّة — https://zulfi.azyz.site/shop/gm_29e700f551fdfd/
+- منتجع النادر — https://zulfi.azyz.site/shop/gm_9f600c0daecc50/
+- منتجع الياسمين — https://zulfi.azyz.site/shop/gm_a50579445a328b/
+- منتجع عريعرة — https://zulfi.azyz.site/shop/gm_ea80bfc66ae4f2/
+- منتجع مملكتي — https://zulfi.azyz.site/shop/gm_9e9cb66dea37a8/
+- منتجع منسية الريفي — https://zulfi.azyz.site/shop/gm_b857a8d54f65aa/
+- منتجع وشالية الريم — https://zulfi.azyz.site/shop/gm_75d4c85b0e6fca/
+- منتجع ومربط الثمايل — https://zulfi.azyz.site/shop/gm_1178cf79f53f64/
+- منتجع ومزرعة الثويرات — https://zulfi.azyz.site/shop/gm_178324e360cfc5/
+
+### خدمات عامة
+- ابو بدر — https://zulfi.azyz.site/shop/gm_b41ecaf2fa92b6/
+- ابو رائد للخدمات العقارية — https://zulfi.azyz.site/shop/gm_6dfc703cd3933d/
+- أسس عنايتي — https://zulfi.azyz.site/shop/gm_16b6f5782412cb/
+- افق لتصميم المواقع والمتاجر الالكترونية — https://zulfi.azyz.site/shop/gm_4769ccc7b313ca/
+- أفنان للسيراميك — https://zulfi.azyz.site/shop/gm_8c5ee8d10dc897/
+- الباتل محامون ومحكمون ومستشارون قانونيون — https://zulfi.azyz.site/shop/gm_f10aad44259af2/
+- الجمعية الصحية التطوعية في الزلفي — https://zulfi.azyz.site/shop/gm_41c1293d80fdaf/
+- الحداد المتميز — https://zulfi.azyz.site/shop/gm_e03a62e9960ab5/
+- الرشاقة السعيدة فرع الزلفي — https://zulfi.azyz.site/shop/gm_e3280cbca5f828/
+- الرومي للعقارات — https://zulfi.azyz.site/shop/gm_2c87011b58d18b/
+- الزلفي بوليفارد — https://zulfi.azyz.site/shop/gm_238839647fd68d/
+- السلمان لغيار الزيت — https://zulfi.azyz.site/shop/gm_6f699c28be188d/
+- السويكت — https://zulfi.azyz.site/shop/gm_9f810e87921821/
+- السويكت دخيل للأواني المنزلية والبلاستيكات — https://zulfi.azyz.site/shop/gm_1db288f13de327/
+- السويكت غاليري — https://zulfi.azyz.site/shop/gm_ee889144190d92/
+- الشامل للبلاستيكات والمنظفات — https://zulfi.azyz.site/shop/gm_b0aede617b161f/
+- الشمال للحداده — https://zulfi.azyz.site/shop/gm_de3844d2e330f5/
+- الصديق — https://zulfi.azyz.site/shop/gm_70ba5ce4452cd7/
+- الطريقي للزراعة والتجارة — https://zulfi.azyz.site/shop/gm_ec246d32e7e0b8/
+- العمار لمواد البناء — https://zulfi.azyz.site/shop/gm_fdd9993062b0c3/
+- الغريملات للاستثمارات العقارية — https://zulfi.azyz.site/shop/gm_aaba67e99d91b4/
+- الفرهود للاخشاب ومواد البناء ولوازم الورش — https://zulfi.azyz.site/shop/gm_77fcac0cb83c6e/
+- الفريح — https://zulfi.azyz.site/shop/gm_66f5b0b0f87038/
+- القسم النسائي-جمعية البر الخيرية بالزلفي — https://zulfi.azyz.site/shop/gm_bcafe480ecf9de/
+- المدونة للخدمات العقارية — https://zulfi.azyz.site/shop/gm_578d4e6120a5a9/
+- المديد للاستثمار العقاري — https://zulfi.azyz.site/shop/gm_c88c39b3f43ee0/
+- المقتصد الذكي — https://zulfi.azyz.site/shop/gm_96dadfd35e1c05/
+- الموسى للإستثمار والتطوير العقاري — https://zulfi.azyz.site/shop/gm_41fa9758a74acb/
+- النتيفي للعقارات — https://zulfi.azyz.site/shop/gm_d6015f38fee629/
+- الهدف للخدمات الالكترونيه — https://zulfi.azyz.site/shop/gm_97788bb05d8ca7/
+- الهميجان لمواد البناء الرمل — https://zulfi.azyz.site/shop/gm_bb30a684557989/
+- الواحة — https://zulfi.azyz.site/shop/gm_32fb23eadc0ebe/
+- اوراق الخريف زهور ورد — https://zulfi.azyz.site/shop/gm_660f9ba154728e/
+- بروست بيت الفراخ — https://zulfi.azyz.site/shop/gm_5722f3923ffcb0/
+- بقاله ام شيح — https://zulfi.azyz.site/shop/gm_d931886320d3a8/
+- بو ضاري .. ساندويش وشاهي — https://zulfi.azyz.site/shop/gm_c091642bc15cc3/
+- بيتنا — https://zulfi.azyz.site/shop/gm_238ea1902c063d/
+- تاجير معدات ثقيلة الشايع — https://zulfi.azyz.site/shop/gm_671af12d747f11/
+- ترند ماكس الزلفي — https://zulfi.azyz.site/shop/gm_3b141315ad6fad/
+- تعاونية الزلفي للخدمات الزراعية — https://zulfi.azyz.site/shop/gm_4ceaea4ee2e995/
+- توفير الفخامة — https://zulfi.azyz.site/shop/gm_6985aff610060a/
+- توكيلات البعيجان فرع الزلفي — https://zulfi.azyz.site/shop/gm_72dca8d4f6e78e/
+- جزيرة الترفيه — https://zulfi.azyz.site/shop/gm_736b95113837bb/
+- جوتن: مؤسسة درة الزلفي — https://zulfi.azyz.site/shop/gm_0ceff5ebe33699/
+- جودة عالم التخفيض — https://zulfi.azyz.site/shop/gm_22f559ecfcdf85/
+- حجوزات داود | Dawodbooking — https://zulfi.azyz.site/shop/gm_2b14cc43a83f69/
+- حملة الرسالة للحج والعمرة — https://zulfi.azyz.site/shop/gm_cb1645ef5c9325/
+- حملة العراجة للحج والعمرة فرع الزلفي — https://zulfi.azyz.site/shop/gm_5f2f2fe137976f/
+- خلية جوري — https://zulfi.azyz.site/shop/gm_55f84b9b749e9c/
+- دنيا الابتكارات — https://zulfi.azyz.site/shop/gm_d7fa2b8a49f8c1/
+- دهانات الخطوط الذهبي — https://zulfi.azyz.site/shop/gm_5349302f605a8d/
+- رغد المجد لنجاره — https://zulfi.azyz.site/shop/gm_e9583458d68088/
+- ركن افاق للاتصالات — https://zulfi.azyz.site/shop/gm_bfbb97508407ca/
+- زيد للعقارات — https://zulfi.azyz.site/shop/gm_9994f397e402d6/
+- ساحة تاجير معدات — https://zulfi.azyz.site/shop/gm_0185e63ff89de2/
+- سبتمبر فلاورز || September Flowers — https://zulfi.azyz.site/shop/gm_25fe6025d77f13/
+- سماء الزلفي للاستقدام — https://zulfi.azyz.site/shop/gm_4a4ed002cda70d/
+- سمنان لحلول المياه — https://zulfi.azyz.site/shop/gm_571b9992f59d7f/
+- سوق اعلاف برسیم تبن الزلفي — https://zulfi.azyz.site/shop/gm_f66c19c1aaf272/
+- سوق الاعلاف — https://zulfi.azyz.site/shop/gm_8f0950b0425927/
+- سوميت للمنتجات السودانية — https://zulfi.azyz.site/shop/gm_50057f5d09e5ee/
+- سيتي مول — https://zulfi.azyz.site/shop/gm_7cd1d9a475a603/
+- شركة أبناء مهنا المدالله للبلك والخرسانه — https://zulfi.azyz.site/shop/gm_5f003c7c5ae057/
+- شركة الاضواء الشمسية للتجارة — https://zulfi.azyz.site/shop/gm_80f637a7b30125/
+- شركة الحمين والملحم للخرسانه الجاهزة والبلك — https://zulfi.azyz.site/shop/gm_6b4f61b5b59eeb/
+- شركة الوسائل الصناعية بالزلفي — https://zulfi.azyz.site/shop/gm_995998b4548866/
+- شركة أنفال للأبواب الأوتوماتيكية الزلفي — https://zulfi.azyz.site/shop/gm_7d5048c9949329/
+- شركة اوتاد نجد AWTAD NAJD — https://zulfi.azyz.site/shop/gm_469ad03548c847/
+- شركة بابل للاستقدام — https://zulfi.azyz.site/shop/gm_ab8be59fc1620c/
+- شركة كشف تسربات المياه بالزلفي عزل خزانات — https://zulfi.azyz.site/shop/gm_eed893b708343a/
+- شركة منازل الامل للتطوير العقاري — https://zulfi.azyz.site/shop/gm_d74e250ce4b7e9/
+- شركة واف لوب (wafloop) للتسويق الالكتروني — https://zulfi.azyz.site/shop/gm_4c0f87ac70e687/
+- طارق الزنيدي محامون ومستشارون — https://zulfi.azyz.site/shop/gm_a7a6d2e5cd4e04/
+- طيبة الاسم لتأجير المعدات — https://zulfi.azyz.site/shop/gm_4846ca29d372c9/
+- عالم اول خطوه لضيافة الاطفال — https://zulfi.azyz.site/shop/gm_32c843eadee704/
+- على المسمى للعقارات — https://zulfi.azyz.site/shop/gm_e675b0767daa41/
+- عمر المنيع للعقارات — https://zulfi.azyz.site/shop/gm_e63bd5edf82a12/
+- غاز الشمري — https://zulfi.azyz.site/shop/gm_47cc787d035b8a/
+- غاية الترفيه — https://zulfi.azyz.site/shop/gm_0055ceca245426/
+- فحص مركبتي المتنقل — https://zulfi.azyz.site/shop/gm_9c9f509c153366/
+- فرع شركة زين للإتصالات — https://zulfi.azyz.site/shop/gm_69ddf79e6d568a/
+- فلتر — https://zulfi.azyz.site/shop/gm_3345dcf9971061/
+- قوه الصقور لتاجير المعدات — https://zulfi.azyz.site/shop/gm_c11872ef1b87c9/
+- قيم في ار GAMES VR — https://zulfi.azyz.site/shop/gm_de27667927c155/
+- كهربائي منازل الزلفي — https://zulfi.azyz.site/shop/gm_e32780c6b72686/
+- لتأجير معدات الخفيفه — https://zulfi.azyz.site/shop/gm_2f1f41230b231a/
+- لجنة التنمية الاجتماعية الأهلية بمركز علقة — https://zulfi.azyz.site/shop/gm_28a116c567b5b0/
+- لمسة رتاج للالمنيوم والحداده — https://zulfi.azyz.site/shop/gm_feffa0d634289c/
+- م/ حمدي الكهربائي — https://zulfi.azyz.site/shop/gm_9a29ab2e99de1e/
+- مؤسسة أفق الشروق — https://zulfi.azyz.site/shop/gm_b438a2b57aab7f/
+- مؤسسة الأضواء البديلة للطاقة الشمسية — https://zulfi.azyz.site/shop/gm_cdefe47287bb91/
+- مؤسسة الفرهود لتجارة الحديد ومواد البناء — https://zulfi.azyz.site/shop/gm_8a9e1466af6e04/
+- مؤسسة القمرا الزراعية — https://zulfi.azyz.site/shop/gm_2f92bcf53df348/
+- مؤسسة المسار العاشر لتقنية المعلومات — https://zulfi.azyz.site/shop/gm_a329628c322485/
+- مؤسسة توقيع — https://zulfi.azyz.site/shop/gm_b1940edc8511eb/
+- مؤسسة خلاصة الأغذية للتجارة — https://zulfi.azyz.site/shop/gm_ef1939e2bad8d0/
+- مؤسسة عالم الاختصاص للمستلزمات الطبية — https://zulfi.azyz.site/shop/gm_187654ac753908/
+- مؤسسة مدد للتجارة — https://zulfi.azyz.site/shop/gm_9d690ba840568a/
+- مجد الرواد لخدمة المنازل — https://zulfi.azyz.site/shop/gm_6fe81c45e11173/
+- مجمع اسواق التعاونية — https://zulfi.azyz.site/shop/gm_206bd2240dacc7/
+- محل العليوي لبيع الغاز — https://zulfi.azyz.site/shop/gm_534cdb73689f7a/
+- محل بيع قطع غيار مكيفات و افران — https://zulfi.azyz.site/shop/gm_96650b6c54c011/
+- محل هادي العليوي للدينموات لف وتصليح — https://zulfi.azyz.site/shop/gm_85e4372e28e07a/
+- محمد للاتصالات جوال صيانة — https://zulfi.azyz.site/shop/gm_4c956de91ce751/
+- مركز الثويرات — https://zulfi.azyz.site/shop/gm_ef678def0367bc/
+- مركز الرعاية الصحية الاولية الخالدیة | Khalidiya Primary Healthcare Center — https://zulfi.azyz.site/shop/gm_e6ed59956bea61/
+- مركز العضيب للصيانة الزراعية — https://zulfi.azyz.site/shop/g_981fdd4e25c0b3/
+- مركز سمنان — https://zulfi.azyz.site/shop/gm_aa3fb5c14dee15/
+- مستودع مصنع مياه حياة المحدودة - الزلفي — https://zulfi.azyz.site/shop/gm_f703d82480fa69/
+- مسكن بلان — https://zulfi.azyz.site/shop/gm_4a396c4a6e3c5b/
+- مشعل للمفاتيح — https://zulfi.azyz.site/shop/gm_cb4eb279c49450/
+- مصنع العقيد للمنتجات البلاستيكية والليات الزراعية — https://zulfi.azyz.site/shop/gm_5ef0be1cd183a9/
+- مصنع المملكة للالمنيوم — https://zulfi.azyz.site/shop/gm_b22f4b8e650f04/
+- مصنع المنيوم العمار — https://zulfi.azyz.site/shop/gm_ff8864ffed77d1/
+- مصنع ألمونيوم النصار — https://zulfi.azyz.site/shop/gm_f437d511ba7010/
+- مكتب أراضي النخبة للعقارات و المزادات — https://zulfi.azyz.site/shop/gm_f59999083b11ce/
+- مكتب البديع للاستثمار العقاري — https://zulfi.azyz.site/shop/gm_b96944dfea3d1e/
+- مكتب التركي للعقارات — https://zulfi.azyz.site/shop/gm_eec3ba2abfd159/
+- مكتب الجبر للعقارات — https://zulfi.azyz.site/shop/gm_aa6a8a9f62b793/
+- مكتب الحمدان للخدمات الالكترونية — https://zulfi.azyz.site/shop/gm_1bd007d189d1bb/
+- مكتب الحيطان للعقارات — https://zulfi.azyz.site/shop/gm_a92b219146c10f/
+- مكتب الخبير للخدمات العامة — https://zulfi.azyz.site/shop/gm_3de2486982866c/
+- مكتب الركن المبدع للخدمات العامه — https://zulfi.azyz.site/shop/gm_18f5886731955e/
+- مكتب الشايع للعقارات — https://zulfi.azyz.site/shop/gm_5ec2d93c37dd52/
+- مكتب الضبيب للعقارات — https://zulfi.azyz.site/shop/gm_e4ad0a69ffb394/
+- مكتب العصيمي للنقل الجماعي — https://zulfi.azyz.site/shop/gm_715bea4ad87cdb/
+- مكتب الفايز للعقارات — https://zulfi.azyz.site/shop/gm_71a57aeda4f428/
+- مكتب اليحيا للإستشارات الهندسية — https://zulfi.azyz.site/shop/gm_5a5396e193e8d1/
+- مكتب جادة السيح — https://zulfi.azyz.site/shop/gm_c9878e04e2f59e/
+- مكتب حمود العقاري — https://zulfi.azyz.site/shop/gm_85b4ba0926fc56/
+- مكتب خدمات بلدية الزلفي — https://zulfi.azyz.site/shop/gm_a58c1368eb40fd/
+- مكتب ركن الحلول للخدمات العامه — https://zulfi.azyz.site/shop/gm_60e61f059baca6/
+- مكتب رواد الخدمات الإبداعية للخدمات الإلكترونية — https://zulfi.azyz.site/shop/gm_d9b2ade2f70347/
+- مكتب شايع للخدمات العامه — https://zulfi.azyz.site/shop/gm_96edd25618f3ff/
+- مكتب صالح عبدالرحمن الشايع للعقارات — https://zulfi.azyz.site/shop/gm_ca4500e827adfc/
+- مكتب طويق للعقارت — https://zulfi.azyz.site/shop/gm_aa7cfd595e6f89/
+- مكتب عنوان المستفيد للخدمات العامة — https://zulfi.azyz.site/shop/gm_80458b7494bda5/
+- مكتب متعب فهد المطير للعقارات — https://zulfi.azyz.site/shop/gm_890c1ffd8c4ddb/
+- مكتب مشع للخدمات العامة — https://zulfi.azyz.site/shop/gm_9eabf18897ec36/
+- مكتب ميدان الزلفي للعقارات — https://zulfi.azyz.site/shop/gm_fbd5f5d3677a96/
+- مكتب نوافذ الوفاء العقاري — https://zulfi.azyz.site/shop/gm_b41dfbcc1c0726/
+- مميز للإتصالات — https://zulfi.azyz.site/shop/gm_c287c0b5344ed4/
+- موبايلي | mobily — https://zulfi.azyz.site/shop/gm_956c627b589081/
+- نقطة الضوء لتركيب كاميرات المراقبة و الشبكات — https://zulfi.azyz.site/shop/gm_31de85624e310b/
+- هابي سيتي — https://zulfi.azyz.site/shop/gm_9227890bfc0567/
+- هدية الريف — https://zulfi.azyz.site/shop/gm_7706c8f1d404c5/
+- هنا الاحلام لألعاب الأطفال — https://zulfi.azyz.site/shop/gm_ec29fea8da0f16/
+- واحة الألوان للقرطاسية — https://zulfi.azyz.site/shop/gm_cfe64b153279db/
+- واحة القفز للترفية — https://zulfi.azyz.site/shop/gm_fe0bcc5e268b39/
+- وادي مرخ الزراعية — https://zulfi.azyz.site/shop/gm_6b8504655c8416/
+- وكالة اول بصمة للدعاية والاعلان — https://zulfi.azyz.site/shop/gm_20ff4b2359a73d/
+- وكالة عادل للدعاية والاعلان - الزلفي — https://zulfi.azyz.site/shop/gm_4a0e7e6ee4d232/
+- يوم المرح للترفيه — https://zulfi.azyz.site/shop/gm_ad829174c875a9/
+- AlSAEED للنظافة الذكية — https://zulfi.azyz.site/shop/gm_9be8f2a219c029/
+- Boutique ne abaya — https://zulfi.azyz.site/shop/gm_287e06ef08a0f6/
+- Imile Logistics — https://zulfi.azyz.site/shop/gm_614dc7b456925e/
+- OMNI LLAMA اومين لاما بوكس — https://zulfi.azyz.site/shop/gm_2d2b676e2d0bf3/
+- ROIBEK TRAVEL AGENCY — https://zulfi.azyz.site/shop/gm_1215b09dfbdf4a/
+- Service Point — https://zulfi.azyz.site/shop/gm_f032a568182066/
+- Shoe Mart - Zulfi — https://zulfi.azyz.site/shop/gm_e7789ccb967c58/
+- stc store — https://zulfi.azyz.site/shop/gm_9b0dc1d43843d5/
+- ዙልፊእራድ — https://zulfi.azyz.site/shop/gm_ba746085d0cd36/
+
+### أندية ورياضة
+- حراك جيم — https://zulfi.azyz.site/shop/gm_d9e4f2caebc1d0/
+- صالة نادي الحي بعلقة — https://zulfi.azyz.site/shop/g_a6a61333f58399/
+- قو فتنس Go Fitness — https://zulfi.azyz.site/shop/g_c2e9f0cfc89bda/
+- مفتاح الدائري — https://zulfi.azyz.site/shop/gm_9a1968dd14e1f8/
+- نادي الحي الترفيهي التعليمي بثانوية ابن باز بالزلفي — https://zulfi.azyz.site/shop/gm_46e4c895d0de0d/
+- نادي الزلفي السعودي — https://zulfi.azyz.site/shop/g_eccb76a1ee0a13/
+- نادي الماسة 2 — https://zulfi.azyz.site/shop/g_c0ad2362ba7651/
+- نادي بوم الرياضي — https://zulfi.azyz.site/shop/g_79f2b0a22b76e8/
+- نادي طويق الرياضي — https://zulfi.azyz.site/shop/g_85c14a0cffbf77/
+- نادي فهد — https://zulfi.azyz.site/shop/gm_32e504edc23fe5/
+- ناديك يناديك للمستلزمات الرياضية — https://zulfi.azyz.site/shop/g_e0c0eccf569b78/
+- Ideal Fitness الرشاقة المثالية فرع الزلفي — https://zulfi.azyz.site/shop/g_4a24758a57153d/
+
+### قاعات احتفالات
+- ‏ قاعة نسب آل راشد في المملكة العربية السعودية والخليج — https://zulfi.azyz.site/shop/gm_91c703f16d7701/
+- ابومشاري للحفلات — https://zulfi.azyz.site/shop/gm_fbafbb644bd77f/
+- استراحة وقاعة مودة — https://zulfi.azyz.site/shop/gm_70b5f9792b1773/
+- الفخامة للاحتفالات — https://zulfi.azyz.site/shop/gm_e21e2a919a78d7/
+- القاعة الماسية للاحتفالات والمؤتمرات — https://zulfi.azyz.site/shop/gm_b2551fa17f467b/
+- اليوم الرائع - لتجهيز الحفلات والمناسبات — https://zulfi.azyz.site/shop/gm_be843e481c35b8/
+- روائع الاربعين للأفراح والمناسبات — https://zulfi.azyz.site/shop/gm_1863fdd11e794c/
+- سمو نجد لتجهيز الحفلات والمناسبات — https://zulfi.azyz.site/shop/gm_186d0aeaa4da1d/
+- قاعة البدر — https://zulfi.azyz.site/shop/gm_1ed8559cabb0fc/
+- قاعة التميز للمناسبات — https://zulfi.azyz.site/shop/gm_bba2bef3618d83/
+- قاعة الثريا للمناسبات — https://zulfi.azyz.site/shop/gm_44590fc2eb653b/
+- قاعة الحمد للإحتفالات — https://zulfi.azyz.site/shop/gm_92bdb3d9ae381c/
+- قاعة الدانة للمناسبات الصغيرة — https://zulfi.azyz.site/shop/gm_dd2ce9565d874e/
+- قاعة الدرة — https://zulfi.azyz.site/shop/gm_f8502609e9eab5/
+- قاعة الطيار — https://zulfi.azyz.site/shop/gm_51e24c6f60262f/
+- قاعة الفراهيد — https://zulfi.azyz.site/shop/gm_48a70042e6d2b5/
+- قاعة الفرهود للمناسبات — https://zulfi.azyz.site/shop/gm_be535708b858e8/
+- قاعة الفهيد للاحتفالات — https://zulfi.azyz.site/shop/gm_2b44901c944e1b/
+- قاعة المعالي — https://zulfi.azyz.site/shop/gm_4056732f9d5d66/
+- قاعة النخبة — https://zulfi.azyz.site/shop/gm_b14de0d61ffe24/
+- قاعة اليمامة — https://zulfi.azyz.site/shop/gm_77d99fe4b1d439/
+- قاعة تواصل للاحتفالات — https://zulfi.azyz.site/shop/gm_cee7898963c38f/
+- قاعة خيال — https://zulfi.azyz.site/shop/gm_da719e199bbc10/
+- قاعة مزون المسرات للاحتفالات — https://zulfi.azyz.site/shop/gm_21ce4c6ef61b94/
+- قاعة Vip للمناسبات — https://zulfi.azyz.site/shop/gm_12672bfbe770b9/
+- كوش روائع الافراح والمناسبات — https://zulfi.azyz.site/shop/gm_a472fc653b792a/
+- لمسة المناسبات لتجهيز الحفلات وتغليف الهدايا — https://zulfi.azyz.site/shop/gm_9d6a3fb21563bb/
+- ليالي الافراح لتجهيز الحفلات والمناسبات — https://zulfi.azyz.site/shop/gm_1928f47cc676a6/
+- مؤسسة غاده عبدالله المجاهد للأفراح والمناسبات — https://zulfi.azyz.site/shop/gm_91445e93d87c3e/
+- ملفت — https://zulfi.azyz.site/shop/gm_d8bf71a9e5c7ca/
+- نيارة لتنسيق الاحتفالات والمناسبات — https://zulfi.azyz.site/shop/g_6a44648db02c20/
+- همسات 2 (قاعة احتفالات ) — https://zulfi.azyz.site/shop/g_e3063b9f7fac4f/
+
+### مقاولات وصيانة
+- أبراج الكهرباء للتجارة — https://zulfi.azyz.site/shop/g_9ff3b3bfa8cd12/
+- اركان سما للحداده والألمنيوم — https://zulfi.azyz.site/shop/gm_4837531d67e379/
+- ازدهار الزلفي للمقاولات — https://zulfi.azyz.site/shop/g_f96daa0f7c83c3/
+- اسس البداية للتكيف والتبريد — https://zulfi.azyz.site/shop/gm_6d3546c8e1a5dd/
+- اسمنت الطريقي للأسمنت — https://zulfi.azyz.site/shop/gm_2333f700e14fb9/
+- أشكال لأعمال التكييف والأجهزة المنزلية — https://zulfi.azyz.site/shop/g_79ee95b0e444f0/
+- افن للصيانه — https://zulfi.azyz.site/shop/g_24a7ae01660f2e/
+- الاعمال اللياسة العراجة للمقاولات — https://zulfi.azyz.site/shop/g_0165524050b55f/
+- البصمة الماسية للمقاولات — https://zulfi.azyz.site/shop/gm_c5118f3873c73e/
+- البيان والبنيان لمواد البناء — https://zulfi.azyz.site/shop/g_616da084b52bca/
+- الجروان لمواد البناء — https://zulfi.azyz.site/shop/g_ed64a7fad1261b/
+- الجريّد للكهرباء — https://zulfi.azyz.site/shop/g_3bcb6a7cf2d267/
+- الزويد للكهرباء والسباكه — https://zulfi.azyz.site/shop/gm_a10211d6dad0b9/
+- السعودية للطاقة - مكتب خدمات العملاء — https://zulfi.azyz.site/shop/gm_d78a64922cf710/
+- الصالح للأسمنت — https://zulfi.azyz.site/shop/gm_b3d93cb03b81b5/
+- الطيار للسباكة والكهرباء والسراميك — https://zulfi.azyz.site/shop/g_0eea44ef221e7c/
+- العضيب للحدادة — https://zulfi.azyz.site/shop/gm_702d924f58e0be/
+- العمار للسباكة والكهرباء — https://zulfi.azyz.site/shop/g_0670ebd489d442/
+- العمير للحديد — https://zulfi.azyz.site/shop/gm_62b83affa669d0/
+- المزن للسباكة والكهرباء — https://zulfi.azyz.site/shop/g_91b621b780bbdc/
+- المنيع لمواد البناء — https://zulfi.azyz.site/shop/gm_ec2fae08ab4210/
+- باب الإبتكار — https://zulfi.azyz.site/shop/gm_b9ff57af14af5f/
+- بصمتي للمقاولات — https://zulfi.azyz.site/shop/g_c8e2d55d6455ef/
+- بناية للمقاولات العامة وصيانة المنازل — https://zulfi.azyz.site/shop/g_7979228b75c537/
+- بيت الحرفة لمواد البناء — https://zulfi.azyz.site/shop/gm_662a801d52811b/
+- تاجير معدات ثقيلة — https://zulfi.azyz.site/shop/gm_01e3ab7b0f1e70/
+- تاجير مواطير كهرباء وجميع مواد الكهرباء — https://zulfi.azyz.site/shop/gm_270d45164edb05/
+- تطوير البناء — https://zulfi.azyz.site/shop/g_c643f09ccd29c7/
+- ثقة الجودة للتبريد والتكييف — https://zulfi.azyz.site/shop/gm_2b388faaa40327/
+- جليد الزلفي قطع غيار تبريد وتكييف — https://zulfi.azyz.site/shop/gm_43485ff56d7119/
+- جوهرة البناء — https://zulfi.azyz.site/shop/g_fa14c1c89b7239/
+- جوهرة الريادة للزجاج و الألمنيوم — https://zulfi.azyz.site/shop/gm_7dfabaeb962fa9/
+- حدادة العقيد — https://zulfi.azyz.site/shop/gm_32c2fe75dd3d24/
+- حمد البدر للتجارة — https://zulfi.azyz.site/shop/g_ff6a9d90f4b152/
+- درة العميد للحدادة والالمينيوم — https://zulfi.azyz.site/shop/gm_5d6d0cf89d3a42/
+- دكتور الأجواء للتكييف — https://zulfi.azyz.site/shop/g_fcda2a02c07a68/
+- دهانات جوتن — https://zulfi.azyz.site/shop/gm_4b73dc5b5a3c2f/
+- ركن التشييد للتجاره — https://zulfi.azyz.site/shop/g_f9d468d4907fc4/
+- ركن المساواة للأدوات الصحيه — https://zulfi.azyz.site/shop/gm_538881e7364fed/
+- رمز التشطيب — https://zulfi.azyz.site/shop/gm_d875dbad4a2d71/
+- سراج للكهرباء — https://zulfi.azyz.site/shop/gm_d74da0edfbf7fe/
+- سنا الإبداع للألمنيوم والزجاج — https://zulfi.azyz.site/shop/gm_9c7f16ade08534/
+- شركة أبناء حمد الأومير للمقاولات والخرسانة الجاهزة — https://zulfi.azyz.site/shop/gm_fa75d23b461393/
+- شركة أبناء سالم السالم السباكة — https://zulfi.azyz.site/shop/g_d25a50b2a9205c/
+- شركة الثويرات للمقاولات المحدودة — https://zulfi.azyz.site/shop/g_20d634b45984f6/
+- شركة الراجحي للصناعة والتجارة الوقفية (مواد بناء) Alrajhi Endowment Co. For Industry and Trade (Building Material) — https://zulfi.azyz.site/shop/gm_2935e29e3d5cf3/
+- شركة العارضي للتجارة والمقاولات — https://zulfi.azyz.site/shop/g_d7998d7092f419/
+- شركة العقيد للتجارة — https://zulfi.azyz.site/shop/g_88c37c3d0be585/
+- شركة امتياز العروبة للمقاولات — https://zulfi.azyz.site/shop/gm_7e232a29624771/
+- شركة بيت هايل Hail House Company — https://zulfi.azyz.site/shop/gm_f428a55949b310/
+- شركة حمد عبدالكريم البدر للمقاولات — https://zulfi.azyz.site/shop/g_a3eb1608fc02dc/
+- شركة دهانات عسيب — https://zulfi.azyz.site/shop/g_f61cf5bbe72bb6/
+- شركة ديماس للتجارة والمقاولات — https://zulfi.azyz.site/shop/gm_1d7a31e529ad28/
+- شركة قمم المستقبل المحدودة للمقاولات والاستثمار العقاري — https://zulfi.azyz.site/shop/g_9384eb72882387/
+- شركة ليريكو للأبواب الداخلية — https://zulfi.azyz.site/shop/g_42a73af2961c22/
+- شركة نخبة البيان للتجارة — https://zulfi.azyz.site/shop/g_53a0e2e0cb4186/
+- طراز البناء للسباكة — https://zulfi.azyz.site/shop/gm_b421ad36f285e3/
+- طلائع الزلفي للسباكة والكهرباء — https://zulfi.azyz.site/shop/g_17a0943bbe482f/
+- طوارىء الكهرباء — https://zulfi.azyz.site/shop/gm_2c1e41b1f9dc3b/
+- فال للبراغي والمسامير — https://zulfi.azyz.site/shop/gm_3c213e32d0242e/
+- فنی للتبرید — https://zulfi.azyz.site/shop/g_e81c1fcfdc7628/
+- قمم الدهان — https://zulfi.azyz.site/shop/gm_1adc3377c2c536/
+- لمسات فنية للديكور — https://zulfi.azyz.site/shop/gm_c5d66b6ec8d99e/
+- لمسة البناية للسباكة والكهرباء ( وكلاء معتمدين ) — https://zulfi.azyz.site/shop/g_a5caedfd874756/
+- ماسة سمحة لمواد البناء — https://zulfi.azyz.site/shop/g_87318fdfbed25f/
+- مؤسسة ابداع الحرفة لمواد البناء — https://zulfi.azyz.site/shop/g_7fe083c7e8fa30/
+- مؤسسة استبرق للمقاولات العامه — https://zulfi.azyz.site/shop/g_a4ba6bba00e6e8/
+- مؤسسة إعمار الزلفي للتشغيل والصيانة — https://zulfi.azyz.site/shop/g_02d57d4fbefb46/
+- مؤسسة اعمار الزلفي للمقاولات — https://zulfi.azyz.site/shop/gm_d82db4b7a4ecf9/
+- مؤسسة أكنان البنيان للمقاولات — https://zulfi.azyz.site/shop/g_fd2717a57b08f6/
+- مؤسسة التنهات للمقاولات والتطوير العقاري — https://zulfi.azyz.site/shop/g_6965327974ab4c/
+- مؤسسة الثقة | لمواد البناء والكهرباء — https://zulfi.azyz.site/shop/g_e120500ace08c0/
+- مؤسسة الجهز اجهزة كهربائية ومواد البناء — https://zulfi.azyz.site/shop/g_f6db7588d7c8ce/
+- مؤسسة الرميح للمقاولات — https://zulfi.azyz.site/shop/g_96d2d70648525e/
+- مؤسسة الصالح للتكييف والأجهزة المنزلية — https://zulfi.azyz.site/shop/gm_f080b33410fab7/
+- مؤسسة الطيار للتكييف والأجهزة المنزلية — https://zulfi.azyz.site/shop/g_d8b95e5e787297/
+- مؤسسة باسم للمقاولات — https://zulfi.azyz.site/shop/g_7159a2d0d64372/
+- مؤسسة باشر للمقاولات — https://zulfi.azyz.site/shop/gm_bd83f656cf06bd/
+- مؤسسة سعد مبارك للمقاولات العامة — https://zulfi.azyz.site/shop/g_cd9afa44c9be10/
+- مؤسسة سعود الدعفس للسباكة والكهرباء — https://zulfi.azyz.site/shop/gm_3fca52b170d766/
+- مؤسسة سلطان بن مزعل الأومير للمقاولات — https://zulfi.azyz.site/shop/g_b95d59bdff3806/
+- مؤسسة عبدالعزيز احمد الزويد للحدادة والمشغولات المعدنية — https://zulfi.azyz.site/shop/gm_fb751ac4068839/
+- مؤسسة علي الملحم للبلاط والسيراميك — https://zulfi.azyz.site/shop/gm_aba513f15ed958/
+- مؤسسة علي محمد الطريقي للمقاولات — https://zulfi.azyz.site/shop/gm_e3867b542074f2/
+- مؤسسة قصر الراحة للديكورات — https://zulfi.azyz.site/shop/gm_c1b727cc22e7d6/
+- مؤسسة كود البناء للمقاولات العامة خدمتنا /كشف تسريبات المياه بالجهاز — https://zulfi.azyz.site/shop/g_bd455605552760/
+- مؤسسة لونك للدهانات — https://zulfi.azyz.site/shop/gm_4bf619d4170045/
+- مؤسسة مزايا الحرفة للكهرباء والسباكة ومواد البناء — https://zulfi.azyz.site/shop/gm_0256a8d7c8b0bd/
+- مؤسسة ميدان اليمامة للمقاولات — https://zulfi.azyz.site/shop/gm_6e197a6380fe10/
+- مؤسسه ركن موارد نجد — https://zulfi.azyz.site/shop/gm_9c1475f9565eb7/
+- محل سباكة وكهرباء — https://zulfi.azyz.site/shop/g_d13cfe0fa03ca2/
+- محل محمد الاومير للكهرباء والإناره — https://zulfi.azyz.site/shop/g_b63045ba9816e9/
+- محل ناصر المشاري للكهرباء والإناره — https://zulfi.azyz.site/shop/g_003a135aa9bf96/
+- محلات نجارة — https://zulfi.azyz.site/shop/gm_c39d0fe7138713/
+- مسار للادوات الصحية والكهربائية جبس بورد دهانات — https://zulfi.azyz.site/shop/gm_58c2a7e406ee8c/
+- مستودع الضويحي للأدوات الصحية والكهرباء ومواد البناء — https://zulfi.azyz.site/shop/g_470e487a9b86be/
+- مستودع شركة امتياز العروبة — https://zulfi.azyz.site/shop/g_dc66cd3b4c7d57/
+- مصنع جدي الوطن للألمنيوم — https://zulfi.azyz.site/shop/gm_2f7b0ae6998995/
+- مصنع درة روزا للرخام و الجرانيت — https://zulfi.azyz.site/shop/gm_16e83e0b7013af/
+- مصنع ريف إشبيلية للحدادة والألمنيوم — https://zulfi.azyz.site/shop/gm_6b20764f9851ce/
+- مملكة الأنوار للتجارة — https://zulfi.azyz.site/shop/g_572c611e54336e/
+- منجرة عطااللة محمد العطااللة بالزلفي — https://zulfi.azyz.site/shop/gm_3c8acc36d411ed/
+- مواد كهرباء — https://zulfi.azyz.site/shop/gm_abb900e2797b82/
+- نجارة العقيد والدكورات والاثاث منجرة — https://zulfi.azyz.site/shop/gm_7028de73f13c87/
+- نجمة حكيم للكهرباء والانارة — https://zulfi.azyz.site/shop/g_5544514d57f27a/
+- نجوم العميد للحدادة والنجارة — https://zulfi.azyz.site/shop/gm_dbaebdc84341e9/
+- نظم الاجواء للتكييف — https://zulfi.azyz.site/shop/gm_d9348ccacb7392/
+- نفضة للحلول الكهربائية المتكاملة — https://zulfi.azyz.site/shop/g_528b575316227e/
+- نور الليالي للأضواء والكهرباء — https://zulfi.azyz.site/shop/gm_3abf2ec91057af/
+
+### مغاسل وخياطة
+- أصل الخليج للخياطة الرجالية — https://zulfi.azyz.site/shop/gm_c8bbcce218503c/
+- الطبقة المخملية — https://zulfi.azyz.site/shop/gm_9a2ec2c62f463c/
+- الغسيل الآمن — https://zulfi.azyz.site/shop/g_12e8b07c8d6613/
+- الفاخرة للخياطة الرجالية فرع الزلفي — https://zulfi.azyz.site/shop/gm_da41a328c14ff9/
+- المتمكن للخياطة الرجالية — https://zulfi.azyz.site/shop/g_dcd8226b5cadfd/
+- الـهـلا للـخـاطـة النسائية — https://zulfi.azyz.site/shop/gm_39b97f3c78afd1/
+- خياط ابرة نورة — https://zulfi.azyz.site/shop/gm_e8d01c3ba12ab3/
+- خياط اجمل اناقه للخياطه الرجاليه — https://zulfi.azyz.site/shop/g_d6f6db51c5752e/
+- خياط البيان — https://zulfi.azyz.site/shop/g_a2734964f784cf/
+- خياط الضباب للخياطة الرجالية — https://zulfi.azyz.site/shop/gm_f641dee3d25ab3/
+- خياط الطريقي — https://zulfi.azyz.site/shop/g_18b421e1d1864c/
+- خياط الفتاة الجميلة — https://zulfi.azyz.site/shop/gm_92db076499b4a7/
+- خياط الفن الحديث — https://zulfi.azyz.site/shop/gm_ff61880fdfdb76/
+- خياط المدينة — https://zulfi.azyz.site/shop/g_1812b8edc41bc5/
+- خياط المملكة — https://zulfi.azyz.site/shop/gm_6ce1a2733ff762/
+- خياط الوسام — https://zulfi.azyz.site/shop/g_b1a90a500b0b80/
+- خياط الوفاء — https://zulfi.azyz.site/shop/gm_9232637747248e/
+- خياط الوفاء بعلقة — https://zulfi.azyz.site/shop/gm_27362b362c55e3/
+- خياط أناقة الجيل الجديد — https://zulfi.azyz.site/shop/g_d675c14dbde7fe/
+- خياط بدرية — https://zulfi.azyz.site/shop/gm_b544d77cda0364/
+- خياط بصمة الدولي للخياطة الرجالية — https://zulfi.azyz.site/shop/g_8cecea9f033133/
+- خياط بصمة الماهر للخياطة الرجالية — https://zulfi.azyz.site/shop/g_dcf6eae065165f/
+- خياط ثوب لمسة للخياطة الرجالية — https://zulfi.azyz.site/shop/gm_8162d4e0842a49/
+- خياط حارة ربدان — https://zulfi.azyz.site/shop/gm_ccd2c210799aae/
+- خياط حيطان الأناقة — https://zulfi.azyz.site/shop/gm_b61f637ba44742/
+- خياط خبن للخياطة الرجالية — https://zulfi.azyz.site/shop/g_a98168de99e975/
+- خياط ركن المتمكن للخياطة الرجالية — https://zulfi.azyz.site/shop/gm_30bbbd9df46a48/
+- خياط سماء الاناقة — https://zulfi.azyz.site/shop/gm_336121324efbd2/
+- خياط شمس — https://zulfi.azyz.site/shop/gm_0046feeceba03f/
+- خياط قمة الاختيار — https://zulfi.azyz.site/shop/g_a0286ada529c8b/
+- خياط قمة الجزيرة — https://zulfi.azyz.site/shop/gm_ad05ece9cd7f06/
+- خياط لمسة المنتخب — https://zulfi.azyz.site/shop/gm_334d4cc57e3294/
+- خياط مركز الابداع للخياطة الرجالية — https://zulfi.azyz.site/shop/gm_81e21a58085554/
+- خياط موون للخياطة الرجالية — https://zulfi.azyz.site/shop/g_f8f7f08c74d125/
+- خياط نسائي — https://zulfi.azyz.site/shop/gm_06123b82b75dbf/
+- خياط يد مبدع للخياطة الرجالية — https://zulfi.azyz.site/shop/g_5f394ab4f06ddd/
+- خيتط — https://zulfi.azyz.site/shop/gm_c0fcae1ce4ebff/
+- ذكريات للخياطة الرجالية — https://zulfi.azyz.site/shop/gm_eac14947ed153d/
+- رغوه لغسيل الملابس — https://zulfi.azyz.site/shop/gm_844a98a6065f50/
+- ركن 360 للخياطة الرجالية — https://zulfi.azyz.site/shop/gm_12542408db71df/
+- ركن السدو للخيام ولوازم الرحلات — https://zulfi.azyz.site/shop/gm_ff2fa816209d47/
+- ركن النفود للوازم الرحلات خياطه - تفصيل — https://zulfi.azyz.site/shop/gm_c56bba123810ed/
+- ركـن الـهـلا للخـيـام — https://zulfi.azyz.site/shop/gm_a90d7d1e165f1d/
+- زاوية السبلة للوازم الرحلات — https://zulfi.azyz.site/shop/gm_68817cba33501e/
+- زاوية خيال للخياطة الرجالية — https://zulfi.azyz.site/shop/gm_ff0c36cb2f4f02/
+- شركه اطمن معانا للمطابخ والمغاسل اركان الحياه سابقا — https://zulfi.azyz.site/shop/gm_23f04a0201f2f8/
+- صفوة البياض لغسيل الملابس — https://zulfi.azyz.site/shop/gm_c97c93ee86bd93/
+- عنو للخياطة النسائية — https://zulfi.azyz.site/shop/gm_60463e0bceb3ff/
+- غربه رحمت الله — https://zulfi.azyz.site/shop/gm_4e607f366d0fe0/
+- فرح لوازم الخياطة — https://zulfi.azyz.site/shop/gm_dff8d76a059811/
+- لمسة أناقة للخياطة الرجالية — https://zulfi.azyz.site/shop/g_04d2a7f818aa83/
+- مثنى للخياطة الرجالية — https://zulfi.azyz.site/shop/g_66de1409ab742e/
+- مستر كلين — https://zulfi.azyz.site/shop/g_145b4f85ae1aab/
+- مغاسل أكلين — https://zulfi.azyz.site/shop/g_a220b09056c094/
+- مغاسل اكلين هوم — https://zulfi.azyz.site/shop/g_32b164df5aea76/
+- مغاسل الؤلؤ — https://zulfi.azyz.site/shop/g_3a3a9d9c60a30d/
+- مغاسل الامتياز للملابس — https://zulfi.azyz.site/shop/gm_75b1a30b92febd/
+- مغاسل الرهدن — https://zulfi.azyz.site/shop/g_97c96a1d0ec712/
+- مغاسل برق — https://zulfi.azyz.site/shop/g_45cb45bb068458/
+- مغاسل تاج السيح — https://zulfi.azyz.site/shop/g_ac8328d1c1baae/
+- مغاسل تاج السيح للملابس — https://zulfi.azyz.site/shop/g_879dd64df854d8/
+- مغاسل حديقة الريان — https://zulfi.azyz.site/shop/gm_0469108a9b1ce5/
+- مغاسل دنيا السلام — https://zulfi.azyz.site/shop/gm_0c63787c740f51/
+- مغاسل ذات الصواري — https://zulfi.azyz.site/shop/gm_ad035c09027d88/
+- مغاسل رمز السحاب — https://zulfi.azyz.site/shop/g_48752519c1804a/
+- مغاسل رمز السحاب 2 — https://zulfi.azyz.site/shop/gm_6ce2cb31cd5fcd/
+- مغاسل ريتاج الزلفي — https://zulfi.azyz.site/shop/g_b3e8e978a27e50/
+- مغاسل زاوية الإمتياز — https://zulfi.azyz.site/shop/gm_e927bc27ec449c/
+- مغاسل كلينا ناو — https://zulfi.azyz.site/shop/gm_a62b237e0c13ec/
+- مغاسل مستطيل — https://zulfi.azyz.site/shop/gm_2e6ff397473e9e/
+- مغاسل منفرد — https://zulfi.azyz.site/shop/g_18730c38261af2/
+- مغاسل نسيم الصابون — https://zulfi.azyz.site/shop/gm_4a443e009d46f0/
+- مغسلة — https://zulfi.azyz.site/shop/gm_390cbdab0846f6/
+- مغسلة اعتمد للملابس — https://zulfi.azyz.site/shop/gm_29f40db1d8528a/
+- مغسلة الجبر — https://zulfi.azyz.site/shop/gm_a157e29aaafd88/
+- مغسلة الجبر — https://zulfi.azyz.site/shop/g_01de04b529eeae/
+- مغسلة الريف الجميل لغسيل وكوي الملابس — https://zulfi.azyz.site/shop/g_e1e033304c4378/
+- مغسلة السلة — https://zulfi.azyz.site/shop/gm_8f4045395d79e6/
+- مغسلة الصفوه للملابس — https://zulfi.azyz.site/shop/gm_aaf8c2d1f14b37/
+- مغسلة الكوخ الساطع — https://zulfi.azyz.site/shop/gm_b7f737b9d9edca/
+- مغسلة المتمكنة — https://zulfi.azyz.site/shop/gm_39f44e6c974ecb/
+- مغسلة الموج بلس لغسيل الملابس — https://zulfi.azyz.site/shop/g_9e584062029303/
+- مغسلة برق الزلفي — https://zulfi.azyz.site/shop/gm_0aed83300d48fc/
+- مغسلة ركن الوادي الأخضر — https://zulfi.azyz.site/shop/gm_b14733e43a5d09/
+- مغسلة ركن بوابة النظافة — https://zulfi.azyz.site/shop/g_835d58c4a72196/
+- مغسلة صفوة أنهار — https://zulfi.azyz.site/shop/gm_036dd8730aa977/
+- مغسلة قمة النظافة — https://zulfi.azyz.site/shop/gm_3d6b66a139a5f9/
+- مغسلة مربع لغسيل الملابس — https://zulfi.azyz.site/shop/g_fbdc010c07807e/
+- مغسلة ملابس — https://zulfi.azyz.site/shop/g_c1d020db747c86/
+- مغسلة ملابس — https://zulfi.azyz.site/shop/g_d80b8d157c22e6/
+- مغسلة ملابس لمعة حطين — https://zulfi.azyz.site/shop/gm_a57c6ca4f1a562/
+- مغسلة منبع الراحة — https://zulfi.azyz.site/shop/gm_d14a28140de1c7/
+- مغسلة هبايب نجد — https://zulfi.azyz.site/shop/gm_dd3884a83e9f00/
+- مغسلة وغيار زيت الميدان — https://zulfi.azyz.site/shop/gm_188064f89db773/
+- مغسله منبع التميز — https://zulfi.azyz.site/shop/gm_f5af10df413a91/
+- نجد الأسطورة — https://zulfi.azyz.site/shop/g_48aa200b200200/
+
+### مخابز وحلويات
+- آيسكريم فرمت عطشك — https://zulfi.azyz.site/shop/g_b0365dd04489f9/
+- الديرة للحلويات — https://zulfi.azyz.site/shop/g_979a6c8fd3c11f/
+- الزلفي دوار الطيبات — https://zulfi.azyz.site/shop/gm_4b3aae1bebe8cb/
+- الكيك المميز — https://zulfi.azyz.site/shop/g_96da4a30c2ecf7/
+- بحر الشوكولاتة — https://zulfi.azyz.site/shop/gm_4461af6c8b3b2d/
+- بسكوتة وحلاوة — https://zulfi.azyz.site/shop/g_a35ce6d9986673/
+- بلح اللقيمات — https://zulfi.azyz.site/shop/gm_56bce4bb9a5cdf/
+- بوابة الحلوى — https://zulfi.azyz.site/shop/gm_7d01936a0cb3db/
+- تشكيلة اللقيمات — https://zulfi.azyz.site/shop/gm_22c2d282ab2b7a/
+- جديد الكنافة — https://zulfi.azyz.site/shop/gm_c236d67450b95e/
+- حطابة للحلويات — https://zulfi.azyz.site/shop/gm_6e0a30042d6324/
+- حطابة للحلويات 2 — https://zulfi.azyz.site/shop/gm_d01e67309c8085/
+- حلاو Sweet — https://zulfi.azyz.site/shop/g_19ec363384d93a/
+- حلويات أحلا حلى الزلفى — https://zulfi.azyz.site/shop/g_e97e2e7e913ae4/
+- حلويات الوطن حي الفالح — https://zulfi.azyz.site/shop/gm_32e7d4088d346d/
+- حلويات جواهر سلتي — https://zulfi.azyz.site/shop/gm_368d19fe458809/
+- حلويات قوتي | الزلفي — https://zulfi.azyz.site/shop/g_af18d217e8bac4/
+- حلويات لوسا (كيك وشوكولاتة) — https://zulfi.azyz.site/shop/g_5781be5bf332cc/
+- خبز صاج( خبز تميس خفيف) — https://zulfi.azyz.site/shop/g_7e3d654506b971/
+- خلية الاربعين وكنافة — https://zulfi.azyz.site/shop/gm_336fe1f4a4648e/
+- خلية الرابعة — https://zulfi.azyz.site/shop/g_5f2d8174bcd9fe/
+- خلية ليلى — https://zulfi.azyz.site/shop/gm_5f76d515932228/
+- راما سويت للموادالغذائيةوالحلويات — https://zulfi.azyz.site/shop/gm_f99ec52e4c7857/
+- ركن كيك وحلاوة — https://zulfi.azyz.site/shop/gm_4488cdb9e3f325/
+- ساينفل | cinnaffle — https://zulfi.azyz.site/shop/gm_e748dfda47a13d/
+- سكة حلا للحلويات — https://zulfi.azyz.site/shop/g_5e46fa65d750e1/
+- شبّاك ١٧ - Shubbak 17 — https://zulfi.azyz.site/shop/g_89db79325b14e5/
+- فرّش سينابون — https://zulfi.azyz.site/shop/g_627ff3cf3cc536/
+- فستق وسكر — https://zulfi.azyz.site/shop/g_ec863dbdc278a1/
+- فوال الزلفي — https://zulfi.azyz.site/shop/gm_862e90b2180f3f/
+- قرصان اليمامة — https://zulfi.azyz.site/shop/gm_91ca09aba091f5/
+- قرصان روائع القمم — https://zulfi.azyz.site/shop/gm_50b221cc9aba20/
+- قطوف النخيل — https://zulfi.azyz.site/shop/gm_d265e1a77b0e6b/
+- قلعة الحلا — https://zulfi.azyz.site/shop/g_03a631b9a8b934/
+- قمحيات — https://zulfi.azyz.site/shop/g_421f5543ccb692/
+- كنافة ريف — https://zulfi.azyz.site/shop/gm_564d801f6dbd17/
+- كنافة ريف القادة — https://zulfi.azyz.site/shop/gm_c2fd9b0f52bac6/
+- كنافه عصمت ( كنافه تايم سابقاً) — https://zulfi.azyz.site/shop/gm_9711e22aa69e4c/
+- كنوز الحلوى — https://zulfi.azyz.site/shop/g_cdade4c0114b2b/
+- كوخ الحلوى — https://zulfi.azyz.site/shop/g_1730709508d1f9/
+- كيك وقرفة — https://zulfi.azyz.site/shop/g_ad672a141d44f3/
+- مادما للحلويات — https://zulfi.azyz.site/shop/g_c90677a84a210d/
+- ‏مخابز فرن لينا — https://zulfi.azyz.site/shop/g_03e49095ba3cff/
+- مخبز — https://zulfi.azyz.site/shop/g_d1a9c730eeb01e/
+- مخبز أركان التعاون — https://zulfi.azyz.site/shop/gm_8ecc1a0f6b33fe/
+- مخبز الخبز المصري — https://zulfi.azyz.site/shop/g_e7873ca95d7457/
+- مخبز الديرة للحلويات (2) — https://zulfi.azyz.site/shop/g_32f16fa82f8cba/
+- مخبز المشراق — https://zulfi.azyz.site/shop/g_9798123ecd8324/
+- مخبز تلال الملقا — https://zulfi.azyz.site/shop/gm_06980f3d182697/
+- مخبز رغيف قوت — https://zulfi.azyz.site/shop/g_93703d03a76d3d/
+- مخبز ركن شعبيات — https://zulfi.azyz.site/shop/g_c19fe1779c8c72/
+- مخبز صبح المصري — https://zulfi.azyz.site/shop/gm_fa958152b87248/
+- مخبز عادي يدوي — https://zulfi.azyz.site/shop/gm_b57bdb2913d44e/
+- مخبز عدس وفول للخبز — https://zulfi.azyz.site/shop/gm_6305bbc5a36210/
+- مخبز فوال ركن ورد — https://zulfi.azyz.site/shop/g_3a18a1a9d3e06e/
+- مخبز قوت المدينة — https://zulfi.azyz.site/shop/g_1a3019cd6a9a86/
+- مخبز ناصر اساليم — https://zulfi.azyz.site/shop/gm_80e4b212d3b958/
+- مخبز و فوال ناصر السالم — https://zulfi.azyz.site/shop/gm_ed47377ac249a2/
+- مخبز وحلويات الخليج — https://zulfi.azyz.site/shop/g_3b7164078fb3eb/
+- مخبز وفوال — https://zulfi.azyz.site/shop/g_3fa2bb97973608/
+- مخبز وفول ركن الرغد — https://zulfi.azyz.site/shop/gm_e7f49034fcf4ec/
+- مخبزکابل — https://zulfi.azyz.site/shop/gm_e2b94ccea6e067/
+- مروج الطبيعة للحلويات والمخبوزات — https://zulfi.azyz.site/shop/gm_1425288baf9336/
+- نيو سوبرايز New surprise ورد وشوكولاتة — https://zulfi.azyz.site/shop/gm_f36decf5197d52/
+- هاي تشوكلت — https://zulfi.azyz.site/shop/gm_7313aedeea3cbc/
+- وردة الحلويات — https://zulfi.azyz.site/shop/gm_70f9e706f901b0/
+- Choco house zulfi — https://zulfi.azyz.site/shop/gm_00bf0553a2af07/
+
+### تعليم وتدريب
+- الرياحين ،الزلفي ،سمنان — https://zulfi.azyz.site/shop/gm_704e3f17535c47/
+- الرياحين أولاد — https://zulfi.azyz.site/shop/gm_540adb2c9446e9/
+- المركز الأول النسائي للحاسب الآلي واللغة الإنجليزية — https://zulfi.azyz.site/shop/gm_17788f43e93698/
+- المعهد الأول — https://zulfi.azyz.site/shop/gm_9933f0f79a67b8/
+- دار النور النسائي لتحفيظ القرآن الكريم — https://zulfi.azyz.site/shop/gm_4fe86dfb4222e2/
+- روضة الأطفال العاشرة — https://zulfi.azyz.site/shop/gm_01973c68383c5f/
+- روضة أنجال الزلفي الأهلية الأولى — https://zulfi.azyz.site/shop/gm_9a33c71709f581/
+- روضة انجال الزلفي الثانية — https://zulfi.azyz.site/shop/gm_48bb97ed2ac321/
+- روضة براعم الزلفي الأهلية — https://zulfi.azyz.site/shop/gm_b5696f210cfd33/
+- روضة واحة الرياحين الأولى — https://zulfi.azyz.site/shop/gm_930d5a7b3b6370/
+- روضة واحة الرياحين الثانية — https://zulfi.azyz.site/shop/gm_12640ecc24b8f8/
+- روضة واحة الرياحين الرابعة — https://zulfi.azyz.site/shop/gm_b34d31843c97b7/
+- سماء الصغار | Sky kids — https://zulfi.azyz.site/shop/gm_0fff81a049f37a/
+- شركة تكوين المعرفة للتعليم — https://zulfi.azyz.site/shop/gm_babbad7e961ca2/
+- مركز التمكين الشامل للرعاية النهارية — https://zulfi.azyz.site/shop/gm_7dc99be5550400/
+- مركز ضيافة الأطفال — https://zulfi.azyz.site/shop/gm_957583183659b5/
+- مركز قياس — https://zulfi.azyz.site/shop/gm_9feb5e5652e2ac/
+- مركز نجوم الأنجال — https://zulfi.azyz.site/shop/gm_4dfdcb226db0bf/
+- معهد جسور التمكين — https://zulfi.azyz.site/shop/gm_df992b812251e1/
+
+### مزارع ومشاتل ومواشي
+- أعسال برية — https://zulfi.azyz.site/shop/gm_c18485e89c5c1d/
+- التعاونية للأعلاف — https://zulfi.azyz.site/shop/gm_b953d29f0ee040/
+- الطريقي للاعلاف — https://zulfi.azyz.site/shop/gm_fa990041a55c42/
+- سوق الماشية — https://zulfi.azyz.site/shop/gm_7efc15c221e77b/
+- صالة الزلفي لسلالات الأغنام وتحسين الإنتاج — https://zulfi.azyz.site/shop/gm_e26a6033f2d6bf/
+- صيدلية الخليج البيطرية — https://zulfi.azyz.site/shop/g_492a348c2826b5/
+- صيدلية بيطرية — https://zulfi.azyz.site/shop/g_7a307554da6465/
+- فيصل لبيع المواشي — https://zulfi.azyz.site/shop/gm_c1447b60615d3a/
+- قليب طوالة — https://zulfi.azyz.site/shop/gm_566bcf00e88bd9/
+- مزرعة الفارسيه للإيجار اليومي — https://zulfi.azyz.site/shop/gm_7b8c91d600b9ae/
+- مزرعة اللسابا — https://zulfi.azyz.site/shop/gm_feba1769fd2ad7/
+- مزرعة المحبة — https://zulfi.azyz.site/shop/gm_c42cb26eb9e991/
+- مزرعة تولين — https://zulfi.azyz.site/shop/gm_94ebabbdce5dc2/
+- مزرعة زليفات — https://zulfi.azyz.site/shop/gm_5bcb1b041d013c/
+- مزرعة عناد بنيدر(ونعم) — https://zulfi.azyz.site/shop/gm_801236da30f084/
+- مزرعة وإستراحة البرقا — https://zulfi.azyz.site/shop/gm_9b4afa3565104b/
+- مشاتل السّارة — https://zulfi.azyz.site/shop/gm_21961f672d1078/
+- مشاتل الشام — https://zulfi.azyz.site/shop/gm_b0988315ed7c3a/
+- مشتل أكاليل — https://zulfi.azyz.site/shop/gm_99969d5066be58/
+- مشتل الرابية الخضراء — https://zulfi.azyz.site/shop/gm_0a1ddf55cfc335/
+- مشتل الرحمانية — https://zulfi.azyz.site/shop/gm_3ee95f13a3ade5/
+- مشتل الياسمين — https://zulfi.azyz.site/shop/gm_608f1163ef976f/
+- مشتل بلديه محافظة الزلفي — https://zulfi.azyz.site/shop/gm_91f16b0245db2e/
+- مشتل ركن الربيع — https://zulfi.azyz.site/shop/gm_022d1a781aa280/
+- مشتل ميسم الزراعي — https://zulfi.azyz.site/shop/gm_a05f5ffe543dc5/
+- مشتل وادي مرخ الزراعية — https://zulfi.azyz.site/shop/gm_3e1376ce6918a8/
+- مناحل حجرف — https://zulfi.azyz.site/shop/gm_504fbeb8ed31aa/
+
+### عقارات ومكاتب
+- قيم الازدهار العقاري (المنيع) — https://zulfi.azyz.site/shop/gm_d7de9d3be0f703/
+- مكتب الشبل الهندسي — https://zulfi.azyz.site/shop/g_a86f8011604d70/
+- مكتب المحامي عثمان بن أحمد الدويش للمحاماة — https://zulfi.azyz.site/shop/gm_9e5594202f4579/
+- مكتب الهويشان للتسويق العقاري وتنظيم المزادات — https://zulfi.azyz.site/shop/gm_0009ff015e97ad/
+- مكتب تيجان الأصالة للإستشارات الهندسية — https://zulfi.azyz.site/shop/g_e945f52df48d8a/
+- مكتب خالد فوزان الفايز للمحاماة والاستشارات القانونية — https://zulfi.azyz.site/shop/gm_75cc41535ef82a/
+- مكتب خطوط السماء الهندسي — https://zulfi.azyz.site/shop/g_05d880653e9955/
+- مكتب عبدالمحسن الباتل للاستشارات الهندسية — https://zulfi.azyz.site/shop/gm_41d57825dbecf7/
+- مكتب فكرة البناء للإستشارات الهندسية — https://zulfi.azyz.site/shop/g_33cb477d32aad8/
+
+### تصوير وطباعة وهدايا
+- اثر البنفسج — https://zulfi.azyz.site/shop/gm_96fca5c98b30af/
+- استديو بكسل للتصوير النسائي — https://zulfi.azyz.site/shop/g_974ace6b3e80d7/
+- استديو ذكريات الزلفي النسائي — https://zulfi.azyz.site/shop/g_2e6207b3321948/
+- استديو طريق المدينة للتصوير الفوتوغرافي Photography — https://zulfi.azyz.site/shop/g_4cb9e2a177280f/
+- أغصان الورد ورد وهدايا — https://zulfi.azyz.site/shop/gm_390079fb8fd0e2/
+- الاستديو التعليمي بالزلفي — https://zulfi.azyz.site/shop/g_a69ccb43a50b55/
+- المكتبة الأحمدية — https://zulfi.azyz.site/shop/gm_18d5ca12305eb9/
+- الوقت لحظة للطباعه والتصوير — https://zulfi.azyz.site/shop/g_03787400722585/
+- انفاسك ورد — https://zulfi.azyz.site/shop/gm_d284f1010abfd1/
+- تغليف أوركيد للهدايا — https://zulfi.azyz.site/shop/gm_379881b77b9c69/
+- خدمات عامه الخبير — https://zulfi.azyz.site/shop/gm_7faf847a2cef0b/
+- زهرة الأريس للورد والهدايا — https://zulfi.azyz.site/shop/gm_fd4b7ca0f4538d/
+- سلمى للهدايا — https://zulfi.azyz.site/shop/gm_9dd0f8d0b733dd/
+- صفوة خدمات الأنجاز — https://zulfi.azyz.site/shop/gm_c887056f4a4dc2/
+- صندوق السعادة للهدايا — https://zulfi.azyz.site/shop/gm_cb655e68cc97f8/
+- عالم أزهار الكرز — https://zulfi.azyz.site/shop/gm_3b27d35a70505b/
+- مؤسسة ورقة المكتب للطباعة والتصوير — https://zulfi.azyz.site/shop/g_18728b5d310d1e/
+- مركز الفاروق للتصوير والطباعة واصلاح آلات الطباعة — https://zulfi.azyz.site/shop/gm_672a4ff7f2bf42/
+- مركز ملف للطباعه والتصوير — https://zulfi.azyz.site/shop/g_3eb2e49b770e10/
+- مركز نسخ طباعة تصوير — https://zulfi.azyz.site/shop/g_96072597ba037b/
+- مطابع الشهداء — https://zulfi.azyz.site/shop/gm_c3fef4175a96b0/
+- مطبعة زوايا اليانا — https://zulfi.azyz.site/shop/gm_3b404bbf270ace/
+- مكتبة الشيخ أ.د. عبدالله بن محمد الطيار — https://zulfi.azyz.site/shop/gm_d7a2057a7d7f5a/
+- مكتبة الشيخ ابوقاسم — https://zulfi.azyz.site/shop/gm_298ee54595db58/
+- مكتبة الفاروق — https://zulfi.azyz.site/shop/gm_794521189aed8c/
+- مكتبة طلاب العلم للنسخ والتصوير والادوات المدرسية — https://zulfi.azyz.site/shop/g_ac95c5cfa4cd1e/
+- مكتبة عالم البحوث — https://zulfi.azyz.site/shop/gm_0ca055c945463b/
+- مكتبة مدار الحروف — https://zulfi.azyz.site/shop/g_cd918ee8c414e1/
+- مكتبه الساحل للطباعة والنسخ والتصوير — https://zulfi.azyz.site/shop/g_fd8acc79c1c53f/
+
+### نقليات
+- استي كاركو شحن للهند — https://zulfi.azyz.site/shop/gm_1def8e07a7938e/
+- التيار السريع - فرع الزلفي — https://zulfi.azyz.site/shop/gm_aedc9857363ed3/
+- السويكت لتأجير المعدات والخزانات — https://zulfi.azyz.site/shop/gm_1f7265ad2b624a/
+- توصيل مشاوير — https://zulfi.azyz.site/shop/gm_a9f82b405edbba/
+- جسور السفر للسفر والسياحة — https://zulfi.azyz.site/shop/gm_5015e9a5357db3/
+- حملة المشاعر للعمرة — https://zulfi.azyz.site/shop/gm_909f9c8bafcc44/
+- ركن الحجز السفر السياحة — https://zulfi.azyz.site/shop/gm_575ecc9a408d49/
+- زاجل — https://zulfi.azyz.site/shop/gm_b440dd4950e9be/
+- سطحات ونقليات الزلفي — https://zulfi.azyz.site/shop/gm_23d8af6ed29222/
+- سطحة الزلفي — https://zulfi.azyz.site/shop/g_997938df22ef39/
+- سطحة الزلفي ابوفهد لنقل السيارات داخل وخارج الزلفي — https://zulfi.azyz.site/shop/g_f99e2ceb9b4412/
+- سطحة كرين الزلفي — https://zulfi.azyz.site/shop/gm_4e16ef59a5a05a/
+- سطحه ابو سليمان الزلفي هيدروليك وعايدي — https://zulfi.azyz.site/shop/g_2c62815c1d63d5/
+- شركة أبناء سليمان احمد الخميس للنقليات — https://zulfi.azyz.site/shop/gm_4330beb4c9bead/
+- شركة سمسا للنقل — https://zulfi.azyz.site/shop/gm_6df9aee9ceb198/
+- شيب الفحام — https://zulfi.azyz.site/shop/gm_f9303d66c5d63b/
+- مؤسسة عبدالرحمن الفرهود لتأجير المعدات الثقيلة — https://zulfi.azyz.site/shop/gm_f2b779a19b1dfc/
+- مكتب الرويبخ للسفر والسياحة — https://zulfi.azyz.site/shop/gm_985631419b665f/
+- نقليات سليمان الرومي — https://zulfi.azyz.site/shop/gm_d86b6fb0cced4c/

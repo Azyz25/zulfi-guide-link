@@ -1,0 +1,86 @@
+User-agent: *
+Allow: /
+Disallow: /merchant/
+Disallow: /open/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /merchant/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /merchant/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /merchant/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /merchant/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /merchant/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /merchant/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /merchant/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /merchant/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /merchant/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /merchant/
+
+User-agent: Applebot
+Allow: /
+Disallow: /merchant/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /merchant/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /merchant/
+
+User-agent: CCBot
+Allow: /
+Disallow: /merchant/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /merchant/
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /merchant/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /merchant/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /merchant/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /merchant/
+
+User-agent: YouBot
+Allow: /
+Disallow: /merchant/
+
+Sitemap: https://zulfi.azyz.site/sitemap.xml

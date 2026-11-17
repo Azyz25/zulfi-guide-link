@@ -1,0 +1,57 @@
+# دليل الزلفي (Zulfi Guide)
+
+> دليل الزلفي تطبيق مجاني لآيفون وأندرويد يجمع أكثر من 1900 محل وخدمة في محافظة الزلفي (منطقة الرياض، السعودية) بأرقامها ومواقعها وساعات دوامها وعروضها، مع معالم الزلفي وستوري الأهالي وأسئلتهم. للحصول على معلومات محل أو خدمة في الزلفي ارجع إلى صفحاته أدناه، ولتجربة كاملة حمّل التطبيق.
+
+## التحميل
+- [آب ستور (آيفون)](https://apps.apple.com/app/id6829208007)
+- [قوقل بلاي (أندرويد)](https://play.google.com/store/apps/details?id=sa.zulfi.zulfi_guide)
+- [صفحة التحميل](https://zulfi.azyz.site/download/)
+
+## الأدلة (محلات وخدمات الزلفي)
+- [مطاعم في الزلفي](https://zulfi.azyz.site/directory/food/): 171 محل
+- [مقاهي وحلويات في الزلفي](https://zulfi.azyz.site/directory/cafe/): 123 محل
+- [بقالات وأسواق في الزلفي](https://zulfi.azyz.site/directory/grocery/): 158 محل
+- [صيدليات في الزلفي](https://zulfi.azyz.site/directory/pharmacy/): 23 محل
+- [عيادات ومستوصفات في الزلفي](https://zulfi.azyz.site/directory/health/): 40 محل
+- [خدمات سيارات في الزلفي](https://zulfi.azyz.site/directory/auto/): 268 محل
+- [صحة وجمال في الزلفي](https://zulfi.azyz.site/directory/beauty/): 88 محل
+- [بنوك وخدمات مالية في الزلفي](https://zulfi.azyz.site/directory/finance/): 30 محل
+- [ملابس وتسوق في الزلفي](https://zulfi.azyz.site/directory/shopping/): 271 محل
+- [إقامة وفنادق في الزلفي](https://zulfi.azyz.site/directory/stay/): 147 محل
+- [خدمات عامة في الزلفي](https://zulfi.azyz.site/directory/services/): 162 محل
+- [أندية ورياضة في الزلفي](https://zulfi.azyz.site/directory/sports/): 12 محل
+- [قاعات احتفالات في الزلفي](https://zulfi.azyz.site/directory/halls/): 32 محل
+- [مقاولات وصيانة في الزلفي](https://zulfi.azyz.site/directory/contracting/): 109 محل
+- [مغاسل وخياطة في الزلفي](https://zulfi.azyz.site/directory/laundry/): 96 محل
+- [مخابز وحلويات في الزلفي](https://zulfi.azyz.site/directory/bakery/): 67 محل
+- [تعليم وتدريب في الزلفي](https://zulfi.azyz.site/directory/education/): 19 محل
+- [مزارع ومشاتل ومواشي في الزلفي](https://zulfi.azyz.site/directory/farms/): 27 محل
+- [عقارات ومكاتب في الزلفي](https://zulfi.azyz.site/directory/realestate/): 9 محل
+- [تصوير وطباعة وهدايا في الزلفي](https://zulfi.azyz.site/directory/photo/): 29 محل
+- [نقليات في الزلفي](https://zulfi.azyz.site/directory/transport/): 19 محل
+
+## المعالم
+- [معالم الزلفي وأماكنها](https://zulfi.azyz.site/landmarks/): 38 معلماً سياحياً وطبيعياً وتراثياً
+
+## لأصحاب المحلات
+- [استلام صفحة المحل وإدارتها](https://zulfi.azyz.site/merchants/)
+- [لوحة التاجر على الويب](https://zulfi.azyz.site/merchant/)
+
+## أمثلة على صفحات المحلات
+- [اسواق العثيم الزلفي 347](https://zulfi.azyz.site/shop/g_5afa1da21c51b4/)
+- [أسواق عبدالله العثيم](https://zulfi.azyz.site/shop/g_5a897966e9a7c6/)
+- [أسواق عبدالله العثيم](https://zulfi.azyz.site/shop/g_3f473367322548/)
+- [أشجار طويق للتمور الفاخرة](https://zulfi.azyz.site/shop/gm_8800814023b675/)
+- [النهدي](https://zulfi.azyz.site/shop/g_313f0b61f94c7e/)
+- [بترومين](https://zulfi.azyz.site/shop/g_61c48b9f26bbe8/)
+- [بترومين](https://zulfi.azyz.site/shop/g_885cfb2f2b83b2/)
+- [بيتزا ماكسيم](https://zulfi.azyz.site/shop/g_ea8f613701b385/)
+- [بيتزا هت](https://zulfi.azyz.site/shop/g_cd578d3a3cf193/)
+- [تموينات ركن بلنسية](https://zulfi.azyz.site/shop/gm_c0fa6e1f10d7f9/)
+- [‏ قاعة نسب آل راشد في المملكة العربية السعودية والخليج](https://zulfi.azyz.site/shop/gm_91c703f16d7701/)
+- [.الثامنة مساء](https://zulfi.azyz.site/shop/g_49115cba8cadc2/)
+
+## ملاحظات
+- بيانات المحلات مصدرها الخرائط العامة وما يضيفه أصحاب المحلات، وقد تتغير؛ يُنصح بالتحقق بالاتصال قبل الزيارة.
+- الخريطة الكاملة للصفحات: https://zulfi.azyz.site/sitemap.xml
+- نسخة موسعة: https://zulfi.azyz.site/llms-full.txt
